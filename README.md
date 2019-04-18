@@ -1,4 +1,4 @@
-# In international solidarity, Microsoft (and Github) workers declare support for China's 996.ICU movement
+# Microsoft and Github workers declare support for China's 996.ICU movement
 
 Chinese tech workers are using Github to protest the greuling work hours in China's tech industry. The repository is titled 996.ICU. 996 represents the working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.icu Github project description. Chinese tech workers have been starring the Github repository as a way of showing their support. In the span of a few weeks, the project has been starred over 200,000 times making it one of the fastest growing Github projects in the service's history.
 
