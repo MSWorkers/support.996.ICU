@@ -20,5 +20,8 @@ To add your name to the list of supporters, make a pull-request with your name a
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Micosoft employees periodically as signatures are added.
 
+---
+Supported by:
+
 - XXX, Microsoft Software Engineer
 - XXX, Microsoft Software Engineer
