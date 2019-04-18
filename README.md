@@ -16,6 +16,6 @@ To other tech workers and industry supporters, we urge that you join us in our s
 
 To add your name to the list of supporters, make a pull-request with your name and affiliation, as you’d like it to appear on the list of signatories. Read me about adding yourself as a supporter [here](CONTRIBUTING.md).
 
-> * We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating this post periodically as signatures are added.
+> \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating this post periodically as signatures are added.
 
 XXX, Microsoft Software Engineer
