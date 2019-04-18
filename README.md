@@ -10,7 +10,9 @@ Most important for the 996.ICU movement is that Github is accessible in China. I
 
 In response to these events, we, the workers of Microsoft and Github, support of the 996.ICU movement and stand in solidarity with tech workers in China. In doing so, we encourage Microsoft, a company that firmly believes in a healthy work-life balance, to under no circumstances, remove the repository from Github. To the best of its ability, we will continue to support the 996.ICU movement, and its ability to effectively use Github as a platform to spread the voices and stories of Chinese tech workers. 
 
-1 Microsoft Employees*
+Signed,
+
+__25 Microsoft Employees*__
 
 To other tech workers and industry supporters, we urge that you join us in our support of the 996.ICU movement. 
 
@@ -18,4 +20,5 @@ To add your name to the list of supporters, make a pull-request with your name a
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Micosoft employees periodically as signatures are added.
 
+XXX, Microsoft Software Engineer
 XXX, Microsoft Software Engineer
