@@ -1,6 +1,5 @@
 # Microsoft and Github workers declare support for China's 996.ICU movement
-
-## 微软和Github员工宣布支持中国的996.icu运动
+# 微软和Github员工宣布支持中国的996.icu运动
 
 Chinese tech workers are using Github to bring attention to the illegal labor practices at many companies in the Chinese tech industry. The Github project is titled [996.ICU](https://github.com/996icu/996.ICU). 996 represents the working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.icu Github project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention. 
 
@@ -24,9 +23,9 @@ In response to these events, we, the workers of Microsoft and Github, support of
 
 Signed,
 
-签名，
-
 __25 Microsoft Employees*__
+
+签名，
 
 __25名微软员工*__
 
@@ -40,19 +39,13 @@ To add your name to the list of supporters, make a pull-request with your name a
 
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Micosoft employees periodically as signatures are added.
-
+> 
 > \* 我们在微软内部发起该请愿的同时对外公开了请愿书。随着支持者人数不断增多，我们会定期更新已签名的Microsoft员工的数量。
 
 ---
-Supported by:
+Supported by / 支持者:
 
 - XXX, Microsoft Software Engineer
 - XXX, Microsoft Software Engineer
-
-支持者：
-
-
-XXX，微软软件工程师
-
-XXX，微软软件工程师
+- XXX，微软软件工程师
 
