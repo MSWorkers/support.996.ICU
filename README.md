@@ -1,7 +1,7 @@
 # Microsoft and GitHub Workers Support 996.ICU
 # 微软和GitHub员工宣布支持996.ICU运动
 
-Tech workers in China started a GitHub GitHub repository titled [996.ICU](https://github.com/996icu/996.ICU), a reference to the grueling working conditions of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention.
+Tech workers in China started a GitHub repository titled [996.ICU](https://github.com/996icu/996.ICU), a reference to the grueling  and illegal working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention.
 
 中国的技术从业者正在利用GitHub吸引社会各界对中国科技行业中许多公司非法用工行为的关注。该GitHub项目被命名为为996.ICU，其中996代表了中国许多科技公司的工作时间——从上午9点到晚上9点，每周工作6天。996.ICU GitHub项目描述称，“如果按照 996 的模式工作，那（你）以后就得进 ICU 了”。该项目旨在呼吁中国的科技公司遵守中国劳动法和国际劳工公约。
 
