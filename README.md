@@ -1,19 +1,19 @@
 # Microsoft and GitHub Workers Support 996.ICU
 # 微软和GitHub员工宣布支持中国的996.ICU运动
 
-Chinese tech workers are using GitHub to bring attention to the illegal labor practices at many companies in the Chinese tech industry. The GitHub project is titled [996.ICU](https://github.com/996icu/996.ICU). 996 represents the working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention. 
+Tech workers in China started a GitHub GitHub repository titled [996.ICU](https://github.com/996icu/996.ICU), a reference to the grueling working conditions of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention.
 
 中国的技术从业者正在利用GitHub吸引社会各界对中国科技行业中许多公司非法用工行为的关注。该GitHub项目被命名为为996.ICU，其中996代表了中国许多科技公司的工作时间——从上午9点到晚上9点，每周工作6天。996.ICU GitHub项目描述称，“如果按照 996 的模式工作，那（你）以后就得进 ICU 了”。该项目旨在呼吁中国的科技公司遵守中国劳动法和国际劳工公约。
 
-This initiative has garnered massive support within China. Tech workers have been starring the GitHub repository as a way of showing their support. In the span of a few weeks, the project has been starred over 200,000 times, making it one of the fastest growing GitHub repositories in the service's history.
+This initiative has garnered massive support within China. GitHub users have been starring the repository as a way of showing their support. In the span of a few weeks, the project has been starred over 200,000 times, making it one of the fastest growing GitHub repositories in the service's history.
 
 这一倡议在中国获得了大规模的支持。中国的科技工作者一直在以star GitHub存储库的方式来表示他们对该项目的支持。在几周的时间内，该项目已经收获了超过20万次star，使其成为GitHub服务历史上增长最快的项目之一。
 
-GitHub is the ideal place for the 996.ICU movement. The platform, owned by Microsoft, is a haven for developers to save, share, and collaborate on software projects. It offers features similar to that of a social network. Developers can save or bookmark other people's projects, and engage in discussion through GitHub issues. 
+GitHub is the ideal place for the 996.ICU movement. The code-sharing platform, owned by Microsoft, is a haven for developers to save, share, and collaborate on software projects. It offers features similar to that of a social network. Developers can save, star, share and collaborate on software, and engage in discussion through GitHub issues. 
 
 GitHub是996.ICU运动的理想之地。该平台归微软所有，是开发人员保存、共享软件项目以及进行团队协作的避风港。它提供了类似于社交网络的功能。开发人员可以保存或标记其他人的项目，并通过GitHub问题参与讨论。
 
-Most important for the 996.ICU movement is that GitHub is accessible in China. It is the dominant platform for developers to collaborate and is a crucial part of Chinese tech companies' daily operations. Since going viral, Chinese domestic browsers, such as those by Tencent and Alibaba, have restricted access to the 996.ICU repository on GitHub, warning users that the repository contains illegal or malicious content. While it is still unknown as to whether these companies are blocking the repository on their own accord, we must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well. 
+Most important for the 996.ICU movement is that GitHub is accessible in China. It is the dominant platform for developers to collaborate and is a crucial part of Chinese tech companies' daily operations. Since going viral, Chinese domestic browsers, such as those by Tencent and Alibaba, have restricted access to the 996.ICU repository on their web browsers, warning users that the repository contains illegal or malicious content. While it is still unknown as to whether these companies are blocking the repository on their own accord, we must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well. 
 
 对于996.ICU运动来说，最重要的是GitHub在中国是可以访问的。它是开发人员进行协作的主要平台，是中国科技企业日常运营的重要组成部分。自从这一话题爆发以来，腾讯和阿里巴巴等中国国内的浏览器已经开始限制用户访问github上的996.ICU 存储库，并警告用户说该存储库中包含非法或恶意内容。虽然目前还不清楚这些公司是否是自发屏蔽该存储库，但我们必须考虑到微软和GitHub也将面临删除该存储库的压力。
 
