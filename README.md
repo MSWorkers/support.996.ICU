@@ -33,9 +33,9 @@ To other tech workers and industry supporters, we urge you to join us in our sup
 
 对于其他技术从业者和行业内外的支持者，我们恳请您加入我们对996.ICU运动的支持。
 
-To add your name to the list of supporters, make a pull request with your name and affiliation, as you would like it to appear on the list of signatories. Read more about adding yourself as a supporter [here](CONTRIBUTING.md).
+To add your name to the list of supporters, make a pull request with your name and affiliation, as you would like it to appear on the list of signatories. You can also email <msworkers4good@protonmail.com> with this information and we can add it for you. Read more about adding yourself as a supporter [here](CONTRIBUTING.md).
 
-如果您希望将您的姓名添加到支持者名单中，请使用Pull Request功能将您的姓名和所属单位提供给我们。请点击[此处](CONTRIBUTING.md)，了解如何将自己添加到支持者名单中。
+如果您希望将您的姓名添加到支持者名单中，请使用Pull Request功能将您的姓名和所属单位提供给我们。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING.md)，了解如何将自己添加到支持者名单中。
 
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Micosoft employees periodically as signatures are added.
