@@ -14,6 +14,8 @@ One of the main ways you can contribute to this repository is by signing (and st
   
 > You can also email <msworkers4good@protonmail.com> with your name and affiliation as you would like it to appear and we can add it for you.
 
+Please also considering starring the [996.ICU](https://github.com/996ICU/996.icu) repository to show support and contribute directly to the original Github project.
+
 ## Translation
 
 Microsoft and GitHub are global companies with workers all around the world. While English and Chinese are the primary languages we support, we welcome translations of the letter into other languages. To do so, make a pull request with your translated version of the letter under `README_<language_code>.md`. For example, the Spanish translated version may look like `README_ES.md`. 
