@@ -21,11 +21,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__25 Microsoft Employees*__
+__30 tech workers*_
 
 签名，
 
-__25名微软员工*__
+__30名技术工人*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement. 
 
@@ -39,11 +39,4 @@ To add your name to the list of supporters, make a pull request with your name a
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Microsoft employees periodically as signatures are added.
 > 
 > \* 我们在微软内部发起该请愿的同时对外公开了请愿书。随着支持者人数不断增多，我们会定期更新已签名的Microsoft员工的数量。
-
----
-Supported by / 支持者:
-
-- XXX, Microsoft Software Engineer
-- XXX, Microsoft Software Engineer
-- XXX，微软软件工程师
 
