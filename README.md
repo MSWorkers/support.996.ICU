@@ -25,6 +25,8 @@ Signed,
 
 __30 tech workers*__
 
+Francis Tseng, Public Science
+
 签名，
 
 __30名技术工人*__
