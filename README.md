@@ -36,7 +36,7 @@ To add your name to the list of supporters, make a pull request with your name a
 如果您希望将您的姓名添加到支持者名单中，请使用Pull Request功能将您的姓名和所属单位提供给我们。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING.md)，了解如何将自己添加到支持者名单中。
 
 
-> \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Micosoft employees periodically as signatures are added.
+> \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Microsoft employees periodically as signatures are added.
 > 
 > \* 我们在微软内部发起该请愿的同时对外公开了请愿书。随着支持者人数不断增多，我们会定期更新已签名的Microsoft员工的数量。
 
