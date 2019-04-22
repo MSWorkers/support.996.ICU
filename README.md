@@ -21,7 +21,7 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__30 tech workers*_
+__30 tech workers*__
 
 签名，
 
