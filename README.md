@@ -153,3 +153,4 @@ Supported by / 支持者:
 * Norman Sun, Mobile Developer, Freelancer
 * Martin Yin, Software Engineer
 * Hao Xu, Azure Developer PMM, Microsoft
+* Shan Zhou, Software Engineer, Microsoft
