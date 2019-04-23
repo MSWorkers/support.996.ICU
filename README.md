@@ -177,3 +177,4 @@ Supported by / 支持者:
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Ruibo Li, Software Developer, 51talk
