@@ -223,6 +223,7 @@ Supported by / 支持者:
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Lei Yao, Game Programmer, DarkSun Studio
 * David Ding(丁鼎), Software Engineer, Student
+* Sun-ha Hong, assistant professor, Simon Fraser University
 * Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
 * Tiger Tang, Software Engineer, Student
 * Jonathan Tomer, Software Engineer, Google
