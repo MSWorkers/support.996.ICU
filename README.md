@@ -160,3 +160,4 @@ Supported by / 支持者:
 * Ke Shen, Software Engineer, Google
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
