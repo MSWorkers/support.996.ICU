@@ -163,3 +163,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Yihong Zhang, Student, University of Washington
 * Leroy Wang, Student, University of Washington
+* Wang Fei, Software Developer and Tech writer
