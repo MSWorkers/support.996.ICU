@@ -112,6 +112,7 @@ Supported by / 支持者:
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Dong Jin Zhao, Software Engineer
 * Lin Zhang, Software Engineer II, Microsoft
+* Wayne Wang, Senior Premier Field Eigineer, Microsoft
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
@@ -140,3 +141,4 @@ Supported by / 支持者:
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+* Noah Berman, Backend Engineer, WeTransfer
