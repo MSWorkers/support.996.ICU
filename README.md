@@ -168,6 +168,8 @@ Supported by / 支持者:
 * Yihong Zhang, Student, University of Washington
 * Leroy Wang, Student, University of Washington
 * Wang Fei, Software Developer and Tech writer
+* Leoython Chou, Software Engineer, CloudMall
+* Yu Fei(余斐), Software Engineer
 * Adam Yi, Software Engineer
 * Shaohua Huang, Software Engineer,Alibaba
 * Shengtao Li, Software Engineer, 66ifuel
