@@ -140,4 +140,5 @@ Supported by / 支持者:
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+* Noah Berman, Backend Engineer, WeTransfer
 
