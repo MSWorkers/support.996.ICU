@@ -98,3 +98,4 @@ Supported by / 支持者:
 * Lowell Bander, Software Engineer, Facebook
 * Wendy Liu, Tech Writer
 * Nisha Pillai, Software Engineer
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
