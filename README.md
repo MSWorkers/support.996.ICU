@@ -147,3 +147,4 @@ Supported by / 支持者:
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Noah Berman, Backend Engineer, WeTransfer
 * Li Xiaoyang, Software Engineer, Didi Chuxing
+* Xudong Cai, Software Engineer, VeryStar
