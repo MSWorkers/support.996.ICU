@@ -208,3 +208,10 @@ Supported by / 支持者:
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
 * Qiang Zhang, levelDesigner 
+* Victor Qi, iOS Engineer, NetEase
+* Peoly，Software Engineer，EDU
+* Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
+* Xu Kai, postgraduate, China University of Geosciences
+* Yi Yang, product manager, Suning Corporation
+* Tinyu Chiu(赵天雨), Student
+* Weijie Hu, Software Engineer, ByteDance
