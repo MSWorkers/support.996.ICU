@@ -115,4 +115,28 @@ Supported by / 支持者:
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+* Shuirong Lin, Front-end Developer, Freelancer, Student
+* JackEggie(Jack Tang), Software Engineer, Infor
+* ZiHang Gao, Software Engineer, IReader
+* Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
+* Zhida Liu, Software Engineer, Enjoylife
+* Hancel Lin, Software Engineer, GIGABYTE.
+* Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
+* Knove, Software Engineer, Xiaomi
+* Lip Young(杨 征), Fontend Software Coder, Freelancer
+* Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
+* Margox(Wang Gang), Software Engineer
+* Yibo Wei, Mobile Developer, SAP
+* Cherrie Yu Cheng, Product Manager
+* Zion Chen, Software Engineer, SAP
+* Kathy Wu, Product Designer, MIT Media Lab
+* Chelsea Wang, Product Designer, Facebook
+* Yinghao Liu，Senior Soft Engineer，ThoughWorks
+* ShanWu, Frontend Engineer, ThoughtWorks 
+* Hewie Mei, Software Engineer, Liepin
+* Kanzakiken,Software Engineer
+* Aleksandra Culver, Senior Site Reliability Engineer, Google
+* Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+
