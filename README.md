@@ -160,6 +160,7 @@ Supported by / 支持者:
 * Ke Shen, Software Engineer, Google
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* Martin Larralde, Bioinformatician, ENS Paris-Saclay
 * Fang Sixie, Software Engineer, CCI
 * Zongbao Feng, Engineer, Baidu
 * Yihong Zhang, Student, University of Washington
