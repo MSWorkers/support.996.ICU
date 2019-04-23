@@ -128,3 +128,11 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
+* Kathy Wu, Product Designer, MIT Media Lab
+* Chelsea Wang, Product Designer, Facebook
+* Yinghao Liu，Senior Soft Engineer，ThoughWorks
+* ShanWu, Frontend Engineer, ThoughtWorks 
+* Hewie Mei, Software Engineer, Liepin
+* Kanzakiken,Software Engineer
+* Aleksandra Culver, Senior Site Reliability Engineer, Google
+* Yan Cui, Solution Architect, Microsoft
