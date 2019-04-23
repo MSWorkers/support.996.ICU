@@ -1,5 +1,5 @@
 # Microsoft and GitHub Workers Support 996.ICU
-> Join forces with Microsoft and GitHub workers to keep [996.ICU](https://github.com/996icu/996.ICU) uncensored and accessible to all!
+> Join Microsoft and GitHub workers to keep [996.ICU](https://github.com/996icu/996.ICU) uncensored and accessible to all!
 # 微软员工和 GitHub 员工宣布支持 996.ICU 运动
 > 加入微软与GitHub员工的行列，让 [996.ICU](https://github.com/996icu/996.ICU) 不被和谐！
 
