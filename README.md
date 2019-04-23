@@ -138,7 +138,6 @@ Supported by / 支持者:
 * Ashe Connor, Senior Software Engineer, GitHub
 * Kathy Wu, Product Designer, MIT Media Lab
 * Chelsea Wang, Product Designer, Facebook
-* Yinghao Liu，Senior Soft Engineer，ThoughWorks
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Hewie Mei, Software Engineer, Liepin
 * Kanzakiken, Software Engineer
@@ -218,7 +217,15 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
+* WangYun, Senior Software Engineer, ThoughtWorks
+* Xu Gao, Undergraduate, Changchun University
+* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Lei Yao, Game Programmer, DarkSun Studio
 * David Ding(丁鼎), Software Engineer, Student
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
+* Zhuoran Wu, Machine Learning Engineer, Octi.tv
+* Xin Huang, Student
+* Tim Johnson, Software Engineer, Target
+* Vivian Lim, Software Engineer, Microsoft 
+* Winifred R. Poster, Washington University, St. Louis
