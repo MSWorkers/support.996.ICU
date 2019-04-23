@@ -27,7 +27,7 @@ __50 tech workers*__
 
 签名，
 
-__50名技术工人*__
+__50名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement. 
 
@@ -107,3 +107,6 @@ Supported by / 支持者:
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Dong Jin Zhao, Software Engineer
 * Lin Zhang, Software Engineer II, Microsoft
+* Liang Ding, Full-Time Open-Sourcerer, B3log 
+* Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Nekocode(Fan Yueng), Software Engineer, Freelancer
