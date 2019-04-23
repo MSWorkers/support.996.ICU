@@ -208,6 +208,7 @@ Supported by / 支持者:
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
+* Ziang Chen, Software Engineer
 * Qiang Zhang, levelDesigner 
 * Victor Qi, iOS Engineer, NetEase
 * Peoly，Software Engineer，EDU
