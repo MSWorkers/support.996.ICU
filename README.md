@@ -1,6 +1,6 @@
-# Support 996.ICU
+# Microsoft and GitHub Workers Support 996.ICU
 Join forces with Microsoft and GitHub workers to keep [996.ICU](https://github.com/996icu/996.ICU) uncensored and accessible to all!
-# 支持 996.ICU
+# 微软员工和 GitHub 员工宣布支持 996.ICU 运动
 加入微软与GitHub员工的行列，让 [996.ICU](https://github.com/996icu/996.ICU) 不被和谐！
 
 Tech workers in China started a GitHub repository titled [996.ICU](https://github.com/996icu/996.ICU), a reference to the grueling and illegal working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention.
@@ -162,6 +162,9 @@ Supported by / 支持者:
 * Ke Shen, Software Engineer, Google
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
+* Vincent Lee, Software Engineer, Hikvision
+* Mike He, Undergraduate Researcher, University of Washington
 * Martin Larralde, Bioinformatician, ENS Paris-Saclay
 * Fang Sixie, Software Engineer, CCI
 * Zongbao Feng, Engineer, Baidu
@@ -173,7 +176,9 @@ Supported by / 支持者:
 * Adam Yi, Software Engineer
 * Shaohua Huang, Software Engineer,Alibaba
 * Shengtao Li, Software Engineer, 66ifuel
+* Yu Guanhua, Software Developer
 * Yang Mao, Student, University of Applied Sciences Emden/Leer
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Wuhao Chen, Student, University College London
