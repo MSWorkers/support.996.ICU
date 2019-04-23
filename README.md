@@ -215,4 +215,4 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
-* Xu Gao, Undegraduate, Changchun University
+* Xu Gao, Undergraduate, Changchun University
