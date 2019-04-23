@@ -165,3 +165,9 @@ Supported by / 支持者:
 * Yihong Zhang, Student, University of Washington
 * Leroy Wang, Student, University of Washington
 * Wang Fei, Software Developer and Tech writer
+* Shaohua Huang, Software Engineer,Alibaba
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureauu
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureaua
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureaun
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureaug
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
