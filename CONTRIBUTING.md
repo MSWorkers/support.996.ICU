@@ -7,11 +7,11 @@ Your contributions are welcome!
 One of the main ways you can contribute to this repository is by signing (and starring!) the repo to show your support. Follow these steps to sign:
 
 1. Click on the edit icon of the README.md
-1. Add your name and affiliation as you would like it to appear
-1. Create a pull request:
+2. Add your name and affiliation as you would like it to appear
+3. Create a pull request:
     - Name the branch `signed-<your-username>` and "propose file change"
     - Add `MSWorkers` as a reviewer
-  
+
 > You can also email <msworkers4good@protonmail.com> with your name and affiliation as you would like it to appear and we can add it for you.
 
 Please also considering starring the
