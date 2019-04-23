@@ -189,3 +189,4 @@ Supported by / 支持者:
 * Deng Mao, Software Engineer, BONC
 * Qing Mu, Software Tester, NIO
 * Yu Li, Axinfu.Inc
+* Chandler Harden, SDE Intern
