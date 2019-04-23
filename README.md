@@ -236,7 +236,8 @@ Supported by / 支持者:
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Xin Huang, Student
-* Zachary Laborde, Software Developer, IBM
 * Tim Johnson, Software Engineer, Target
 * Vivian Lim, Software Engineer, Microsoft 
 * Winifred R. Poster, Washington University, St. Louis
+* Zachary Laborde, Software Developer, IBM
+* Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
