@@ -205,3 +205,5 @@ Supported by / 支持者:
 * YuHao Tao (陶宇豪), Student
 * Xun Zhang, Designer and Web Developer, _Github user_
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
+* Lion Zhao(zhaolion), Software Engineer
+* Jared McFarland, Senior Infrastructure Engineer, GitHub
