@@ -7,7 +7,7 @@ Tech workers in China started a GitHub repository titled [996.ICU](https://githu
 
 This initiative has garnered massive support within China. GitHub users have been starring the repository as a way of showing their support. In the span of a few weeks, the project has been starred over 200,000 times, making it one of the fastest growing GitHub repositories in the service's history.
 
-这一倡议在中国获得了大规模的支持。Github用户一直在以star GitHub存储库的方式来表示他们对该项目的支持。在几周的时间内，该项目已经收获了超过20万次star，使其成为GitHub服务历史上增长最快的项目之一。
+这一倡议在中国获得了大规模的支持。GitHub用户一直在以star GitHub存储库的方式来表示他们对该项目的支持。在几周的时间内，该项目已经收获了超过20万次star，使其成为GitHub服务历史上增长最快的项目之一。
 
 The code-sharing platform GitHub, owned by Microsoft, is a place for developers to save, share, and collaborate on software projects. Most important for the 996.ICU movement is that GitHub is accessible in China. It is the dominant platform for developers to collaborate and is a crucial part of Chinese tech companies' daily operations. Since going viral, Chinese domestic browsers, such as those by Tencent and Alibaba, have restricted access to the 996.ICU repository on their web browsers, warning users that the repository contains illegal or malicious content. We must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well. 
 
