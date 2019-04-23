@@ -14,7 +14,8 @@ One of the main ways you can contribute to this repository is by signing (and st
   
 > You can also email <msworkers4good@protonmail.com> with your name and affiliation as you would like it to appear and we can add it for you.
 
-Please also considering starring the [996.ICU](https://github.com/996ICU/996.icu) repository to show support and contribute directly to the original Github project.
+Please also considering starring the
+[996.ICU](https://github.com/996ICU/996.icu) repository to show support and contribute directly to the original GitHub project.
 
 ## Translation
 
