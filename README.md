@@ -116,5 +116,6 @@ Supported by / 支持者:
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
 * Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
 * Margox(Wang Gang), Software Engineer
 * Yibo Wei, Mobile Developer, SAP
