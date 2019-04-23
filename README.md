@@ -204,4 +204,5 @@ Supported by / 支持者:
 * Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
 * YuHao Tao (陶宇豪), Student
 * Xun Zhang, Designer and Web Developer, _Github user_
+* Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
