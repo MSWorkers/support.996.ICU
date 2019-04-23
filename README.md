@@ -151,3 +151,4 @@ Supported by / 支持者:
 * Yamcer(Fan Yang), Software Engineer, Freelancer
 * Wang Qun Feng, Senior Software Engineer, XTDE
 * Norman Sun, Mobile Developer, Freelancer
+* Martin Yin, Software Engineer
