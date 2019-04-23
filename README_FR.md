@@ -100,3 +100,4 @@ Avec le soutien de:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
+* Martin Larralde, Bioinformatician, ENS Paris-Saclay
