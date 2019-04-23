@@ -158,3 +158,4 @@ Supported by / 支持者:
 * Shan Zhou, Software Engineer, Microsoft
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* Fang Sixie, Software Engineer, CCI
