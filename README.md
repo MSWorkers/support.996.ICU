@@ -1,3 +1,4 @@
+![Microsoft and GitHub Workers Support 996.ICU](https://repository-images.githubusercontent.com/182034748/6436e100-61af-11e9-9dc6-4cccaad40092)
 # Microsoft and GitHub Workers Support 996.ICU
 # 微软员工和 GitHub 员工宣布支持 996.ICU 运动
 
@@ -207,6 +208,8 @@ Supported by / 支持者:
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
+* Tiange Luo, Student
+* Ziang Chen, Software Engineer
 * Qiang Zhang, levelDesigner 
 * Victor Qi, iOS Engineer, NetEase
 * Peoly，Software Engineer，EDU
@@ -215,4 +218,7 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
-* Wenbo Cheng, Software Engineer, msworkers4good@protonmail.com
+* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
+* Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Lei Yao, Game Programmer, DarkSun Studio
+* David Ding(丁鼎), Software Engineer, Student
