@@ -225,3 +225,6 @@ Supported by / 支持者:
 * David Ding(丁鼎), Software Engineer, Student
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Xin Huang, Student
+* Tim Johnson, Software Engineer, Target
+* Vivian Lim, Software Engineer, Microsoft 
+* Winifred R. Poster, Washington University, St. Louis
