@@ -206,3 +206,4 @@ Supported by / 支持者:
 * Xun Zhang, Designer and Web Developer, _Github user_
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
+* Qiang Zhang levelDesigner China 
