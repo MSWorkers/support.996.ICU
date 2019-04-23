@@ -218,6 +218,7 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
+* Xu Gao, Undergraduate, Changchun University
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Lei Yao, Game Programmer, DarkSun Studio
