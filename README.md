@@ -138,7 +138,6 @@ Supported by / 支持者:
 * Ashe Connor, Senior Software Engineer, GitHub
 * Kathy Wu, Product Designer, MIT Media Lab
 * Chelsea Wang, Product Designer, Facebook
-* Yinghao Liu，Senior Soft Engineer，ThoughWorks
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Hewie Mei, Software Engineer, Liepin
 * Kanzakiken, Software Engineer
@@ -218,5 +217,4 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
-* Lei Yao, Game Programmer, DarkSun Studio
-* David Ding(丁鼎), Software Engineer, Student
+* WangYun, Senior Software Engineer, ThoughtWorks
