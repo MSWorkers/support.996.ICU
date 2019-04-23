@@ -180,3 +180,4 @@ Supported by / 支持者:
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
 * Wuhao Chen, Student, University College London
+* Yan Chen, Software Engineer
