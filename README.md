@@ -223,10 +223,6 @@ Supported by / 支持者:
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Lei Yao, Game Programmer, DarkSun Studio
 * David Ding(丁鼎), Software Engineer, Student
-* Ziyi Li(李子毅), Student
-* SheQiao Zheng, Front-End Engineer, Jiawan Interactive
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Xin Huang, Student
-* Tim Johnson, Software Engineer, Target
-* Vivian Lim, Software Engineer, Microsoft 
-* Winifred R. Poster, Washington University, St. Louis
+* Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
