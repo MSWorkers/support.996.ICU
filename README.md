@@ -179,7 +179,15 @@ Supported by / 支持者:
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
-* Dannyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
+* Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Ruibo Li, Software Developer, 51talk
 * Wuhao Chen, Student, University College London
 * Paul Leung, Network security Engineer, Labrusca Studio
+* Harry Yang, Microsoft
+* Hang Yang, eCreditpal
+* Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
+* Kuilin Xiang, Software Engineer, Juejin
+* Deng Mao, Software Engineer, BONC
+* Qing Mu, Software Tester, NIO
+* Yu Li, Axinfu.Inc
+* Zhenwei Chen, Software Engineer
