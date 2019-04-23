@@ -201,3 +201,6 @@ Supported by / 支持者:
 * Sean Gao, Senior Software Engineer
 * Henry Hu, Software Engineer, Fabric Group
 * Bo Feng, Student, Southwest University of Science and Technology
+* Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
+* YuHao Tao (陶宇豪), Student
+* Xun Zhang, Designer and Web Developer, _Github user_
