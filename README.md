@@ -140,7 +140,7 @@ Supported by / 支持者:
 * Yinghao Liu，Senior Soft Engineer，ThoughWorks
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Hewie Mei, Software Engineer, Liepin
-* Kanzakiken,Software Engineer
+* Kanzakiken, Software Engineer
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
@@ -192,7 +192,7 @@ Supported by / 支持者:
 * Yu Li, Axinfu.Inc
 * Zhenwei Chen, Software Engineer
 * Shen Lin, Front-End Developer, DHI China
-* Marc Zhao, software Engineer
+* Marc Zhao, Software Engineer
 * Menglong Huang, Developer, PingCAP
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Jeremy Gross, Sales Engineer, InterSystems
@@ -207,4 +207,4 @@ Supported by / 支持者:
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
-* Qiang Zhang levelDesigner China 
+* Qiang Zhang, levelDesigner 
