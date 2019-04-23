@@ -115,5 +115,10 @@ Supported by / 支持者:
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+=======
+* Hancel Lin, Software Engineer, GIGABYTE.
+* Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
+* Knove, Software Engineer, Xiaomi
+* Lip Young(杨 征), Fontend Software Coder, Freelancer
 * Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
