@@ -23,7 +23,7 @@ In response to these events, we, the workers of Microsoft and GitHub, support th
 We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https://github.com/996icu/996.ICU) **uncensored and available to everyone.** 
 
 
-我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都要不要删改 996.ICU 的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持996.ICU运动，并有效利用GitHub平台为中国科技工作者发声，传播他们的故事。
+我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都不要删改 996.ICU 的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持996.ICU运动，并有效利用GitHub平台为中国科技工作者发声，传播他们的故事。
 
 
 Signed,
@@ -40,7 +40,7 @@ To other tech workers and industry supporters, we urge you to join us in our sup
 
 To add your name to the list of supporters, make a pull request with your name and affiliation, as you would like it to appear on the list of signatories. You can also email <msworkers4good@protonmail.com> with this information and we can add it for you. Read more about adding yourself as a supporter [here](CONTRIBUTING.md).
 
-如果您希望将您的姓名添加到支持者名单中，请使用Pull Request功能将您的姓名和所属单位提供给我们。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING.md)，了解如何将自己添加到支持者名单中。
+如果您希望将您的姓名添加到支持者名单中，请使用Pull Request功能将您的姓名和所属单位提供给我们。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING_ZH.md)，了解如何将自己添加到支持者名单中。
 
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed employees periodically as signatures are added.

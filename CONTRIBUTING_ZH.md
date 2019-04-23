@@ -7,11 +7,13 @@
 
 您可以为此存储库做出贡献的主要方法之一是通过在这库签名（还有立刻点 Star！）来表达您的支持。请按照以下步骤签名：
 
+
 1. 单击 README.md 的编辑图标
 1. 根据您的意愿添加您希望显示的姓名和所属机构
 1. 创建拉取请求（PR）：
-   - 将分支命名为 `signed-<your-username>` 并 `propose file change`
-   - 添加 `MSWorkers` 作为 `reviewer`
+     - 将分支命名为`signed-<你的用户名>` 并 `propose file change`
+     - 添加 `MSWorkers` 作为 `reviewer`
+
   
 > 您也可以通过电子邮件发送<msworkers4good@protonmail.com>，并根据您的意愿显示您的姓名和所属机构，我们可以为您添加。
 
@@ -20,9 +22,10 @@
 
 ## 翻译
 
-Microsoft 和 GitHub 是全球公司，员工遍布全球。虽然英语和中文是我们支持的主要语言，但我们欢迎将该字母翻译成其他语言。
+
+Microsoft和GitHub是全球公司，员工遍布全球。虽然英语和中文是我们支持的主要语言，但我们欢迎将该字母翻译成其他语言。
 为此，请在 `README_<language_code>.md`下使用您翻译的字母版本发出拉取请求。
-例如，西班牙语翻译版本可能看起来像`README_ES.md`。
+例如，西班牙语翻译版本的文件名是`README_ES.md`。
 
 在创建语言翻译的拉取请求时，请添加您要翻译的语言的母语使用者，以查看拉取请求的内容。
 
