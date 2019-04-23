@@ -148,6 +148,7 @@ Supported by / 支持者:
 * Noah Berman, Backend Engineer, WeTransfer
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Xudong Cai, Software Engineer, VeryStar
+* Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Yamcer(Fan Yang), Software Engineer, Freelancer
 * Wang Qun Feng, Senior Software Engineer, XTDE
 * Norman Sun, Mobile Developer, Freelancer
