@@ -28,11 +28,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__50 tech workers*__
+__100 tech workers*__
 
 签名，
 
-__50名技术工作者*__
+__100名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement. 
 
@@ -112,9 +112,13 @@ Supported by / 支持者:
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Dong Jin Zhao, Software Engineer
 * Lin Zhang, Software Engineer II, Microsoft
+* Wayne Wang, Senior Premier Field Eigineer, Microsoft
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+* Bu, Xiao-Yang (Shawn), Software Engineer, MicroFocus
+* Shuirong Lin, Front-end Developer, Freelancer, Student
+* JackEggie(Jack Tang), Software Engineer, Infor
 * ZiHang Gao, Software Engineer, IReader
 * Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
 * Zhida Liu, Software Engineer, Enjoylife
@@ -128,3 +132,27 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
+* ZedeX Zhao, Director of Product, PingAn Group
+* Long Minghui, Golang Senior Programmer
+* Lantao Liu (Lax), Programmer, Full-Time Freelancer
+* Ashe Connor, Senior Software Engineer, GitHub 
+* Kathy Wu, Product Designer, MIT Media Lab
+* Chelsea Wang, Product Designer, Facebook
+* Yinghao Liu，Senior Soft Engineer，ThoughWorks
+* ShanWu, Frontend Engineer, ThoughtWorks 
+* Hewie Mei, Software Engineer, Liepin
+* Kanzakiken,Software Engineer
+* Aleksandra Culver, Senior Site Reliability Engineer, Google
+* Yan Cui, Solution Architect, Microsoft
+* Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+* Noah Berman, Backend Engineer, WeTransfer
+* Yuns Sun, Fontend Software Coder, Freelancer
+* Li Xiaoyang, Software Engineer, Didi Chuxing
+* Xudong Cai, Software Engineer, VeryStar
+* Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
+* Yamcer(Fan Yang), Software Engineer, Freelancer
+* Wang Qun Feng, Senior Software Engineer, XTDE
+* Norman Sun, Mobile Developer, Freelancer
+* Martin Yin, Software Engineer
+* Hao Xu, Azure Developer PMM, Microsoft
+* Shan Zhou, Software Engineer, Microsoft

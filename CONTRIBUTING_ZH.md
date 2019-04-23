@@ -15,7 +15,8 @@
   
 > 您也可以通过电子邮件发送<msworkers4good@protonmail.com>，并根据您的意愿显示您的姓名和所属机构，我们可以为您添加。
 
-还请考虑为这个库 [996.ICU](https://github.com/996ICU/996.icu) 点 Star 进行支持，并直接贡献给原始的 GitHub 项目。
+还请考虑为这个库点Star
+[996.ICU](https://github.com/996ICU/996.icu) 进行支持并直接贡献给原始的GitHub项目。
 
 ## 翻译
 
