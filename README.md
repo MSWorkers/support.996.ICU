@@ -192,3 +192,4 @@ Supported by / 支持者:
 * Yu Li, Axinfu.Inc
 * Zhenwei Chen, Software Engineer
 * Yifu Meng, Front-end Developer
+* Sean Gao, Senior Software Engineer
