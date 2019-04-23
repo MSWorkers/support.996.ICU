@@ -1,3 +1,4 @@
+![Microsoft and GitHub Workers Support 996.ICU](https://repository-images.githubusercontent.com/182034748/6436e100-61af-11e9-9dc6-4cccaad40092)
 # Microsoft and GitHub Workers Support 996.ICU
 # 微软员工和 GitHub 员工宣布支持 996.ICU 运动
 
@@ -140,7 +141,7 @@ Supported by / 支持者:
 * Yinghao Liu，Senior Soft Engineer，ThoughWorks
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Hewie Mei, Software Engineer, Liepin
-* Kanzakiken,Software Engineer
+* Kanzakiken, Software Engineer
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
@@ -192,7 +193,7 @@ Supported by / 支持者:
 * Yu Li, Axinfu.Inc
 * Zhenwei Chen, Software Engineer
 * Shen Lin, Front-End Developer, DHI China
-* Marc Zhao, software Engineer
+* Marc Zhao, Software Engineer
 * Menglong Huang, Developer, PingCAP
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Jeremy Gross, Sales Engineer, InterSystems
@@ -204,6 +205,15 @@ Supported by / 支持者:
 * Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
 * YuHao Tao (陶宇豪), Student
 * Xun Zhang, Designer and Web Developer, _Github user_
+* Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
 * Ziang Chen, Software Engineer
+* Qiang Zhang, levelDesigner 
+* Victor Qi, iOS Engineer, NetEase
+* Peoly，Software Engineer，EDU
+* Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
+* Xu Kai, postgraduate, China University of Geosciences
+* Yi Yang, product manager, Suning Corporation
+* Tinyu Chiu(赵天雨), Student
+* Weijie Hu, Software Engineer, ByteDance
