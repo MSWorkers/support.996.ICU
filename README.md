@@ -208,6 +208,8 @@ Supported by / 支持者:
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Lion Zhao(zhaolion), Software Engineer
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
+* Tiange Luo, Student
+* Ziang Chen, Software Engineer
 * Qiang Zhang, levelDesigner 
 * Victor Qi, iOS Engineer, NetEase
 * Peoly，Software Engineer，EDU
@@ -216,4 +218,7 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
+* Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Lei Yao, Game Programmer, DarkSun Studio
+* David Ding(丁鼎), Software Engineer, Student
 * Xin Huang, Student
