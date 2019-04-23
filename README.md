@@ -159,3 +159,4 @@ Supported by / 支持者:
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* Zongbao Feng, Engineer, Baidu
