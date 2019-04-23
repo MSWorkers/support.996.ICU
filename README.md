@@ -225,4 +225,21 @@ Supported by / 支持者:
 * David Ding(丁鼎), Software Engineer, Student
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Xin Huang, Student
+* Armaan Handa, Computer Engineer, Student
+* Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
+* Gabriel Laroche, Front End Developer, Nurun inc
+* Jay He, Software Engineer, Smart Testing Ltd, New Zealand
+* James Turnbull, CTO-in-residence, Microsoft
+* Sun-ha Hong, assistant professor, Simon Fraser University
+* Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
+* Tiger Tang, Software Engineer, Student
+* Jonathan Tomer, Software Engineer, Google
+* Ziyi Li(李子毅), Student
+* SheQiao Zheng, Front-End Engineer, Jiawan Interactive
+* Zhuoran Wu, Machine Learning Engineer, Octi.tv
+* Xin Huang, Student
+* Tim Johnson, Software Engineer, Target
+* Vivian Lim, Software Engineer, Microsoft 
+* Winifred R. Poster, Washington University, St. Louis
+* Zachary Laborde, Software Developer, IBM
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
