@@ -172,3 +172,4 @@ Supported by / 支持者:
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Dannyow Ed(朱俊鸿), iOS/Unity Engineer. Thumbparty.
