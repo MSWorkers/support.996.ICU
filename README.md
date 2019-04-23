@@ -121,4 +121,4 @@ Supported by / 支持者:
 * Knove, Software Engineer, Xiaomi
 * Lip Young(杨 征), Fontend Software Coder, Freelancer
 * Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
-* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
+* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd. 
