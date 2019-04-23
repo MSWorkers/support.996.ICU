@@ -182,6 +182,7 @@ Supported by / 支持者:
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Ruibo Li, Software Developer, 51talk
 * Wuhao Chen, Student, University College London
+* Paul Leung, Network security Engineer, Labrusca Studio
 * Harry Yang, Microsoft
 * Hang Yang, eCreditpal
 * Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
