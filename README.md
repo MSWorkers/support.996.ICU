@@ -182,3 +182,4 @@ Supported by / 支持者:
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Ruibo Li, Software Developer, 51talk
 * Wuhao Chen, Student, University College London
+* Yan Chen(陈琰), Software Engineer
