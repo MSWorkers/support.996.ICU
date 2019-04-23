@@ -156,3 +156,4 @@ Supported by / 支持者:
 * Martin Yin, Software Engineer
 * Hao Xu, Azure Developer PMM, Microsoft
 * Shan Zhou, Software Engineer, Microsoft
+* Luxroid(MingWang Hao), Software Engineer, Freelancer
