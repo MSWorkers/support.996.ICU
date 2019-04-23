@@ -103,4 +103,6 @@ Supported by / 支持者:
 * Xeodou Li, Software Engineer, Udacity
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
 * Ranjan Pradeep, Software Engineer, Microsoft
+* Lion Huang, Senior Software Engineer, Microsoft
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
+
