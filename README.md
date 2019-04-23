@@ -129,3 +129,4 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
+* ZedeX Zhao, Director of Product, PingAn Group
