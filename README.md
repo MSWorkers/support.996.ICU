@@ -115,3 +115,4 @@ Supported by / 支持者:
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+* Lip Young(杨 征), Fontend Software Coder, Freelancer
