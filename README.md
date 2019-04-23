@@ -218,3 +218,4 @@ Supported by / 支持者:
 * Yi Yang, product manager, Suning Corporation
 * Tinyu Chiu(赵天雨), Student
 * Weijie Hu, Software Engineer, ByteDance
+* David Ding(丁鼎), Software Engineer, Student
