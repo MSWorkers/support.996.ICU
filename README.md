@@ -23,11 +23,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__30 tech workers*__
+__50 tech workers*__
 
 签名，
 
-__30名技术工人*__
+__50名技术工人*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement. 
 
@@ -38,7 +38,62 @@ To add your name to the list of supporters, make a pull request with your name a
 如果您希望将您的姓名添加到支持者名单中，请使用Pull Request功能将您的姓名和所属单位提供给我们。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING.md)，了解如何将自己添加到支持者名单中。
 
 
-> \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed Microsoft employees periodically as signatures are added.
+> \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed employees periodically as signatures are added.
 > 
-> \* 我们在微软内部发起该请愿的同时对外公开了请愿书。随着支持者人数不断增多，我们会定期更新已签名的Microsoft员工的数量。
+> \* 我们在微软内部发起该请愿的同时对外公开了请愿书。随着支持者人数不断增多，我们会定期更新已签名员工的数量。
 
+Supported by / 支持者:
+---
+
+> The first 50 signatures below have been randomly shuffled.
+
+* Jason Prado, Ex-Microsoft Software Engineer 2008-2009
+* Zora Tung, Software Engineer, Google
+* Liz O’Sullivan, former head of annotations at Clarifai
+* Jing Jing Cao, UX Designer, Anki
+* Ali Atasever, CTO, Vivoo
+* Amr Gaber, Software Engineer, Google
+* Irene Knapp, Senior Software Engineer, Google
+* Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
+* Alex Goldschmidt, Software Engineer, Microsoft
+* JS Tan, Software Engineer, Microsoft
+* Mark Dudley, Software Engineer, Google
+* Rachel Miller, Writer
+* Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
+* Hal Daumé III, Principal Researcher, Microsoft Research
+* Casey Hong, Microsoft
+* Ben Tarnoff, Logic Editor
+* François Conil, Support, GitHub
+* Esteban Roncancio, Trip Advisor
+* Mark Seaborn, Software Engineer Google
+* Josh McDuffie, Software Engineer, Constant Contact
+* Ashly Hamilton, Program Manager, Microsoft
+* Emily Cunningham, UX Designer at Amazon
+* Andrew Schwartzmeyer, Software Engineer, Microsoft
+* Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
+* Topher Weiss, Software Developer, Rational Interaction @ Microsoft
+* Alexander Mancevice, Software Developer, CargoMetrics
+* Cathy Lee, Brand designer, Oscar Health
+* Yann Achard, Senior Software Engineer, Microsoft
+* Camille Malonzo, Software Engineer Microsoft
+* Kelly Wagman, Microsoft Research Assistant
+* Mary L. Gray Senior Researcher Microsoft Research New England  (Associate Professor School of Informatics, Computing, and Engineering Indiana University, Bloomington | Fellow Harvard University Berkman Klein Center for Internet and Society)
+* Francis Tseng, Public Science
+* Esteban Roncancio, Software Engineer, TripAdvisor
+* Naomi Harrington, Program Manager, Microsoft
+* Mikayla Hutchinson, Software Engineer, Microsoft
+* David Meyerson, Software Engineer II, Microsoft
+* Bryan Hughes, Senior Cloud Advocate, Microsoft
+* Christopher Senderling, Microsoft
+* Gregory Ellison, Data Scientist, Microsoft
+* Stephanie Parker, Policy Specialist, YouTube
+* Adina Shanholtz, Microsoft
+* Marie Collins, Business Analyst, Google
+* Kristen Sheets, Brandeis University Computer Science
+* Erik Knechtel, Microsoft Contractor
+* Daniel Greene, Assistant Professor of Information Studies, University of Maryland
+* Amber Erickson, Software Engineer, Microsoft
+* Julie Mayer, Senior Privacy Manager, Microsoft
+* Minsoo Thigpen, Microsoft Program Manager
+* Lowell Bander, Software Engineer, Facebook
+* Wendy Liu, Tech Writer
