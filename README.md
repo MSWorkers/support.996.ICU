@@ -138,3 +138,5 @@ Supported by / 支持者:
 * Kanzakiken,Software Engineer
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Yan Cui, Solution Architect, Microsoft
+* Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+
