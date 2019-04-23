@@ -106,3 +106,4 @@ Supported by / 支持者:
 * Lion Huang, Senior Software Engineer, Microsoft
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Dong Jin Zhao, Software Engineer
+* Nekocode(Fan Yueng), Software Engineer, Freelancer
