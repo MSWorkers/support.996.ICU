@@ -152,3 +152,4 @@ Supported by / 支持者:
 * Wang Qun Feng, Senior Software Engineer, XTDE
 * Norman Sun, Mobile Developer, Freelancer
 * Martin Yin, Software Engineer
+* Hao Xu, Azure Developer PMM, Microsoft
