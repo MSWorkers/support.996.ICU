@@ -160,5 +160,6 @@ Supported by / 支持者:
 * Ke Shen, Software Engineer, Google
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* Zongbao Feng, Engineer, Baidu
 * Yihong Zhang, Student, University of Washington
 * Leroy Wang, Student, University of Washington
