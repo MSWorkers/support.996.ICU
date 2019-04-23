@@ -123,3 +123,4 @@ Supported by / 支持者:
 * Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
 * Margox(Wang Gang), Software Engineer
 * Yibo Wei, Mobile Developer, SAP
+* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
