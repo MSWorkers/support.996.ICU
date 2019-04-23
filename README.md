@@ -192,3 +192,6 @@ Supported by / 支持者:
 * Yu Li, Axinfu.Inc
 * Zhenwei Chen, Software Engineer
 * Jeremy Gross, Sales Engineer, InterSystems
+* Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
+* Yifu Meng, Front-end Developer
+* Sean Gao, Senior Software Engineer
