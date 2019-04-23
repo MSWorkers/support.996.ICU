@@ -116,7 +116,6 @@ Supported by / 支持者:
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
-* Bu, Xiao-Yang (Shawn), Software Engineer, MicroFocus
 * Shuirong Lin, Front-end Developer, Freelancer, Student
 * JackEggie(Jack Tang), Software Engineer, Infor
 * ZiHang Gao, Software Engineer, IReader
@@ -142,3 +141,5 @@ Supported by / 支持者:
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Noah Berman, Backend Engineer, WeTransfer
+* Han Yin, Front-end Developer
+
