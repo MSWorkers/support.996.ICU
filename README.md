@@ -200,3 +200,4 @@ Supported by / 支持者:
 * Yifu Meng, Front-end Developer
 * Sean Gao, Senior Software Engineer
 * Henry Hu, Software Engineer, Fabric Group
+* Bo Feng, Student, Southwest University of Science and Technology
