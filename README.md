@@ -28,11 +28,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__50 tech workers*__
+__100 tech workers*__
 
 签名，
 
-__50名技术工作者*__
+__100名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement. 
 
@@ -132,6 +132,7 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
+* ZedeX Zhao, Director of Product, PingAn Group
 * Long Minghui, Golang Senior Programmer
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
 * Ashe Connor, Senior Software Engineer, GitHub 
@@ -146,3 +147,11 @@ Supported by / 支持者:
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Noah Berman, Backend Engineer, WeTransfer
 * Yuns Sun, Fontend Software Coder, Freelancer
+* Li Xiaoyang, Software Engineer, Didi Chuxing
+* Xudong Cai, Software Engineer, VeryStar
+* Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
+* Yamcer(Fan Yang), Software Engineer, Freelancer
+* Wang Qun Feng, Senior Software Engineer, XTDE
+* Norman Sun, Mobile Developer, Freelancer
+* Martin Yin, Software Engineer
+* Hao Xu, Azure Developer PMM, Microsoft
