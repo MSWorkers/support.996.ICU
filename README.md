@@ -174,6 +174,7 @@ Supported by / 支持者:
 * Adam Yi, Software Engineer
 * Shaohua Huang, Software Engineer,Alibaba
 * Shengtao Li, Software Engineer, 66ifuel
+* Yu Guanhua, Software Developer
 * Yang Mao, Student, University of Applied Sciences Emden/Leer
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
