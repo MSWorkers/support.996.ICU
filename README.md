@@ -132,6 +132,7 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
+* Lantao Liu (Lax), Programmer, Full-Time Freelancer
 * Ashe Connor, Senior Software Engineer, GitHub 
 * Kathy Wu, Product Designer, MIT Media Lab
 * Chelsea Wang, Product Designer, Facebook
