@@ -146,6 +146,7 @@ Supported by / 支持者:
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Noah Berman, Backend Engineer, WeTransfer
+* Yuns Sun, Fontend Software Coder, Freelancer
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Xudong Cai, Software Engineer, VeryStar
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
