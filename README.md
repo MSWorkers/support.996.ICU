@@ -99,3 +99,6 @@ Supported by / 支持者:
 * Wendy Liu, Tech Writer
 * Nisha Pillai, Software Engineer
 * Liu Jun, Software Engineer, Guangbao-uni
+* Xeodou Li, Software Engineer, Udacity
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
+* Ranjan Pradeep, Software Engineer, Microsoft
