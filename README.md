@@ -157,6 +157,9 @@ Supported by / 支持者:
 * Hao Xu, Azure Developer PMM, Microsoft
 * Shan Zhou, Software Engineer, Microsoft
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
+* Ke Shen, Software Engineer, Google
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
 * Zongbao Feng, Engineer, Baidu
+* Yihong Zhang, Student, University of Washington
+* Leroy Wang, Student, University of Washington
