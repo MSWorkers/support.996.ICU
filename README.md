@@ -160,6 +160,7 @@ Supported by / 支持者:
 * Ke Shen, Software Engineer, Google
 * Zhonghua Qiang, Software Engineer, Sofu
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
 * Vincent Lee, Software Engineer, Hikvision
 * Mike He, Undergraduate Researcher, University of Washington
 * Martin Larralde, Bioinformatician, ENS Paris-Saclay
@@ -173,8 +174,19 @@ Supported by / 支持者:
 * Adam Yi, Software Engineer
 * Shaohua Huang, Software Engineer,Alibaba
 * Shengtao Li, Software Engineer, 66ifuel
+* Yu Guanhua, Software Developer
 * Yang Mao, Student, University of Applied Sciences Emden/Leer
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
+* Ruibo Li, Software Developer, 51talk
+* Wuhao Chen, Student, University College London
+* Harry Yang, Microsoft
+* Hang Yang, eCreditpal
+* Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
+* Kuilin Xiang, Software Engineer, Juejin
+* Deng Mao, Software Engineer, BONC
+* Qing Mu, Software Tester, NIO
+* Yu Li, Axinfu.Inc
 * Zhenwei Chen, Software Engineer
