@@ -195,3 +195,5 @@ Supported by / 支持者:
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
 * Yifu Meng, Front-end Developer
 * Sean Gao, Senior Software Engineer
+* Henry Hu, Software Engineer, Fabric Group
+
