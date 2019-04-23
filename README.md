@@ -166,4 +166,5 @@ Supported by / 支持者:
 * Yihong Zhang, Student, University of Washington
 * Leroy Wang, Student, University of Washington
 * Wang Fei, Software Developer and Tech writer
+* Adam Yi, Software Engineer
 * Shaohua Huang, Software Engineer,Alibaba
