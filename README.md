@@ -7,19 +7,24 @@ Tech workers in China started a GitHub repository titled [996.ICU](https://githu
 
 This initiative has garnered massive support within China. GitHub users have been starring the repository as a way of showing their support. In the span of a few weeks, the project has been starred over 200,000 times, making it one of the fastest growing GitHub repositories in the service's history.
 
-这一倡议在中国获得了大规模的支持。GitHub用户一直在以star GitHub存储库的方式来表示他们对该项目的支持。在几周的时间内，该项目已经收获了超过20万次star，使其成为GitHub服务历史上增长最快的项目之一。
+
+这一倡议在中国获得了大规模的支持。GitHub 用户一直在以star GitHub存储库的方式来表示他们对该项目的支持。在几周的时间内，该项目已经收获了超过20万次star，使其成为GitHub服务历史上增长最快的项目之一。
+
+
 
 The code-sharing platform GitHub, owned by Microsoft, is a place for developers to save, share, and collaborate on software projects. Most important for the 996.ICU movement is that GitHub is accessible in China. It is the dominant platform for developers to collaborate and is a crucial part of Chinese tech companies' daily operations. Since going viral, Chinese domestic browsers, such as those by Tencent and Alibaba, have restricted access to the 996.ICU repository on their web browsers, warning users that the repository contains illegal or malicious content. We must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well. 
 
-GitHub是996.ICU运动的理想之地。该平台归微软所有，是开发人员保存、共享软件项目以及进行团队协作的港湾。它提供了类似于社交网络的功能。开发人员可以保存或标记其他人的项目，并通过GitHub问题参与讨论。对于996.ICU运动来说，最重要的是GitHub在中国是可以访问的。它是开发人员进行协作的主要平台，是中国科技企业日常运营的重要组成部分。自从这一话题爆发以来，腾讯和阿里巴巴等中国国内的浏览器已经开始限制用户访问github上的996.ICU 存储库，并警告用户说该存储库中包含非法或恶意内容。我们必须考虑到微软和GitHub也将面临删除该存储库的压力。
+GitHub 是 996.ICU 运动的理想之地。该平台归微软所有，是开发人员保存、共享软件项目以及进行团队协作的港湾。它提供了类似于社交网络的功能。开发人员可以保存或标记其他人的项目，并通过 GitHub 问题参与讨论。对于 996.ICU 运动来说，最重要的是 GitHub 在中国是可以访问的。它是开发人员进行协作的主要平台，是中国科技企业日常运营的重要组成部分。自从这一话题爆发以来，腾讯和阿里巴巴等中国国内的浏览器已经开始限制用户访问 Github 上的 996.ICU 存储库，并警告用户说该存储库中包含非法或恶意内容。我们必须考虑到微软和GitHub也将面临删除该存储库的压力。
 
 In response to these events, we, the workers of Microsoft and GitHub, support the 996.ICU movement and stand in solidarity with tech workers in China. We know this is a problem that crosses national borders. These same issues permeate across full time and contingent jobs at Microsoft and the industry as a whole. Another reason we must take a stand in solidarity with Chinese workers is that history tells us that multinational companies will pit workers against each other in a race to the bottom as they outsource jobs and take advantage of weak labor standards in the pursuit of profit. We have to come together across national boundaries to ensure just working conditions for everyone around the globe.
 
-为了应对可能的风险，我们，作为微软和GitHub的员工，决定与中国的技术从业者站在统一战线，支持996.ICU运动。我们知道，这是一个跨越国界的问题。同样的问题也渗透到微软和整个行业的全职和临时工作中。我们必须与中国的技术从业者站在一个立场上的另一个原因是，历史告诉我们，跨国公司会把工作外包出去，利用不健全的劳动标准谋求利润最大化，迫使工人在竞次的过程中互相竞争。我们必须跨越国界，万众一心，以确保世界上的每一个人都能够获得公正的工作条件。
+为了应对可能的风险，我们，作为微软和GitHub的员工，决定与中国的技术从业者站在统一战线，支持 996.ICU 运动。我们知道，这是一个跨越国界的问题。同样的问题也渗透到微软和整个行业的全职和临时工作中。我们必须与中国的技术从业者站在一个立场上的另一个原因是，历史告诉我们，跨国公司会把工作外包出去，利用不健全的劳动标准谋求利润最大化，迫使工人在竞次的过程中互相竞争。我们必须跨越国界，万众一心，以确保世界上的每一个人都能够获得公正的工作条件。
 
 We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https://github.com/996icu/996.ICU) **uncensored and available to everyone.** 
 
-我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都要不要删改996.ICU的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持996.ICU运动，并有效利用GitHub平台为中国科技工作者发声，传播他们的故事。
+
+我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都要不要删改 996.ICU 的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持996.ICU运动，并有效利用GitHub平台为中国科技工作者发声，传播他们的故事。
+
 
 Signed,
 
