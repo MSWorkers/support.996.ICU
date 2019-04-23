@@ -115,4 +115,5 @@ Supported by / 支持者:
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+* Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
