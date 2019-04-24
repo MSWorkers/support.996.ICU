@@ -337,4 +337,5 @@ Supported by / 支持者:
 * Qi Liu, Software Engineer
 * Maverick Huang, student, hzwyjxy.com
 * Logic, Software Engineer, RDS
+* J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
