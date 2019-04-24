@@ -139,6 +139,7 @@ Supported by / 支持者:
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
 * James Turnbull, CTO-in-residence, Microsoft
+* Jamie Zhang, Software Engineer, Google
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
 * Jasmine Xie, Front-end Engineer
 * Jason Prado, Ex-Microsoft Software Engineer 2008-2009
