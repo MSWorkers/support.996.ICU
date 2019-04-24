@@ -242,3 +242,4 @@ Supported by / 支持者:
 * Zachary Laborde, Software Developer, IBM
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
+* Pavel Dubrova, Software Engineer, Freelancer
