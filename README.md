@@ -274,3 +274,5 @@ Supported by / 支持者:
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
 * Beck Qin, Software Engineer, eRealm Soft & Tech
+* Alexander D Huang, Game Developer, Acingame
+* Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
