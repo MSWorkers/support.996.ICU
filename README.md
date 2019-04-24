@@ -278,3 +278,21 @@ Supported by / 支持者:
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Varoon Mathur, Technology Fellow, The AI Now Institute
+* Flitrue, Front End Engineer, Beijing
+* Chen Rui (陈锐), 香港KC集团
+* Lei Zhao, Computer Science Master Student, USC
+* Matthew Wiegert, Economics from SUNY at Binghamton
+* Yi Yang, Product Manager, Suning Corporation
+* Tung Honwhee, Freelancer Tech Translator
+* Kangour, Software Engineer, Kunming
+* Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
+* Ryan(Zhenkun) Ou, Software Engineer
+* Xiake Hu, Software Engineer, Student
+* HongBo Du, Software Engineer, Freelancer
+* Ling Gaom, Microsoft Community Independent Advisor
+* Yutao Gu, Developer, Undergraduate student
+* Junjie Lin, Student 
+* Dom Wang, Software Engineer, IBM
+* Better Zhao, Software Engineer
+* FangYang (方阳), Software Engineer
