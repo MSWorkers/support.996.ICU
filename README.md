@@ -222,6 +222,7 @@ Supported by / 支持者:
 * Xu Gao, Undergraduate, Changchun University
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Mengxi Yang, User Experience Designer, ThoughtWorks
 * Lei Yao, Game Programmer, DarkSun Studio
 * David Ding(丁鼎), Software Engineer, Student
 * Armaan Handa, Computer Engineer, Student
@@ -340,3 +341,5 @@ Supported by / 支持者:
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Miguel González-Fierro, Data Scientists, Microsoft
+* Jackie Koon, student, South China University of Technology
+* Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
