@@ -245,3 +245,5 @@ Supported by / 支持者:
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
 * Borja Canseco, Software Engineer, IBM
+* Luke Lin, Software Engineer
+* Alice Lai, Applied Scientist, Microsoft
