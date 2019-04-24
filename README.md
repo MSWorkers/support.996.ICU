@@ -256,3 +256,4 @@ Supported by / 支持者:
 * Alice Lai, Applied Scientist, Microsoft
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
+* JunSheng Wang, Software Developer, Giant
