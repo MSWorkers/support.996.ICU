@@ -39,9 +39,9 @@ To other tech workers and industry supporters, we urge you to join us in our sup
 
 对于其他技术从业者和行业内外的支持者，我们恳请您加入我们对 996.ICU 运动的支持。
 
-To add your name to the list of supporters, make a pull request with your name and affiliation, as you would like it to appear on the list of signatories. You can also email <msworkers4good@protonmail.com> with this information and we can add it for you. Read more about adding yourself as a supporter [here](CONTRIBUTING.md).
+To add your name to the list of supporters, make a pull request with your name and affiliation, as you would like it to appear on the list of signatories. Make sure your signature is entered alphabetically into the list. You can also email <msworkers4good@protonmail.com> with this information and we can add it for you. Read more about adding yourself as a supporter [here](CONTRIBUTING.md).
 
-如果您希望将您的姓名添加到支持者名单中，请使用 Pull Request 功能将您的姓名和所属单位提供给我们。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING_ZH.md)，了解如何将自己添加到支持者名单中。
+如果您希望将您的姓名添加到支持者名单中，请使用 Pull Request 功能将您的姓名和所属单位提供给我们。请按字母顺序输入您的姓名。您也可以直接发送电子邮件至<msworkers4good@protonmail.com>，我们可以为您添加。请点击[此处](CONTRIBUTING_ZH.md)，了解如何将自己添加到支持者名单中。
 
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed employees periodically as signatures are added.
@@ -51,295 +51,291 @@ To add your name to the list of supporters, make a pull request with your name a
 Supported by / 支持者:
 ---
 
-> The first 50 signatures below have been randomly shuffled.
-
-* Jason Prado, Ex-Microsoft Software Engineer 2008-2009
-* Zora Tung, Software Engineer, Google
-* Liz O’Sullivan, former head of annotations at Clarifai
-* Jing Jing Cao, UX Designer, Anki
-* Ali Atasever, CTO, Vivoo
-* Amr Gaber, Software Engineer, Google
-* Irene Knapp, Senior Software Engineer, Google
-* Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
-* Alex Goldschmidt, Software Engineer, Microsoft
-* JS Tan, Software Engineer, Microsoft
-* Mark Dudley, Software Engineer, Google
-* Rachel Miller, Writer
-* Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
-* Hal Daumé III, Principal Researcher, Microsoft Research
-* Casey Hong, Microsoft
-* Ben Tarnoff, Logic Editor
-* François Conil, Support, GitHub
-* Esteban Roncancio, Trip Advisor
-* Mark Seaborn, Software Engineer Google
-* Josh McDuffie, Software Engineer, Constant Contact
-* Ashly Hamilton, Program Manager, Microsoft
-* Emily Cunningham, UX Designer at Amazon
-* Andrew Schwartzmeyer, Software Engineer, Microsoft
-* Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
-* Topher Weiss, Software Developer, Rational Interaction @ Microsoft
-* Alexander Mancevice, Software Developer, CargoMetrics
-* Cathy Lee, Brand designer, Oscar Health
-* Yann Achard, Senior Software Engineer, Microsoft
-* Camille Malonzo, Software Engineer Microsoft
-* Kelly Wagman, Microsoft Research Assistant
-* Mary L. Gray Senior Researcher Microsoft Research New England  (Associate Professor School of Informatics, Computing, and Engineering Indiana University, Bloomington | Fellow Harvard University Berkman Klein Center for Internet and Society)
-* Francis Tseng, Public Science
-* Esteban Roncancio, Software Engineer, TripAdvisor
-* Naomi Harrington, Program Manager, Microsoft
-* Mikayla Hutchinson, Software Engineer, Microsoft
-* David Meyerson, Software Engineer II, Microsoft
-* Bryan Hughes, Senior Cloud Advocate, Microsoft
-* Christopher Senderling, Microsoft
-* Gregory Ellison, Data Scientist, Microsoft
-* Stephanie Parker, Policy Specialist, YouTube
-* Adina Shanholtz, Microsoft
-* Marie Collins, Business Analyst, Google
-* Kristen Sheets, Brandeis University Computer Science
-* Erik Knechtel, Microsoft Contractor
-* Daniel Greene, Assistant Professor of Information Studies, University of Maryland
-* Amber Erickson, Software Engineer, Microsoft
-* Julie Mayer, Senior Privacy Manager, Microsoft
-* Minsoo Thigpen, Microsoft Program Manager
-* Lowell Bander, Software Engineer, Facebook
-* Wendy Liu, Tech Writer
-* Nisha Pillai, Software Engineer
-* DeepGrace, Senior C++ Expert
-* Liu Jun, Software Engineer, Guangbao-uni
-* Xeodou Li, Software Engineer, Udacity
-* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
-* Ranjan Pradeep, Software Engineer, Microsoft
-* Lion Huang, Senior Software Engineer, Microsoft
-* Yinghao Liu, Senior Software Engineer, ThoughtWorks
-* Dong Jin Zhao, Software Engineer
-* Lin Zhang, Software Engineer II, Microsoft
-* Wayne Wang, Senior Premier Field Eigineer, Microsoft
-* Liang Ding, Full-Time Open-Sourcerer, B3log
-* Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
-* Nekocode(Fan Yueng), Software Engineer, Freelancer
-* Shuirong Lin, Front-end Developer, Freelancer, Student
-* JackEggie(Jack Tang), Software Engineer, Infor
-* ZiHang Gao, Software Engineer, IReader
-* Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
-* Zhida Liu, Software Engineer, Enjoylife
-* Hancel Lin, Software Engineer, GIGABYTE.
-* Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
-* Knove, Software Engineer, Xiaomi
-* Lip Young(杨 征), Fontend Software Coder, Freelancer
-* Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
-* Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
-* Margox(Wang Gang), Software Engineer
-* Yibo Wei, Mobile Developer, SAP
-* Cherrie Yu Cheng, Product Manager
-* Zion Chen, Software Engineer, SAP
-* ZedeX Zhao, Director of Product, PingAn Group
-* Long Minghui, Golang Senior Programmer
-* Lantao Liu (Lax), Programmer, Full-Time Freelancer
-* Ashe Connor, Senior Software Engineer, GitHub
-* Kathy Wu, Product Designer, MIT Media Lab
-* Chelsea Wang, Product Designer, Facebook
-* ShanWu, Frontend Engineer, ThoughtWorks
-* Hewie Mei, Software Engineer, Liepin
-* Kanzakiken, Software Engineer
-* Aleksandra Culver, Senior Site Reliability Engineer, Google
-* Yan Cui, Solution Architect, Microsoft
-* Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
-* Noah Berman, Backend Engineer, WeTransfer
-* Han Yin, Front-end Developer
-* Yuns Sun, Fontend Software Coder, Freelancer
-* Li Xiaoyang, Software Engineer, Didi Chuxing
-* Xudong Cai, Software Engineer, VeryStar
-* Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
-* Yamcer(Fan Yang), Software Engineer, Freelancer
-* Wang Qun Feng, Senior Software Engineer, XTDE
-* Norman Sun, Mobile Developer, Freelancer
-* Martin Yin, Software Engineer
-* Hao Xu, Azure Developer PMM, Microsoft
-* Shan Zhou, Software Engineer, Microsoft
-* Luxroid(MingWang Hao), Software Engineer, Freelancer
-* Ke Shen, Software Engineer, Google
-* Zhonghua Qiang, Software Engineer, Sofu
-* Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
-* ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
-* Vincent Lee, Software Engineer, Hikvision
-* Mike He, Undergraduate Researcher, University of Washington
-* Martin Larralde, Bioinformatician, ENS Paris-Saclay
-* Fang Sixie, Software Engineer, CCI
-* Zongbao Feng, Engineer, Baidu
-* Yihong Zhang, Student, University of Washington
-* Leroy Wang, Student, University of Washington
-* Wang Fei, Software Developer and Tech writer
-* Leoython Chou, Software Engineer, CloudMall
-* Yu Fei(余斐), Software Engineer
 * Adam Yi, Software Engineer
-* Shaohua Huang, Software Engineer,Alibaba
-* Shengtao Li, Software Engineer, 66ifuel
-* Yu Guanhua, Software Developer
-* Yang Mao, Student, University of Applied Sciences Emden/Leer
-* Hao Tao, Web Developer, Bingo Information Co., Ltd.
-* Jet Wong, Software Engineer, owasp
-* Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
-* Chandler Harden, SDE Intern, IBM
-* Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
-* Ruibo Li, Software Developer, 51talk
-* Wuhao Chen, Student, University College London
-* Paul Leung, Network security Engineer, Labrusca Studio
-* Harry Yang, Microsoft
-* Hang Yang, eCreditpal
-* Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
-* Kuilin Xiang, Software Engineer, Juejin
-* Deng Mao, Software Engineer, BONC
-* Qing Mu, Software Tester, NIO
-* Yu Li, Axinfu.Inc
-* Zhenwei Chen, Software Engineer
-* Shen Lin, Front-End Developer, DHI China
-* Marc Zhao, Software Engineer
-* Menglong Huang, Developer, PingCAP
-* Zuokun Ouyang, PhD Student, Université d'Orléans
-* Jeremy Gross, Sales Engineer, InterSystems
+* Adina Shanholtz, Microsoft
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
-* Yifu Meng, Front-end Developer
-* Sean Gao, Senior Software Engineer
-* Henry Hu, Software Engineer, Fabric Group
-* Bo Feng, Student, Southwest University of Science and Technology
-* Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
-* YuHao Tao (陶宇豪), Student
-* Xun Zhang, Designer and Web Developer, _Github user_
-* Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
-* Lion Zhao(zhaolion), Software Engineer
-* Jared McFarland, Senior Infrastructure Engineer, GitHub
-* Tiange Luo, Student
-* Ziang Chen, Software Engineer
-* Qiang Zhang, levelDesigner 
-* Victor Qi, iOS Engineer, NetEase
-* Peoly，Software Engineer，EDU
-* Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
-* Xu Kai, postgraduate, China University of Geosciences
-* Yi Yang, product manager, Suning Corporation
-* Tinyu Chiu(赵天雨), Student
-* Weijie Hu, Software Engineer, ByteDance
-* WangYun, Senior Software Engineer, ThoughtWorks
-* Xu Gao, Undergraduate, Changchun University
-* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
-* Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
-* Mengxi Yang, User Experience Designer, ThoughtWorks
-* Lei Yao, Game Programmer, DarkSun Studio
-* David Ding(丁鼎), Software Engineer, Student
-* Armaan Handa, Computer Engineer, Student
-* Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
-* Gabriel Laroche, Front End Developer, Nurun inc
-* Jay He, Software Engineer, Smart Testing Ltd, New Zealand
-* James Turnbull, CTO-in-residence, Microsoft
-* Sun-ha Hong, assistant professor, Simon Fraser University
-* Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
-* Tiger Tang, Software Engineer, Student
-* Jonathan Tomer, Software Engineer, Google
-* Ziyi Li(李子毅), Student
-* SheQiao Zheng, Front-End Engineer, Jiawan Interactive
-* Zhuoran Wu, Machine Learning Engineer, Octi.tv
-* Xin Huang, Student
-* Tim Johnson, Software Engineer, Target
-* Vivian Lim, Software Engineer, Microsoft 
-* Winifred R. Poster, Washington University, St. Louis
-* Zachary Laborde, Software Developer, IBM
-* Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
-* Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
-* Vicki Tardif, Ontologist, Google
-* Pavel Dubrova, Software Engineer, Freelancer
-* nufeng74(solarnumen), Software Engineer
-* Guojun Wang(王国军), Software Engineer
-* Yidan Mao(毛义丹), Software Engineer
-* ShunLi Ren(任顺利), Development Manager , 君晟合众 Beijing Network Technology Co 
-* Binary Wang (wangbin), Software Engineer
-* XiaoKang Ji(冀小康), Software Engineer, hangzhou
-* YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
-* Yon Liu, Software Engineer, Wesoft
-* Frey Tang(唐飞),Project Manager,UTILITY EMBLEM
-* Qiang Liu, Symbio
-* Chong Liu, Software Engineer, Corpy&Co., Inc.
-* Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
-* Alex Moores, Scala Developer, Northern Virginia
-* Liang Zhang,Software Engineer, HangZhou
-* Rock Yang, Software Engineer,Shen Zhen Dian Dian Block 
-* Gangping Guo, Software Engineer, Hangzhou
-* Borja Canseco, Software Engineer, IBM
-* Luke Lin, Software Engineer
-* Alice Lai, Applied Scientist, Microsoft
-* YaFeng Wu,Software Architect, HangZhou.China
-* Will Aucoin, Data Specialist, Slyce
-* Thomas Corwin, Software Engineer, Freelancer
-* Le Zhang, Data Scientist, Microsoft
-* Pengli Liu，Software Engineer, Xi'an, China
-* Yihuai Liang(梁义怀), Student/BigData, Pusan National University
-* Rick Zhu, Software Engineer
-* Jie Wang, Maintenance, Hangzhou.China
-* Han Ting, IT manager, Shanghai.China
-* Simon Zhao, Data & Applied Scientist, Microsoft
-* Yao Yuan, AI Scientist, Pensees Ptd Ltd, Singapore
-* Yuan Guo, Senior Software Engineer, App Annie
-* Eric Teo(张再朝), Student, Chongqing Jiaotong University
-* JiaYanwei(hltj), Technical Manager, NIO
-* Swen Wang,Software Engineer, Shanghai.China
-* JunSheng Wang, Software Developer, Giant
-* Han Ting, IT manager, Shanghai.China
-* Simon Zhao, Data & Applied Scientist, Microsoft
-* Zhaowei Zhong (钟兆玮), Student
-* Robert Pupel, Software Engineer, Devs Group
-* John Kordich, Software Engineer, Microsoft
-* Chen Xu, Senior Software Engineer, Microsoft
-* Jasmine Xie, Front-end Engineer
-* Mai Zhanrun, Software Engineer, Guangzhou.China
-* Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
-* ChenBing Wang, Undergraduate, Peking University
-* Boy Liu, Software Engineer, JiNan
-* TsingfunLee, Front-end Engineer, MIGU
-* Massimiliano Del Maestro, Software-Engineer, Mantu
-* Fenghuan, Backend Engineer, Guangzhou.China
-* Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
-* Beck Qin, Software Engineer, eRealm Soft & Tech
-* Alexander D Huang, Game Developer, Acingame
-* Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
-* Kai Liu, Software Engineer, Beijing.China
-* Fruit Lee, Computer Science Master, ZJU
-* JiaChen Yuan, Front-End Engineer, Shanghai.China
-* Shevis Johnson, ML/AI Engineer, Digit
-* Stephen Shen, Software Engineer, MoonLegend.GuiYang
-* Yang Zhang(张阳),Software Engineer, Chengdu, China
-* Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
-* Weilin Shi, Software Engineer, Vungle
-* Varoon Mathur, Technology Fellow, The AI Now Institute
-* Flitrue, Front End Engineer, Beijing
-* Chen Rui (陈锐), 香港KC集团
-* Lei Zhao, Computer Science Master Student, USC
-* Matthew Wiegert, Economics from SUNY at Binghamton
-* Yi Yang, Product Manager, Suning Corporation
-* Tung Honwhee, Freelancer Tech Translator
-* Kangour, Software Engineer, Kunming
-* Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
-* Ryan(Zhenkun) Ou, Software Engineer
-* Xiake Hu, Software Engineer, Student
-* HongBo Du, Software Engineer, Freelancer
-* Ling Gaom, Microsoft Community Independent Advisor
-* Yutao Gu, Developer, Undergraduate student
-* Junjie Lin, Student 
-* Dom Wang, Software Engineer, IBM
-* Better Zhao, Software Engineer
-* FangYang (方阳), Software Engineer
-* Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
-* Huajie Zhou,Student,Guangxi Normal University
-* Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
-* Jisheng Liang(梁基圣)，Student/Software Engineer
-* Tsing Tian(田庆),Software Engineer, YanTai.China
-* Wenlong Liu(刘文龙),Software Engineer, LanZhou.China
-* Shuo Hua，R&D Engineer, Agrointelli
-* Keyao Zhang，Senior Software Engineer, AppEx Networks
 * Alejandro Piad, College Prof., AI Researcher, University of Havana, Cuba
-* Shangsharon(姜尚伟), Software Engineer
-* Qi Liu, Software Engineer
-* Maverick Huang, student, hzwyjxy.com
-* Logic, Software Engineer, RDS
-* J. Li, Student of EE, Chongqing University of Posts and Telecommunications
+* Aleksandra Culver, Senior Site Reliability Engineer, Google
+* Alex Goldschmidt, Software Engineer, Microsoft
+* Alex Moores, Scala Developer, Northern Virginia
+* Alexander D Huang, Game Developer, Acingame
+* Alexander Mancevice, Software Developer, CargoMetrics
+* Ali Atasever, CTO, Vivoo
+* Alice Lai, Applied Scientist, Microsoft
+* Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
+* Amber Erickson, Software Engineer, Microsoft
+* Amr Gaber, Software Engineer, Google
+* Andrew Schwartzmeyer, Software Engineer, Microsoft
+* Armaan Handa, Computer Engineer, Student
+* Ashe Connor, Senior Software Engineer, GitHub
+* Ashly Hamilton, Program Manager, Microsoft
+* Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* Beck Qin, Software Engineer, eRealm Soft & Tech
+* Ben Tarnoff, Logic Editor
+* Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Better Zhao, Software Engineer
+* Binary Wang (wangbin), Software Engineer
+* Bo Feng, Student, Southwest University of Science and Technology
+* Borja Canseco, Software Engineer, IBM
+* Boy Liu, Software Engineer, JiNan
+* Bryan Hughes, Senior Cloud Advocate, Microsoft
+* Camille Malonzo, Software Engineer Microsoft
+* Casey Hong, Microsoft
+* Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
+* Cathy Lee, Brand designer, Oscar Health
+* Chandler Harden, SDE Intern, IBM
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
-* Miguel González-Fierro, Data Scientists, Microsoft
+* Chelsea Wang, Product Designer, Facebook
+* Chen Rui (陈锐), 香港KC集团
+* Chen Xu, Senior Software Engineer, Microsoft
+* ChenBing Wang, Undergraduate, Peking University
+* Cherrie Yu Cheng, Product Manager
+* ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
+* Chong Liu, Software Engineer, Corpy&Co., Inc.
+* Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
+* Christopher Senderling, Microsoft
+* Daniel Greene, Assistant Professor of Information Studies, University of Maryland
+* Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
+* Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
+* David Ding(丁鼎), Software Engineer, Student
+* David Meyerson, Software Engineer II, Microsoft
+* DeepGrace, Senior C++ Expert
+* Deng Mao, Software Engineer, BONC
+* Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
+* Dom Wang, Software Engineer, IBM
+* Dong Jin Zhao, Software Engineer
+* Emily Cunningham, UX Designer at Amazon
+* Eric Teo(张再朝), Student, Chongqing Jiaotong University
+* Erik Knechtel, Microsoft Contractor
+* Esteban Roncancio, Software Engineer, TripAdvisor
+* Fang Sixie, Software Engineer, CCI
+* FangYang (方阳), Software Engineer
+* Fenghuan, Backend Engineer, Guangzhou.China
+* Flitrue, Front End Engineer, Beijing
+* Francis Tseng, Public Science
+* François Conil, Support, GitHub
+* Frey Tang(唐飞),Project Manager,UTILITY EMBLEM
+* Fruit Lee, Computer Science Master, ZJU
+* Gabriel Laroche, Front End Developer, Nurun inc
+* Gangping Guo, Software Engineer, Hangzhou
+* Gregory Ellison, Data Scientist, Microsoft
+* Guojun Wang(王国军), Software Engineer
+* Hal Daumé III, Principal Researcher, Microsoft Research
+* Han Ting, IT manager, Shanghai.China
+* Han Yin, Front-end Developer
+* Hancel Lin, Software Engineer, GIGABYTE.
+* Hang Yang, eCreditpal
+* Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
+* Hao Tao, Web Developer, Bingo Information Co., Ltd.
+* Hao Xu, Azure Developer PMM, Microsoft
+* Harry Yang, Microsoft
+* Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
+* Henry Hu, Software Engineer, Fabric Group
+* Hewie Mei, Software Engineer, Liepin
+* HongBo Du, Software Engineer, Freelancer
+* Huajie Zhou,Student,Guangxi Normal University
+* Irene Knapp, Senior Software Engineer, Google
+* J. Li, Student of EE, Chongqing University of Posts and Telecommunications
+* JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
+* James Turnbull, CTO-in-residence, Microsoft
+* Jared McFarland, Senior Infrastructure Engineer, GitHub
+* Jasmine Xie, Front-end Engineer
+* Jason Prado, Ex-Microsoft Software Engineer 2008-2009
+* Jay He, Software Engineer, Smart Testing Ltd, New Zealand
+* Jeremy Gross, Sales Engineer, InterSystems
+* Jet Wong, Software Engineer, owasp
+* JiaChen Yuan, Front-End Engineer, Shanghai.China
+* Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* JiaYanwei(hltj), Technical Manager, NIO
+* Jie Wang, Maintenance, Hangzhou.China
+* Jing Jing Cao, UX Designer, Anki
+* Jisheng Liang(梁基圣)，Student/Software Engineer
+* John Kordich, Software Engineer, Microsoft
+* Jonathan Tomer, Software Engineer, Google
+* Josh McDuffie, Software Engineer, Constant Contact
+* JS Tan, Software Engineer, Microsoft
+* Julie Mayer, Senior Privacy Manager, Microsoft
+* Junjie Lin, Student
+* JunSheng Wang, Software Developer, Giant
+* Kai Liu, Software Engineer, Beijing.China
+* Kangour, Software Engineer, Kunming
+* Kanzakiken, Software Engineer
+* Kathy Wu, Product Designer, MIT Media Lab
+* Ke Shen, Software Engineer, Google
+* Kelly Wagman, Microsoft Research Assistant
+* Keyao Zhang，Senior Software Engineer, AppEx Networks
+* Knove, Software Engineer, Xiaomi
+* Kristen Sheets, Brandeis University Computer Science
+* Kuilin Xiang, Software Engineer, Juejin
+* Lantao Liu (Lax), Programmer, Full-Time Freelancer
+* Le Zhang, Data Scientist, Microsoft
+* Lei Yao, Game Programmer, DarkSun Studio
+* Lei Zhao, Computer Science Master Student, USC
+* Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
+* Leoython Chou, Software Engineer, CloudMall
+* Leroy Wang, Student, University of Washington
+* Li Xiaoyang, Software Engineer, Didi Chuxing
+* Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
+* Liang Ding, Full-Time Open-Sourcerer, B3log
+* Liang Zhang,Software Engineer, HangZhou
+* Lin Zhang, Software Engineer II, Microsoft
+* Ling Gaom, Microsoft Community Independent Advisor
+* Lion Huang, Senior Software Engineer, Microsoft
+* Lion Zhao(zhaolion), Software Engineer
+* Lip Young(杨 征), Fontend Software Coder, Freelancer
+* Liu Jun, Software Engineer, Guangbao-uni
+* Liz O’Sullivan, former head of annotations at Clarifai
+* Logic, Software Engineer, RDS
+* Long Minghui, Golang Senior Programmer
+* Lowell Bander, Software Engineer, Facebook
+* Luke Lin, Software Engineer
+* Luxroid(MingWang Hao), Software Engineer, Freelancer
+* Mai Zhanrun, Software Engineer, Guangzhou.China
+* Marc Zhao, Software Engineer
+* Margox(Wang Gang), Software Engineer
+* Marie Collins, Business Analyst, Google
+* Mark Dudley, Software Engineer, Google
+* Mark Seaborn, Software Engineer Google
+* Martin Larralde, Bioinformatician, ENS Paris-Saclay
+* Martin Yin, Software Engineer
+* Mary L. Gray Senior Researcher Microsoft Research New England (Associate Professor School of Informatics, Computing, and Engineering Indiana University, Bloomington | Fellow Harvard University Berkman Klein Center for Internet and Society)
+* Massimiliano Del Maestro, Software-Engineer, Mantu
+* Matthew Wiegert, Economics from SUNY at Binghamton
+* Maverick Huang, student, hzwyjxy.com
+* Menglong Huang, Developer, PingCAP
+* Mengxi Yang, User Experience Designer, ThoughtWorks
+* Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
+* Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Miguel González-Fierro, Data Scientists, Microsoft
+* Mikayla Hutchinson, Software Engineer, Microsoft
+* Mike He, Undergraduate Researcher, University of Washington
+* Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
+* Minsoo Thigpen, Microsoft Program Manager
+* Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
+* Naomi Harrington, Program Manager, Microsoft
+* Nekocode(Fan Yueng), Software Engineer, Freelancer
+* Nisha Pillai, Software Engineer
+* Noah Berman, Backend Engineer, WeTransfer
+* Norman Sun, Mobile Developer, Freelancer
+* nufeng74(solarnumen), Software Engineer
+* Paul Leung, Network security Engineer, Labrusca Studio
+* Pavel Dubrova, Software Engineer, Freelancer
+* Pengli Liu，Software Engineer, Xi'an, China
+* Peoly，Software Engineer，EDU
+* Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
+* Qi Liu, Software Engineer
+* Qiang Liu, Symbio
+* Qiang Zhang, levelDesigner
+* Qing Mu, Software Tester, NIO
+* Rachel Miller, Writer
+* Ranjan Pradeep, Software Engineer, Microsoft
+* Rick Zhu, Software Engineer
+* Robert Pupel, Software Engineer, Devs Group
+* Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
+* Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
+* Ruibo Li, Software Developer, 51talk
+* Ryan(Zhenkun) Ou, Software Engineer
+* Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
+* Sean Gao, Senior Software Engineer
+* Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
+* Shan Zhou, Software Engineer, Microsoft
+* Shangsharon(姜尚伟), Software Engineer
+* ShanWu, Frontend Engineer, ThoughtWorks
+* Shaohua Huang, Software Engineer,Alibaba
+* Shen Lin, Front-End Developer, DHI China
+* Shengtao Li, Software Engineer, 66ifuel
+* SheQiao Zheng, Front-End Engineer, Jiawan Interactive
+* Shevis Johnson, ML/AI Engineer, Digit
+* Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
+* Shuirong Lin, Front-end Developer, Freelancer, Student
+* ShunLi Ren(任顺利), Development Manager , 君晟合众 Beijing Network Technology Co
+* Shuo Hua，R&D Engineer, Agrointelli
+* Simon Zhao, Data & Applied Scientist, Microsoft
+* Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Stephanie Parker, Policy Specialist, YouTube
+* Stephen Shen, Software Engineer, MoonLegend.GuiYang
+* Sun-ha Hong, assistant professor, Simon Fraser University
+* Swen Wang,Software Engineer, Shanghai.China
+* Thomas Corwin, Software Engineer, Freelancer
+* Tiange Luo, Student
+* Tiger Tang, Software Engineer, Student
+* Tim Johnson, Software Engineer, Target
+* Tinyu Chiu(赵天雨), Student
+* Topher Weiss, Software Developer, Rational Interaction @ Microsoft
+* Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
+* Tsing Tian(田庆),Software Engineer, YanTai.China
+* TsingfunLee, Front-end Engineer, MIGU
+* Tung Honwhee, Freelancer Tech Translator
+* Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Varoon Mathur, Technology Fellow, The AI Now Institute
+* Vicki Tardif, Ontologist, Google
+* Victor Qi, iOS Engineer, NetEase
+* Vincent Lee, Software Engineer, Hikvision
+* Vivian Lim, Software Engineer, Microsoft
+* Wang Fei, Software Developer and Tech writer
+* Wang Qun Feng, Senior Software Engineer, XTDE
+* WangYun, Senior Software Engineer, ThoughtWorks
+* Wayne Wang, Senior Premier Field Eigineer, Microsoft
+* Weijie Hu, Software Engineer, ByteDance
+* Weilin Shi, Software Engineer, Vungle
+* Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
+* Wendy Liu, Tech Writer
+* Wenlong Liu(刘文龙),Software Engineer, LanZhou.China
+* Will Aucoin, Data Specialist, Slyce
+* Winifred R. Poster, Washington University, St. Louis
+* Wuhao Chen, Student, University College London
+* Xeodou Li, Software Engineer, Udacity
+* Xiake Hu, Software Engineer, Student
+* Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+* XiaoKang Ji(冀小康), Software Engineer, hangzhou
+* Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
+* Xin Huang, Student
+* Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
+* Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
+* Xu Gao, Undergraduate, Changchun University
+* Xu Kai, postgraduate, China University of Geosciences
+* Xudong Cai, Software Engineer, VeryStar
+* Xun Zhang, Designer and Web Developer, Github user
+* YaFeng Wu,Software Architect, HangZhou.China
+* Yamcer(Fan Yang), Software Engineer, Freelancer
+* Yan Cui, Solution Architect, Microsoft
+* Yang Mao, Student, University of Applied Sciences Emden/Leer
+* Yang Zhang(张阳),Software Engineer, Chengdu, China
+* YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
+* Yann Achard, Senior Software Engineer, Microsoft
+* Yao Yuan, AI Scientist, Pensees Ptd Ltd, Singapore
+* Yi Yang, product manager, Suning Corporation
+* Yi Yang, Product Manager, Suning Corporation
+* Yibo Wei, Mobile Developer, SAP
+* Yidan Mao(毛义丹), Software Engineer
+* Yifu Meng, Front-end Developer
+* Yihong Zhang, Student, University of Washington
+* Yihuai Liang(梁义怀), Student/BigData, Pusan National University
+* Yinghao Liu, Senior Software Engineer, ThoughtWorks
+* Yon Liu, Software Engineer, Wesoft
+* Yu Fei(余斐), Software Engineer
+* Yu Guanhua, Software Developer
+* Yu Li, Axinfu.Inc
+* Yuan Guo, Senior Software Engineer, App Annie
+* Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
+* YuHao Tao (陶宇豪), Student
+* Yuns Sun, Fontend Software Coder, Freelancer
+* Yutao Gu, Developer, Undergraduate student
+* Zachary Laborde, Software Developer, IBM
+* ZedeX Zhao, Director of Product, PingAn Group
+* Zhaowei Zhong (钟兆玮), Student
+* Zhenwei Chen, Software Engineer
+* Zhida Liu, Software Engineer, Enjoylife
+* Zhonghua Qiang, Software Engineer, Sofu
+* Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
+* Zhuoran Wu, Machine Learning Engineer, Octi.tv
+* Ziang Chen, Software Engineer
+* ZiHang Gao, Software Engineer, IReader
+* Zion Chen, Software Engineer, SAP
+* Ziyi Li(李子毅), Student
+* Zongbao Feng, Engineer, Baidu
+* Zora Tung, Software Engineer, Google
+* Zuokun Ouyang, PhD Student, Université d'Orléans
