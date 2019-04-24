@@ -282,6 +282,7 @@ Supported by / 支持者:
 * JunSheng Wang, Software Developer, Giant
 * Han Ting, IT manager, Shanghai.China
 * Simon Zhao, Data & Applied Scientist, Microsoft
+* Robert Pupel, Software Engineer, Devs Group
 * John Kordich, Software Engineer, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
