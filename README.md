@@ -267,3 +267,4 @@ Supported by / 支持者:
 * Thomas Corwin, Software Engineer, Freelancer
 * Han Ting, IT manager, Shanghai.China
 * Simon Zhao, Data & Applied Scientist, Microsoft
+* Jasmine Xie, Front-end Engineer
