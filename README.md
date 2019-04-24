@@ -244,6 +244,7 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
+* Alex Moores, Scala Developer, Northern Virginia
 * Liang Zhang,Software Engineer, HangZhou
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block 
 * Gangping Guo, Software Engineer, Hangzhou
