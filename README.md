@@ -265,5 +265,6 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
+* JunSheng Wang, Software Developer, Giant
 * Han Ting, IT manager, Shanghai.China
 * Simon Zhao, Data & Applied Scientist, Microsoft
