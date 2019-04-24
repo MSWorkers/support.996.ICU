@@ -265,6 +265,7 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
+* Yuan Guo, Senior Software Engineer, App Annie
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
 * JiaYanwei(hltj), Technical Manager, NIO
 * Swen Wang,Software Engineer, Shanghai.China
