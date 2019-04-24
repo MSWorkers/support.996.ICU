@@ -245,3 +245,10 @@ Supported by / 支持者:
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
 * Liang Zhang,Software Engineer, HangZhou
+* Rock Yang, Software Engineer,Shen Zhen Dian Dian Block 
+* Gangping Guo, Software Engineer, Hangzhou
+* Borja Canseco, Software Engineer, IBM
+* Luke Lin, Software Engineer
+* Alice Lai, Applied Scientist, Microsoft
+* YaFeng Wu,Software Architect, HangZhou.China
+* Will Aucoin, Data Specialist, Slyce
