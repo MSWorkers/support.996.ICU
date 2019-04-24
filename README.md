@@ -343,3 +343,4 @@ Supported by / 支持者:
 * Miguel González-Fierro, Data Scientists, Microsoft
 * Jackie Koon, student, South China University of Technology
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Jamie Zhang, Software Engineer, Google
