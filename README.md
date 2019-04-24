@@ -222,6 +222,7 @@ Supported by / 支持者:
 * Xu Gao, Undergraduate, Changchun University
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Mengxi Yang, User Experience Designer, ThoughtWorks
 * Lei Yao, Game Programmer, DarkSun Studio
 * David Ding(丁鼎), Software Engineer, Student
 * Armaan Handa, Computer Engineer, Student
