@@ -265,6 +265,7 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
+* Yuan Guo, Senior Software Engineer, App Annie
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
 * JiaYanwei(hltj), Technical Manager, NIO
 * Swen Wang,Software Engineer, Shanghai.China
@@ -273,4 +274,26 @@ Supported by / 支持者:
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
+* Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
+* Beck Qin, Software Engineer, eRealm Soft & Tech
+* Alexander D Huang, Game Developer, Acingame
+* Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Varoon Mathur, Technology Fellow, The AI Now Institute
+* Flitrue, Front End Engineer, Beijing
+* Chen Rui (陈锐), 香港KC集团
+* Lei Zhao, Computer Science Master Student, USC
+* Matthew Wiegert, Economics from SUNY at Binghamton
+* Yi Yang, Product Manager, Suning Corporation
+* Tung Honwhee, Freelancer Tech Translator
+* Kangour, Software Engineer, Kunming
+* Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
+* Ryan(Zhenkun) Ou, Software Engineer
+* Xiake Hu, Software Engineer, Student
+* HongBo Du, Software Engineer, Freelancer
+* Ling Gaom, Microsoft Community Independent Advisor
+* Yutao Gu, Developer, Undergraduate student
+* Junjie Lin, Student 
+* Dom Wang, Software Engineer, IBM
+* Better Zhao, Software Engineer
+* FangYang (方阳), Software Engineer
 * Huajie Zhou,postgraduate,Guangxi Normal University
