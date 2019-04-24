@@ -287,6 +287,7 @@ Supported by / 支持者:
 * John Kordich, Software Engineer, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
+* Mai Zhanrun, Software Engineer, Guangzhou.China
 * Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
 * ChenBing Wang, Undergraduate, Peking University
 * Boy Liu, Software Engineer, JiNan
