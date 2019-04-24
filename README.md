@@ -244,6 +244,7 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
+* Rock Yang, Software Engineer,Shen Zhen Dian Dian Block 
 * Gangping Guo, Software Engineer, Hangzhou
 * Borja Canseco, Software Engineer, IBM
 * Luke Lin, Software Engineer
