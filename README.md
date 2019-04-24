@@ -340,4 +340,5 @@ Supported by / 支持者:
 * Logic, Software Engineer, RDS
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
+* Jackie Koon, student, South China University of Technology
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
