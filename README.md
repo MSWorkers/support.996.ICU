@@ -1,4 +1,4 @@
-![Microsoft and GitHub Workers Support 996.ICU](https://repository-images.githubusercontent.com/182034748/6436e100-61af-11e9-9dc6-4cccaad40092)
+﻿![Microsoft and GitHub Workers Support 996.ICU](https://repository-images.githubusercontent.com/182034748/6436e100-61af-11e9-9dc6-4cccaad40092)
 # Microsoft and GitHub Workers Support 996.ICU
 # 微软员工和 GitHub 员工宣布支持 996.ICU 运动
 
@@ -179,6 +179,7 @@ Supported by / 支持者:
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Jet Wong, Software Engineer, owasp
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Chandler Harden, SDE Intern, IBM
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Ruibo Li, Software Developer, 51talk
 * Wuhao Chen, Student, University College London
@@ -246,6 +247,7 @@ Supported by / 支持者:
 * Pavel Dubrova, Software Engineer, Freelancer
 * nufeng74(solarnumen), Software Engineer
 * Guojun Wang(王国军), Software Engineer
+* Yidan Mao(毛义丹), Software Engineer
 * ShunLi Ren(任顺利), Development Manager , 君晟合众 Beijing Network Technology Co 
 * Binary Wang (wangbin), Software Engineer
 * XiaoKang Ji(冀小康), Software Engineer, hangzhou
@@ -265,6 +267,14 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
+* Le Zhang, Data Scientist, Microsoft
+* Pengli Liu，Software Engineer, Xi'an, China
+* Yihuai Liang(梁义怀), Student/BigData, Pusan National University
+* Rick Zhu, Software Engineer
+* Jie Wang, Maintenance, Hangzhou.China
+* Han Ting, IT manager, Shanghai.China
+* Simon Zhao, Data & Applied Scientist, Microsoft
+* Yao Yuan, AI Scientist, Pensees Ptd Ltd, Singapore
 * Yuan Guo, Senior Software Engineer, App Annie
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
 * JiaYanwei(hltj), Technical Manager, NIO
@@ -272,12 +282,30 @@ Supported by / 支持者:
 * JunSheng Wang, Software Developer, Giant
 * Han Ting, IT manager, Shanghai.China
 * Simon Zhao, Data & Applied Scientist, Microsoft
+* Zhaowei Zhong (钟兆玮), Student
+* Robert Pupel, Software Engineer, Devs Group
+* John Kordich, Software Engineer, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
+* Mai Zhanrun, Software Engineer, Guangzhou.China
+* Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
+* ChenBing Wang, Undergraduate, Peking University
+* Boy Liu, Software Engineer, JiNan
+* TsingfunLee, Front-end Engineer, MIGU
+* Massimiliano Del Maestro, Software-Engineer, Mantu
+* Fenghuan, Backend Engineer, Guangzhou.China
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Kai Liu, Software Engineer, Beijing.China
+* Fruit Lee, Computer Science Master, ZJU
+* JiaChen Yuan, Front-End Engineer, Shanghai.China
+* Shevis Johnson, ML/AI Engineer, Digit
+* Stephen Shen, Software Engineer, MoonLegend.GuiYang
+* Yang Zhang(张阳),Software Engineer, Chengdu, China
+* Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
+* Weilin Shi, Software Engineer, Vungle
 * Varoon Mathur, Technology Fellow, The AI Now Institute
 * Flitrue, Front End Engineer, Beijing
 * Chen Rui (陈锐), 香港KC集团
@@ -297,3 +325,7 @@ Supported by / 支持者:
 * Better Zhao, Software Engineer
 * FangYang (方阳), Software Engineer
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
+* Huajie Zhou,Student,Guangxi Normal University
+* Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
+* Jisheng Liang(梁基圣)，Student/Software Engineer
+* Tsing Tian(田庆),Software Engineer, YanTai.China
