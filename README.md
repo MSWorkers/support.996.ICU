@@ -277,3 +277,4 @@ Supported by / 支持者:
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Shevis Johnson, ML/AI Engineer, Digit
