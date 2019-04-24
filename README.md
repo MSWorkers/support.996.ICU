@@ -304,4 +304,5 @@ Supported by / 支持者:
 * Dom Wang, Software Engineer, IBM
 * Better Zhao, Software Engineer
 * FangYang (方阳), Software Engineer
+* Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Jisheng Liang(梁基圣)，Student/Software Engineer
