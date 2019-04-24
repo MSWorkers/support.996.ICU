@@ -273,3 +273,4 @@ Supported by / 支持者:
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
+* Alexander D Huang, Game Developer, Acingame
