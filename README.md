@@ -250,3 +250,4 @@ Supported by / 支持者:
 * Luke Lin, Software Engineer
 * Alice Lai, Applied Scientist, Microsoft
 * YaFeng Wu,Software Architect, HangZhou.China
+* Will Aucoin, Data Specialist, Slyce
