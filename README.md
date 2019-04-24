@@ -245,3 +245,4 @@ Supported by / 支持者:
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
 * Luke Lin, Software Engineer
+* Alice Lai, Applied Scientist, Microsoft
