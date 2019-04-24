@@ -296,4 +296,4 @@ Supported by / 支持者:
 * Dom Wang, Software Engineer, IBM
 * Better Zhao, Software Engineer
 * FangYang (方阳), Software Engineer
-* Huajie Zhou,postgraduate,Guangxi Normal University
+* Huajie Zhou,Student,Guangxi Normal University
