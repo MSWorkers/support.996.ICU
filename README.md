@@ -1,6 +1,8 @@
 ![Microsoft and GitHub Workers Support 996.ICU](https://repository-images.githubusercontent.com/182034748/6436e100-61af-11e9-9dc6-4cccaad40092)
 # Microsoft and GitHub Workers Support 996.ICU
+> Join Microsoft and GitHub workers to keep [996.ICU](https://github.com/996icu/996.ICU) uncensored and accessible to all!
 # 微软员工和 GitHub 员工宣布支持 996.ICU 运动
+> 加入微软与GitHub员工的行列，让 [996.ICU](https://github.com/996icu/996.ICU) 不被和谐！
 
 Tech workers in China started a GitHub repository titled [996.ICU](https://github.com/996icu/996.ICU), a reference to the grueling and illegal working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention.
 
@@ -13,7 +15,7 @@ This initiative has garnered massive support within China. GitHub users have bee
 
 
 
-The code-sharing platform GitHub, owned by Microsoft, is a place for developers to save, share, and collaborate on software projects. Most important for the 996.ICU movement is that GitHub is accessible in China. It is the dominant platform for developers to collaborate and is a crucial part of Chinese tech companies' daily operations. Since going viral, Chinese domestic browsers, such as those by Tencent and Alibaba, have restricted access to the 996.ICU repository on their web browsers, warning users that the repository contains illegal or malicious content. We must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well.
+The code-sharing platform GitHub, owned by Microsoft, is a place for developers to save, share, and collaborate on software projects. Most important for the 996.ICU movement is that GitHub is accessible in China. It is the dominant platform for developers to collaborate and is a crucial part of Chinese tech companies' daily operations. Since going viral, Chinese domestic browsers, such as those by Tencent and Alibaba, have restricted access to the 996.ICU repository on their web browsers, warning users that the repository contains illegal or malicious content. We must entertain the possibility that Microsoft and GitHub will be pressured to remove the repository as well. 
 
 GitHub 是 996.ICU 运动的理想之地。该平台归微软所有，是开发人员保存、共享软件项目以及进行团队协作的港湾。它提供了类似于社交网络的功能。开发人员可以保存或标记其他人的项目，并通过 GitHub 问题参与讨论。对于 996.ICU 运动来说，最重要的是 GitHub 在中国是可以访问的。它是开发人员进行协作的主要平台，是中国科技企业日常运营的重要组成部分。自从这一话题爆发以来，腾讯和阿里巴巴等中国国内的浏览器已经开始限制用户访问 Github 上的 996.ICU 存储库，并警告用户说该存储库中包含非法或恶意内容。我们必须考虑到微软和 GitHub 也将面临删除该存储库的压力。
 
@@ -21,7 +23,7 @@ In response to these events, we, the workers of Microsoft and GitHub, support th
 
 为了应对可能的风险，我们，作为微软和 GitHub 的员工，决定与中国的技术从业者站在统一战线，支持 996.ICU 运动。我们知道，这是一个跨越国界的问题。同样的问题也渗透到微软和整个行业的全职和临时工作中。我们必须与中国的技术从业者站在一个立场上的另一个原因是，历史告诉我们，跨国公司会把工作外包出去，利用不健全的劳动标准谋求利润最大化，迫使工人在竞次的过程中互相竞争。我们必须跨越国界，万众一心，以确保世界上的每一个人都能够获得公正的工作条件。
 
-We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https://github.com/996icu/996.ICU) **uncensored and available to everyone.**
+We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https://github.com/996icu/996.ICU) **uncensored and available to everyone.** 
 
 
 我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都不要删改 996.ICU 的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持 996.ICU 运动，并有效利用 GitHub 平台为中国科技工作者发声，传播他们的故事。
@@ -35,7 +37,7 @@ __150 tech workers*__
 
 __150 名技术工作者*__
 
-To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
+To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement. 
 
 对于其他技术从业者和行业内外的支持者，我们恳请您加入我们对 996.ICU 运动的支持。
 
@@ -45,7 +47,7 @@ To add your name to the list of supporters, make a pull request with your name a
 
 
 > \* We launched this petition publicly at the same time that we announced it within Microsoft. We will be updating the number of signed employees periodically as signatures are added.
->
+> 
 > \* 我们在微软内部发起该请愿的同时对外公开了请愿书。随着支持者人数不断增多，我们会定期更新已签名员工的数量。
 
 Supported by / 支持者:
@@ -114,7 +116,7 @@ Supported by / 支持者:
 * Dong Jin Zhao, Software Engineer
 * Lin Zhang, Software Engineer II, Microsoft
 * Wayne Wang, Senior Premier Field Eigineer, Microsoft
-* Liang Ding, Full-Time Open-Sourcerer, B3log
+* Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
 * Shuirong Lin, Front-end Developer, Freelancer, Student
@@ -135,10 +137,11 @@ Supported by / 支持者:
 * ZedeX Zhao, Director of Product, PingAn Group
 * Long Minghui, Golang Senior Programmer
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
-* Ashe Connor, Senior Software Engineer, GitHub
+* Ashe Connor, Senior Software Engineer, GitHub 
 * Kathy Wu, Product Designer, MIT Media Lab
 * Chelsea Wang, Product Designer, Facebook
-* ShanWu, Frontend Engineer, ThoughtWorks
+* Yinghao Liu，Senior Soft Engineer，ThoughWorks
+* ShanWu, Frontend Engineer, ThoughtWorks 
 * Hewie Mei, Software Engineer, Liepin
 * Kanzakiken, Software Engineer
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
@@ -244,6 +247,7 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
+* nufeng74(solarnumen), Software Engineer
 * Guojun Wang(王国军), Software Engineer
 * ShunLi Ren(任顺利), Development Manager , 君晟合众 Beijing Network Technology Co 
 * Binary Wang (wangbin), Software Engineer
@@ -264,4 +268,14 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
-* Liam(Liang Ding), Ph.D. Student and former NLP Algorithm Engineering
+* Eric Teo(张再朝), Student, Chongqing Jiaotong University
+* JiaYanwei(hltj), Technical Manager, NIO
+* Swen Wang,Software Engineer, Shanghai.China
+* JunSheng Wang, Software Developer, Giant
+* Han Ting, IT manager, Shanghai.China
+* Simon Zhao, Data & Applied Scientist, Microsoft
+* Chen Xu, Senior Software Engineer, Microsoft
+* Jasmine Xie, Front-end Engineer
+* Alexander D Huang, Game Developer, Acingame
+* Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
