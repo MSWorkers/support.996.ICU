@@ -283,6 +283,7 @@ Supported by / 支持者:
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Weilin Shi, Software Engineer, Vungle
 * Varoon Mathur, Technology Fellow, The AI Now Institute
 * Flitrue, Front End Engineer, Beijing
 * Chen Rui (陈锐), 香港KC集团
