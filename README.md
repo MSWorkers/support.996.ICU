@@ -287,10 +287,6 @@ Supported by / 支持者:
 * John Kordich, Software Engineer, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
-* Tsing Tian(田庆),Software Engineer, YanTai.China
-* ChenBing Wang, Undergraduate, Peking University
-* Boy Liu, Software Engineer, JiNan
-* TsingfunLee, Front-end Engineer, MIGU
 * Massimiliano Del Maestro, Software-Engineer, Mantu
 * Fenghuan, Backend Engineer, Guangzhou.China
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
@@ -318,3 +314,5 @@ Supported by / 支持者:
 * FangYang (方阳), Software Engineer
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Jisheng Liang(梁基圣)，Student/Software Engineer
+* Shuo Hua，R&D Engineer, Agrointelli
+
