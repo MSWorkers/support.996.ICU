@@ -244,6 +244,13 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
+* Guojun Wang(王国军), Software Engineer
+* ShunLi Ren(任顺利), Development Manager , 君晟合众 Beijing Network Technology Co 
+* Binary Wang (wangbin), Software Engineer
+* XiaoKang Ji(冀小康), Software Engineer, hangzhou
+* YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
+* Yon Liu, Software Engineer, Wesoft
+* Frey Tang(唐飞),Project Manager,UTILITY EMBLEM
 * Qiang Liu, Symbio
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
@@ -256,4 +263,5 @@ Supported by / 支持者:
 * Alice Lai, Applied Scientist, Microsoft
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
+* Thomas Corwin, Software Engineer, Freelancer
 * JunSheng Wang, Software Developer, Giant
