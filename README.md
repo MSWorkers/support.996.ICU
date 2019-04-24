@@ -298,6 +298,7 @@ Supported by / 支持者:
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Fruit Lee, Computer Science Master, ZJU
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Shevis Johnson, ML/AI Engineer, Digit
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
