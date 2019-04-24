@@ -149,6 +149,7 @@ Supported by / 支持者:
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Jiang Siyuan, Hunan University
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
 * Jing Jing Cao, UX Designer, Anki
