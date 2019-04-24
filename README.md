@@ -287,7 +287,6 @@ Supported by / 支持者:
 * John Kordich, Software Engineer, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
-* Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
 * ChenBing Wang, Undergraduate, Peking University
 * Boy Liu, Software Engineer, JiNan
 * TsingfunLee, Front-end Engineer, MIGU
@@ -320,3 +319,4 @@ Supported by / 支持者:
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Jisheng Liang(梁基圣)，Student/Software Engineer
 * Tsing Tian(田庆),Software Engineer, YanTai.China
+* LiuWenlong(刘文龙),Software Engineer, LanZhou.China
