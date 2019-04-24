@@ -265,3 +265,4 @@ Supported by / 支持者:
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
 * Han Ting, IT manager, Shanghai.China
+* Simon Zhao, Data & Applied Scientist, Microsoft
