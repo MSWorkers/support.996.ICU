@@ -278,3 +278,4 @@ Supported by / 支持者:
 * Jasmine Xie, Front-end Engineer
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* Yang Zhang(张阳),Software Engineer, Chengdu, China
