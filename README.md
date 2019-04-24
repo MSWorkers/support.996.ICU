@@ -273,3 +273,4 @@ Supported by / 支持者:
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
+* Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
