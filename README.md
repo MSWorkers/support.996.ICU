@@ -297,6 +297,7 @@ Supported by / 支持者:
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * XiaoKang Ji(冀小康), Software Engineer, hangzhou
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
+* Xihao Zhang，student from technical school
 * Xin Huang, Student
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
