@@ -244,6 +244,7 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Vicki Tardif, Ontologist, Google
 * Pavel Dubrova, Software Engineer, Freelancer
+* Frey Tang(唐飞),Project Manager,UTILITY EMBLEM
 * Qiang Liu, Symbio
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
