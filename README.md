@@ -333,4 +333,7 @@ Supported by / 支持者:
 * Shuo Hua，R&D Engineer, Agrointelli
 * Keyao Zhang，Senior Software Engineer, AppEx Networks
 * Alejandro Piad, College Prof., AI Researcher, University of Havana, Cuba
-* Shangsharon(姜尚伟),Software Engineer
+* Shangsharon(姜尚伟), Software Engineer
+* Qi Liu, Software Engineer
+* Maverick Huang, student, hzwyjxy.com
+* Logic, Software Engineer, RDS
