@@ -84,6 +84,7 @@ Supported by / 支持者:
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
+* Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Chelsea Wang, Product Designer, Facebook
 * Chen Rui (陈锐), 香港KC集团
