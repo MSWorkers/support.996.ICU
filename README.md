@@ -287,6 +287,9 @@ Supported by / 支持者:
 * John Kordich, Software Engineer, Microsoft
 * Chen Xu, Senior Software Engineer, Microsoft
 * Jasmine Xie, Front-end Engineer
+* ChenBing Wang, Undergraduate, Peking University
+* Boy Liu, Software Engineer, JiNan
+* TsingfunLee, Front-end Engineer, MIGU
 * Massimiliano Del Maestro, Software-Engineer, Mantu
 * Fenghuan, Backend Engineer, Guangzhou.China
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
