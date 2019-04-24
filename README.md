@@ -264,3 +264,4 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
+* Rick Zhu, Software Engineer
