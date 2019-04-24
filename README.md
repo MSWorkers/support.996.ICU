@@ -230,6 +230,7 @@ Supported by / 支持者:
 * James Turnbull, CTO-in-residence, Microsoft
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
+* Cone Pi(皮康龙), Software Engineer, Student
 * Tiger Tang, Software Engineer, Student
 * Jonathan Tomer, Software Engineer, Google
 * Ziyi Li(李子毅), Student
