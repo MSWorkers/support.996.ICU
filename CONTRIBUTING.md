@@ -21,6 +21,8 @@ Please also considering starring the
 
 Microsoft and GitHub are global companies with workers all around the world. While English and Chinese are the primary languages we support, we welcome translations of the letter into other languages. To do so, make a pull request with your translated version of the letter under `README_<language_code>.md`. For example, the Spanish translated version may look like `README_ES.md`. 
 
+When making a translated version, only translate the contents of the letter and not the signatures themselves. Signatures should only go into the main `README.md`.
+
 When creating the pull request for a language translation, please add a native speaker of the language you are translating to to review the contents of the pull request.
 
 If you plan on translating the `README.md`, we ask that you consider yourself a native speaker and writer of the language you are translating to. Please only translate _from_ the English or Chinese version of the letter as we want to make sure that translations are as accurate as possible. 
