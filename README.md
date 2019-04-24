@@ -267,6 +267,7 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Thomas Corwin, Software Engineer, Freelancer
+* Le Zhang, Data Scientist, Microsoft
 * Pengli Liu，Software Engineer, Xi'an, China
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Rick Zhu, Software Engineer
