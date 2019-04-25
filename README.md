@@ -320,6 +320,7 @@ Supported by / 支持者:
 * Yifu Meng, Front-end Developer
 * Yihong Zhang, Student, University of Washington
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
+* Yijie Deng, Student, University of Washington
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Yon Liu, Software Engineer, Wesoft
 * Yu Fei(余斐), Software Engineer
