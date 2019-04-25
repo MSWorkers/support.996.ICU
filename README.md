@@ -234,6 +234,7 @@ Supported by / 支持者:
 * Qi Liu, Software Engineer
 * Qiang Liu, Symbio
 * Qiang Zhang, levelDesigner
+* Qiang Zhang, Front End Engineer, YouShu
 * Qing Mu, Software Tester, NIO
 * Rachel Miller, Writer
 * Ranjan Pradeep, Software Engineer, Microsoft
