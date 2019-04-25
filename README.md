@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__319 tech workers*__
+__320 tech workers*__
 
 签名，
 
-__319 名技术工作者*__
+__320 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -100,6 +100,7 @@ Supported by / 支持者:
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Christopher Senderling, Microsoft
+* Chuck Zhang, Amazon
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
