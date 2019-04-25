@@ -253,6 +253,7 @@ Supported by / 支持者:
 * Ruibo Li, Software Developer, 51talk
 * Ryan(Zhenkun) Ou, Software Engineer
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
+* Satoshi Jek (Guangnan Jin), Student
 * Sean Gao, Senior Software Engineer
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
 * Shan Zhou, Software Engineer, Microsoft
