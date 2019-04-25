@@ -327,6 +327,7 @@ Supported by / 支持者:
 * Yu Fei(余斐), Software Engineer
 * Yu Guanhua, Software Developer
 * Yu Li, Axinfu.Inc
+* Yu Li, Software Engineer, Shanghai DaoCloud Network Technology Co., Ltd.
 * Yuan Guo, Senior Software Engineer, App Annie
 * Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
 * YuHao Tao (陶宇豪), Student
