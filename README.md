@@ -297,6 +297,7 @@ Supported by / 支持者:
 * Xeodou Li, Software Engineer, Udacity
 * Xiake Hu, Software Engineer, Student
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+* Xiang Zheng, Software Engineer, ShenZhen
 * XiaoKang Ji(冀小康), Software Engineer, hangzhou
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Xihao Zhang，student from technical school
