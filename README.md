@@ -201,6 +201,7 @@ Supported by / 支持者:
 * Lowell Bander, Software Engineer, Facebook
 * Luke Lin, Software Engineer
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
+* Lyon Chen, Full Stack Developer
 * Mai Zhanrun, Software Engineer, Guangzhou.China
 * Marc Zhao, Software Engineer
 * Margox(Wang Gang), Software Engineer
