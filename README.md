@@ -161,6 +161,7 @@ Supported by / 支持者:
 * Josh McDuffie, Software Engineer, Constant Contact
 * JS Tan, Software Engineer, Microsoft
 * Julie Mayer, Senior Privacy Manager, Microsoft
+* Junhui Guan, Front-end Developer
 * Junjie Lin, Student
 * JunSheng Wang, Software Developer, Giant
 * Kai Liu, Software Engineer, Beijing.China
