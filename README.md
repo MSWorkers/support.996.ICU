@@ -242,6 +242,7 @@ Supported by / 支持者:
 * Rachel Miller, Writer
 * Ranjan Pradeep, Software Engineer, Microsoft
 * Rick Zhu, Software Engineer
+* Rico Liu, Front_End Developer, Qing Dao
 * Robert Pupel, Software Engineer, Devs Group
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
