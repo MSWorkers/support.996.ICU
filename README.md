@@ -162,6 +162,7 @@ Supported by / 支持者:
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Jiang Siyuan, Hunan University
+* Jiandong Shi, Developer, Nanjing, China
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
