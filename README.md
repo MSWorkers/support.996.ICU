@@ -240,6 +240,7 @@ Supported by / 支持者:
 * Norman Sun, Mobile Developer, Freelancer
 * nufeng74(solarnumen), Software Engineer
 * Paul Leung, Network security Engineer, Labrusca Studio
+* Paulo Estraich, Backend Developer
 * Pavel Dubrova, Software Engineer, Freelancer
 * Pengli Liu, Software Engineer, Xi'an, China
 * Peoly, Software Engineer, EDU
