@@ -154,6 +154,7 @@ Supported by / 支持者:
 * Jason Prado, Ex-Microsoft Software Engineer 2008-2009
 * Jay He, Software Engineer, Smart Testing Ltd, New Zealand
 * Jeremy Gross, Sales Engineer, InterSystems
+* Jessica Paoli, Web designer, GitHub
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
