@@ -305,6 +305,7 @@ Supported by / 支持者:
 * Xu Kai, postgraduate, China University of Geosciences
 * Xudong Cai, Software Engineer, VeryStar
 * Xun Zhang, Designer and Web Developer, Github user
+* Xiang Zheng, Software Engineer, ShenZhen
 * YaFeng Wu,Software Architect, HangZhou.China
 * Yamcer(Fan Yang), Software Engineer, Freelancer
 * Yan Cui, Solution Architect, Microsoft
