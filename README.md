@@ -295,6 +295,7 @@ Supported by / 支持者:
 * Xeodou Li, Software Engineer, Udacity
 * Xiake Hu, Software Engineer, Student
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
+* Xiang Zheng, Software Engineer, ShenZhen
 * XiaoKang Ji(冀小康), Software Engineer, hangzhou
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Xihao Zhang，student from technical school
@@ -305,7 +306,6 @@ Supported by / 支持者:
 * Xu Kai, postgraduate, China University of Geosciences
 * Xudong Cai, Software Engineer, VeryStar
 * Xun Zhang, Designer and Web Developer, Github user
-* Xiang Zheng, Software Engineer, ShenZhen
 * YaFeng Wu,Software Architect, HangZhou.China
 * Yamcer(Fan Yang), Software Engineer, Freelancer
 * Yan Cui, Solution Architect, Microsoft
