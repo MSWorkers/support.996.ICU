@@ -357,6 +357,7 @@ Supported by / 支持者:
 * Zachary Laborde, Software Developer, IBM
 * ZedeX Zhao, Director of Product, PingAn Group
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
+* ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhenwei Chen, Software Engineer
 * Zhida Liu, Software Engineer, Enjoylife
@@ -364,6 +365,7 @@ Supported by / 支持者:
 * Zhong Wei (钟威), PhD Student at Rochester Institute of Technology
 * Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
+* Zhou Quan, Software Engineer, SmartRecruiters
 * Ziang Chen, Software Engineer
 * ZiHang Gao, Software Engineer, IReader
 * Zion Chen, Software Engineer, SAP
@@ -371,4 +373,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhou Quan, Software Engineer, SmartRecruiters
