@@ -135,6 +135,7 @@ Supported by / 支持者:
 * Hao Xu, Azure Developer PMM, Microsoft
 * Harry Yang, Microsoft
 * Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
+* Harrison Feng, Bigdata & AI Architecture, Chengdu, China
 * Henry Hu, Software Engineer, Fabric Group
 * Hewie Mei, Software Engineer, Liepin
 * HongBo Du, Software Engineer, Freelancer
