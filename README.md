@@ -195,6 +195,7 @@ Supported by / 支持者:
 * Lion Zhao(zhaolion), Software Engineer
 * Lip Young(杨 征), Fontend Software Coder, Freelancer
 * Liu Jun, Software Engineer, Guangbao-uni
+* Liu TianYu, Software Engineer, Beijing.China
 * Liz O’Sullivan, former head of annotations at Clarifai
 * Logic, Software Engineer, RDS
 * Long Minghui, Golang Senior Programmer
