@@ -234,6 +234,7 @@ Supported by / 支持者:
 * Naomi Harrington, Program Manager, Microsoft
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
 * Nisha Pillai, Software Engineer
+* Nnsinex, Front-end Developer
 * Noah Berman, Backend Engineer, WeTransfer
 * Norman Sun, Mobile Developer, Freelancer
 * nufeng74(solarnumen), Software Engineer
