@@ -118,7 +118,7 @@ Supported by / 支持者:
 * Flitrue, Front End Engineer, Beijing
 * Francis Tseng, Public Science
 * François Conil, Support, GitHub
-* Frey Tang(唐飞),Project Manager,UTILITY EMBLEM
+* Frey Tang(唐飞), Project Manager,UTILITY EMBLEM
 * Fruit Lee, Computer Science Master, ZJU
 * Gabriel Laroche, Front End Developer, Nurun inc
 * Gangping Guo, Software Engineer, Hangzhou
@@ -175,7 +175,7 @@ Supported by / 支持者:
 * Kathy Wu, Product Designer, MIT Media Lab
 * Ke Shen, Software Engineer, Google
 * Kelly Wagman, Microsoft Research Assistant
-* Keyao Zhang，Senior Software Engineer, AppEx Networks
+* Keyao Zhang, Senior Software Engineer, AppEx Networks
 * Knove, Software Engineer, Xiaomi
 * Kristen Sheets, Brandeis University Computer Science
 * Kuilin Xiang, Software Engineer, Juejin
