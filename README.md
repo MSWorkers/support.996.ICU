@@ -332,6 +332,7 @@ Supported by / 支持者:
 * YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
 * Yann Achard, Senior Software Engineer, Microsoft
 * Yao Yuan, AI Scientist, Pensees Ptd Ltd, Singapore
+* Yaoze Ye, Student
 * Yi Yang, product manager, Suning Corporation
 * Yi Yang, Product Manager, Suning Corporation
 * Yibo Wei, Mobile Developer, SAP
