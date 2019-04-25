@@ -107,6 +107,7 @@ Supported by / 支持者:
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
 * Dom Wang, Software Engineer, IBM
 * Dong Jin Zhao, Software Engineer
+* Duke (吴涛), Sunning
 * Duo Zhang (张铎), Data Scientist, Broentech Solutions AS, Norway
 * Emily Cunningham, UX Designer at Amazon
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
