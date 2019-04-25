@@ -135,6 +135,7 @@ Supported by / 支持者:
 * Han Yin, Front-end Developer
 * Hancel Lin, Software Engineer, GIGABYTE.
 * Hang Yang, eCreditpal
+* Hao Li (李皓), Applied Scientist, Amazon.
 * Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Hao Xu, Azure Developer PMM, Microsoft
@@ -158,6 +159,7 @@ Supported by / 支持者:
 * Jay He, Software Engineer, Smart Testing Ltd, New Zealand
 * Jeremy Gross, Sales Engineer, InterSystems
 * Jessica Paoli, Web designer, GitHub
+* Jeff Liang, Software Development Engineer, Amazon Web Services
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
@@ -193,6 +195,7 @@ Supported by / 支持者:
 * Lei Yao, Game Programmer, DarkSun Studio
 * Lei Zhao, Computer Science Master Student, USC
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
+* Leon Sun, System Engineer, Amazon
 * Leoython Chou, Software Engineer, CloudMall
 * Leroy Wang, Student, University of Washington
 * Li Dian, Front-end Developer, Software Engineer Student
@@ -262,6 +265,7 @@ Supported by / 支持者:
 * Rico Liu, Front_End Developer, Qing Dao
 * Robert Pupel, Software Engineer, Devs Group
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
+* Rocky Martin, Data Analyst, Criteo 
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
 * Ruibo Li, Software Developer, 51talk
