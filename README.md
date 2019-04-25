@@ -235,8 +235,8 @@ Supported by / 支持者:
 * nufeng74(solarnumen), Software Engineer
 * Paul Leung, Network security Engineer, Labrusca Studio
 * Pavel Dubrova, Software Engineer, Freelancer
-* Pengli Liu，Software Engineer, Xi'an, China
-* Peoly，Software Engineer，EDU
+* Pengli Liu, Software Engineer, Xi'an, China
+* Peoly, Software Engineer, EDU
 * Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
 * Qi Liu, Software Engineer
 * Qiang Liu, Symbio
@@ -280,7 +280,7 @@ Supported by / 支持者:
 * Tinyu Chiu(赵天雨), Student
 * Topher Weiss, Software Developer, Rational Interaction @ Microsoft
 * Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
-* Tsing Tian(田庆),Software Engineer, YanTai.China
+* Tsing Tian(田庆), Software Engineer, YanTai.China
 * TsingfunLee, Front-end Engineer, MIGU
 * Tung Honwhee, Freelancer Tech Translator
 * Txdy, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
@@ -297,7 +297,7 @@ Supported by / 支持者:
 * Weilin Shi, Software Engineer, Vungle
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Wendy Liu, Tech Writer
-* Wenlong Liu(刘文龙),Software Engineer, LanZhou.China
+* Wenlong Liu(刘文龙), Software Engineer, LanZhou.China
 * Will Aucoin, Data Specialist, Slyce
 * Winifred R. Poster, Washington University, St. Louis
 * Wuhao Chen, Student, University College London
