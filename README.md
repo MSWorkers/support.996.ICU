@@ -66,6 +66,7 @@ Supported by / 支持者:
 * Amber Erickson, Software Engineer, Microsoft
 * Amr Gaber, Software Engineer, Google
 * Andrew Schwartzmeyer, Software Engineer, Microsoft
+* Angad Sharma, Software Engineering Student
 * Armaan Handa, Computer Engineer, Student
 * Ashe Connor, Senior Software Engineer, GitHub
 * Ashly Hamilton, Program Manager, Microsoft
@@ -361,6 +362,7 @@ Supported by / 支持者:
 * Zhonghua Qiang, Software Engineer, Sofu
 * Zhong Wei (钟威), PhD Student at Rochester Institute of Technology
 * Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
+* Zhou Quan, Software Engineer, SmartRecruiters
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Ziang Chen, Software Engineer
 * ZiHang Gao, Software Engineer, IReader
@@ -369,5 +371,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhou Quan, Software Engineer, SmartRecruiters
-* Angad Sharma, Software Engineering Student
