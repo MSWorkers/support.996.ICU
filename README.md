@@ -242,6 +242,7 @@ Supported by / 支持者:
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
 * Ruibo Li, Software Developer, 51talk
 * Ryan(Zhenkun) Ou, Software Engineer
+* Rexxara(YiMing, Lei), Frontend Engineer, Xiao Mi
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
 * Sean Gao, Senior Software Engineer
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
