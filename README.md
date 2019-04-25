@@ -346,6 +346,7 @@ Supported by / 支持者:
 * Zhenwei Chen, Software Engineer
 * Zhida Liu, Software Engineer, Enjoylife
 * Zhonghua Qiang, Software Engineer, Sofu
+* Zhong Wei (钟威), PhD Student at Rochester Institute of Technology
 * Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Ziang Chen, Software Engineer
