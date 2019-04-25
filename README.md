@@ -328,6 +328,7 @@ Supported by / 支持者:
 * Yijie Deng, Student, University of Washington
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Yon Liu, Software Engineer, Wesoft
+* Yongbao Wang, Enginner, Suning
 * Yu Fei(余斐), Software Engineer
 * Yu Guanhua, Software Developer
 * Yu Li, Axinfu.Inc
