@@ -85,6 +85,7 @@ Supported by / 支持者:
 * Camille Malonzo, Software Engineer Microsoft
 * Casey Hong, Microsoft
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
+* Catherine Bui, Web designer, GitHub
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
 * Chao Tang(唐超), Software Engineer
