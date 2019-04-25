@@ -188,6 +188,7 @@ Supported by / 支持者:
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Liang Ding, Full-Time Open-Sourcerer, B3log
+* Liang Wang, Architecture, Shenzhen, China
 * Liang Zhang,Software Engineer, HangZhou
 * Lin Zhang, Software Engineer II, Microsoft
 * Ling Gaom, Microsoft Community Independent Advisor
