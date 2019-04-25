@@ -138,7 +138,7 @@ Supported by / 支持者:
 * Henry Hu, Software Engineer, Fabric Group
 * Hewie Mei, Software Engineer, Liepin
 * HongBo Du, Software Engineer, Freelancer
-* Huajie Zhou,Student,Guangxi Normal University
+* Huajie Zhou, Student,Guangxi Normal University
 * Irene Knapp, Senior Software Engineer, Google
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * JackEggie(Jack Tang), Software Engineer, Infor
@@ -260,9 +260,8 @@ Supported by / 支持者:
 * Shevis Johnson, ML/AI Engineer, Digit
 * Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
 * Shuirong Lin, Front-end Developer, Freelancer, Student
-* ShunLi Ren(任顺利), Development Manager , 君晟合众 Beijing Network Technology Co
-* Shuo Hua，R&D Engineer, Agrointelli
-* Simon Zhao, Data & Applied Scientist, Microsoft
+* ShunLi Ren(任顺利), Development Manager, 君晟合众 Beijing Network Technology Co
+* Shuo Hua, R&D Engineer, Agrointelli
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
 * Stephanie Parker, Policy Specialist, YouTube
@@ -303,7 +302,7 @@ Supported by / 支持者:
 * Xiang Zheng, Software Engineer, ShenZhen
 * XiaoKang Ji(冀小康), Software Engineer, hangzhou
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
-* Xihao Zhang，student from technical school
+* Xihao Zhang, student from technical school
 * Xin Huang, Student
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
