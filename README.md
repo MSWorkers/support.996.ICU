@@ -370,3 +370,4 @@ Supported by / 支持者:
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Zhou Quan, Software Engineer, SmartRecruiters
+* Angad Sharma, Software Engineering Student
