@@ -89,6 +89,7 @@ Supported by / 支持者:
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Chelsea Wang, Product Designer, Facebook
+* Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
 * ChenBing Wang, Undergraduate, Peking University
