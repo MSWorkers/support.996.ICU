@@ -84,6 +84,7 @@ Supported by / 支持者:
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
+* Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Chelsea Wang, Product Designer, Facebook
@@ -95,7 +96,6 @@ Supported by / 支持者:
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Christopher Senderling, Microsoft
-* Chao Tang(唐超), Software Engineer
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
