@@ -354,6 +354,7 @@ Supported by / 支持者:
 * Yutao Gu, Developer, Undergraduate student
 * Zachary Laborde, Software Developer, IBM
 * ZedeX Zhao, Director of Product, PingAn Group
+* Zehao Chen(陈泽浩), Software Engineer, Enjoylife
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
 * Zhaowei Zhong (钟兆玮), Student
 * Zhenwei Chen, Software Engineer
