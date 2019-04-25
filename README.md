@@ -133,6 +133,7 @@ Supported by / 支持者:
 * Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Hao Xu, Azure Developer PMM, Microsoft
+* Haoshen Zhong(钟昊燊), Computer Science Student, Foshan.China
 * Harry Yang, Microsoft
 * Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
 * Harrison Feng, Bigdata & AI Architecture, Chengdu, China
