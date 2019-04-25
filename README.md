@@ -53,6 +53,7 @@ Supported by / 支持者:
 
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
+* Aladdin(唯然), Software Engineer, Alibaba Inc. 
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
 * Alejandro Piad, College Prof., AI Researcher, University of Havana, Cuba
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
@@ -370,4 +371,3 @@ Supported by / 支持者:
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Zhou Quan, Software Engineer, SmartRecruiters
-* Aladdin(唯然), Software Engineer, Alibaba Inc. 
