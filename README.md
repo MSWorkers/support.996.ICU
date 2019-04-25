@@ -75,6 +75,7 @@ Supported by / 支持者:
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Better Zhao, Software Engineer
 * Binary Wang (wangbin), Software Engineer
+* Bingyao Ma (马秉尧), Software Engineer, Adtalos
 * Bo Feng, Student, Southwest University of Science and Technology
 * Borja Canseco, Software Engineer, IBM
 * Boy Liu, Software Engineer, JiNan
