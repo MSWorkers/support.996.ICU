@@ -391,4 +391,4 @@ Supported by / 支持者:
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
-* Chuan Du, HUAWEI, Xian.China
+* Chuan Du, Software Engineer,HUAWEI, Xian.China
