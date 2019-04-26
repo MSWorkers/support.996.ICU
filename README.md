@@ -159,6 +159,7 @@ Supported by / 支持者:
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
+* James Lord - Software Developer
 * James Turnbull, CTO-in-residence, Microsoft
 * Jamie Zhang, Software Engineer, Google
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
