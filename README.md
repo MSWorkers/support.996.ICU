@@ -91,6 +91,7 @@ Supported by / 支持者:
 * Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
+* Chuan Du, Software Engineer,HUAWEI, Xian.China
 * Chelsea Wang, Product Designer, Facebook
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
@@ -391,4 +392,3 @@ Supported by / 支持者:
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
-* Chuan Du, Software Engineer,HUAWEI, Xian.China
