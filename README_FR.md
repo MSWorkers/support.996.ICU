@@ -10,7 +10,7 @@ En réponse à ces évènements, nous, travailleurs de Microsoft et de GitHub, p
 
 Signé,
 
-__336 travailleurs des nouvelles technologies__
+__355 travailleurs des nouvelles technologies__
 
 Nous exhortons tous les travailleurs du secteur à nous rejoindre dans notre soutien au mouvement 996.ICU.
 
