@@ -276,6 +276,7 @@ Supported by / 支持者:
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
 * Rocky Martin, Data Analyst, Criteo 
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
+* Ruan Wenjun, Software Engineer, Student, CSU
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
 * Ruibo Li, Software Developer, 51talk
 * Ryan(Zhenkun) Ou, Software Engineer
