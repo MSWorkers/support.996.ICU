@@ -154,6 +154,7 @@ Supported by / 支持者:
 * HongBo Du, Software Engineer, Freelancer
 * Huajie Zhou, Student,Guangxi Normal University
 * Irene Knapp, Senior Software Engineer, Google
+* İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
@@ -182,6 +183,7 @@ Supported by / 支持者:
 * Jonathan Tomer, Software Engineer, Google
 * Josh McDuffie, Software Engineer, Constant Contact
 * Joshua Shao, Student, Rhode Island School of Design
+* J.S.Patrick,Front-end developer
 * JS Tan, Software Engineer, Microsoft
 * Julie Mayer, Senior Privacy Manager, Microsoft
 * Junhui Guan, Front-end Developer
@@ -242,6 +244,7 @@ Supported by / 支持者:
 * Meng Xiang, Full Stack Engineer
 * Menglong Huang, Developer, PingCAP
 * Mengxi Yang, User Experience Designer, ThoughtWorks
+* Meng Xiang(项萌), Full Stack engineer
 * Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
 * Miguel González-Fierro, Data Scientists, Microsoft
