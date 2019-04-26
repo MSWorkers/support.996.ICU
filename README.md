@@ -209,6 +209,7 @@ Supported by / 支持者:
 * Ling Gaom, Microsoft Community Independent Advisor
 * Lion Huang, Senior Software Engineer, Microsoft
 * Lion Zhao(zhaolion), Software Engineer
+* Lionkk, Senior Software Engineer, Microsoft, Suzhou.China
 * Lip Young(杨 征), Fontend Software Coder, Freelancer
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
