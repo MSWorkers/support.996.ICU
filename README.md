@@ -404,3 +404,4 @@ Supported by / 支持者:
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
 * Lang Qin, IC Verification Engineer, Globalfoundries
+* J.S.Patrick, Front-end Engineer
