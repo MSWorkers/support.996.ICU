@@ -291,6 +291,7 @@ Supported by / 支持者:
 * Shuo Hua, R&D Engineer, Agrointelli
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Songwen Ding(丁松文), Software Engineer, Bytedance
 * Stephanie Parker, Policy Specialist, YouTube
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
 * Steven Hitchcock, Localization Tester, Microsoft
@@ -391,4 +392,3 @@ Supported by / 支持者:
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
-* Songwen Ding(丁松文), Software Engineer, Bytedance
