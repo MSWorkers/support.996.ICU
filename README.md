@@ -276,3 +276,4 @@ Supported by / 支持者:
 * Jasmine Xie, Front-end Engineer
 * Alexander D Huang, Game Developer, Acingame
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
+* J.S.Patrick, Front-end Engineer
