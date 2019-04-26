@@ -104,6 +104,7 @@ Supported by / 支持者:
 * Christopher Senderling, Microsoft
 * Chuck Zhang, Amazon
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
+* Danni She, Software Engineer, Amazon
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
 * Doan Pham Phu, Full-stack Web developer
@@ -168,6 +169,7 @@ Supported by / 支持者:
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Jiadong Guo Software Engineer, ShenZhen.China
 * Jiang Siyuan, Hunan University
 * Jiandong Shi, Developer, Nanjing, China
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
@@ -222,6 +224,7 @@ Supported by / 支持者:
 * Long Minghui, Golang Senior Programmer
 * Lowell Bander, Software Engineer, Facebook
 * Luke Lin, Software Engineer
+* Luo Qian, Software Engineer, Guangzhou
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Lyon Chen, Full Stack Developer
 * Mai Zhanrun, Software Engineer, Guangzhou.China
@@ -236,6 +239,7 @@ Supported by / 支持者:
 * Massimiliano Del Maestro, Software-Engineer, Mantu
 * Matthew Wiegert, Economics from SUNY at Binghamton
 * Maverick Huang, student, hzwyjxy.com
+* Meng Xiang, Full Stack Engineer
 * Menglong Huang, Developer, PingCAP
 * Mengxi Yang, User Experience Designer, ThoughtWorks
 * Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
