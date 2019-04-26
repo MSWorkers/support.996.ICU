@@ -324,6 +324,7 @@ Supported by / 支持者:
 * Wayne Wang, Senior Premier Field Eigineer, Microsoft
 * Weijie Hu, Software Engineer, ByteDance
 * Weilin Shi, Software Engineer, Vungle
+* Weiyou Zhu, Software Engineer, Shanghai.China
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Wendy Liu, Tech Writer
 * Wenlong Liu(刘文龙), Software Engineer, LanZhou.China
