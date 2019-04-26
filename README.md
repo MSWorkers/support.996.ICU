@@ -128,6 +128,7 @@ Supported by / 支持者:
 * Fruit Lee, Computer Science Master, ZJU
 * Gabriel Laroche, Front End Developer, Nurun inc
 * Gangping Guo, Software Engineer, Hangzhou
+* Jiadong Guo, Software Engineer, ShenZhen
 * Gao Xinyu, student of foreign language department from Yangtze University
 * Gregory Ellison, Data Scientist, Microsoft
 * Guojun Wang(王国军), Software Engineer
