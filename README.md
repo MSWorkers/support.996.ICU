@@ -104,6 +104,7 @@ Supported by / 支持者:
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
+* Doan Pham Phu, Full-stack Web developer
 * David Ding(丁鼎), Software Engineer, Student
 * David Meyerson, Software Engineer II, Microsoft
 * DeepGrace, Senior C++ Expert
@@ -385,4 +386,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Doan Pham Phu, Full-stack Web developer
