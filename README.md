@@ -296,6 +296,7 @@ Supported by / 支持者:
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
 * Stephanie Parker, Policy Specialist, YouTube
+* Stephen Fong, Software Engineer, Student
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
 * Steven Hitchcock, Localization Tester, Microsoft
 * Sun-ha Hong, assistant professor, Simon Fraser University
