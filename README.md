@@ -274,6 +274,7 @@ Supported by / 支持者:
 * Satoshi Jek (Guangnan Jin), Student
 * Sean Gao, Senior Software Engineer
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
+* Seth Lin(XiuFeng Lin), Software Engineer, Fabric Group
 * Shan Zhou, Software Engineer, Microsoft
 * Shangsharon(姜尚伟), Software Engineer
 * ShanWu, Frontend Engineer, ThoughtWorks
