@@ -311,6 +311,7 @@ Supported by / 支持者:
 * Wang Fei, Software Developer and Tech writer
 * Wang Qun Feng, Senior Software Engineer, XTDE
 * WangYun, Senior Software Engineer, ThoughtWorks
+* warmcheng(钱程), Android Engineer, Beijing.China
 * Wayne Wang, Senior Premier Field Eigineer, Microsoft
 * Weijie Hu, Software Engineer, ByteDance
 * Weilin Shi, Software Engineer, Vungle
