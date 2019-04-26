@@ -278,6 +278,7 @@ Supported by / 支持者:
 * Shangsharon(姜尚伟), Software Engineer
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Shaohua Huang, Software Engineer,Alibaba
+* Shaoqing Li, Front-End Engineer, China
 * Shen Lin, Front-End Developer, DHI China
 * Shengtao Li, Software Engineer, 66ifuel
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
