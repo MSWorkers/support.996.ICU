@@ -109,7 +109,7 @@ Supported by / 支持者:
 * Dong Jin Zhao, Software Engineer
 * Duke (吴涛), Sunning
 * Duo Zhang (张铎), Data Scientist, Broentech Solutions AS, Norway
-* Enchong Wang, Software Engineer, Bellevue
+* Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
 * Erik Knechtel, Microsoft Contractor
