@@ -296,6 +296,7 @@ Supported by / 支持者:
 * Sian Lerk Lau, Software Engineer, Jewel Paymentech
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Songwen Ding(丁松文), Software Engineer, Bytedance
 * Stephanie Parker, Policy Specialist, YouTube
 * Stephen Fong, Software Engineer, Student
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
