@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__336 tech workers*__
+__337 tech workers*__
 
 签名，
 
-__336 名技术工作者*__
+__337 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -107,6 +107,7 @@ Supported by / 支持者:
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
 * David Ding(丁鼎), Software Engineer, Student
 * David Meyerson, Software Engineer II, Microsoft
+* Dean Tambling, Software Engineer, GitHub
 * DeepGrace, Senior C++ Expert
 * Deng Mao, Software Engineer, BONC
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
