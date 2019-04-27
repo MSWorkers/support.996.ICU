@@ -97,6 +97,7 @@ Supported by / 支持者:
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
+* Chen Zizhuo, Customer Manager, China Construction Bank
 * ChenBing Wang, Undergraduate, Peking University
 * Cherrie Yu Cheng, Product Manager
 * ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
@@ -104,6 +105,8 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Christopher Senderling, Microsoft
 * Chuck Zhang, Amazon
+* Chunli Lin, Undergraduate, Ningbo University of Technology
+* Chun Liu, Senior Consultant, Microsoft
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danni She, Software Engineer, Amazon
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
@@ -119,6 +122,7 @@ Supported by / 支持者:
 * Dong Jin Zhao, Software Engineer
 * Duke (吴涛), Sunning
 * Duo Zhang (张铎), Data Scientist, Broentech Solutions AS, Norway
+* Duzy Chan, ExtBit Limited
 * EINDEX Li, Software Engineer, Wuhan.China
 * Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
@@ -158,6 +162,7 @@ Supported by / 支持者:
 * Irene Knapp, Senior Software Engineer, Google
 * İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
+* Jacob Ritchie, Research Assistant, University of Toronto
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
 * James Lord - Software Developer
@@ -172,6 +177,7 @@ Supported by / 支持者:
 * Jeff Liang, Software Development Engineer, Amazon Web Services
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
+* Jiacheng Liu, Computer Science Student, Harbin Institute of Technology (Weihai)
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Jiadong Guo Software Engineer, ShenZhen.China
 * Jiang Siyuan, Hunan University
@@ -215,6 +221,7 @@ Supported by / 支持者:
 * Li Qida, Student
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
+* Lang Qin, IC Verification Engineer, Globalfoundries
 * Liang Ding, Full-Time Open-Sourcerer, B3log
 * Liang Wang, Architecture, Shenzhen, China
 * Liang Zhang,Software Engineer, HangZhou
@@ -307,6 +314,7 @@ Supported by / 支持者:
 * Sian Lerk Lau, Software Engineer, Jewel Paymentech
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Song Xiaofei(宋晓飞), Pythoner
 * Songwen Ding(丁松文), Software Engineer, Bytedance
 * Stephanie Parker, Policy Specialist, YouTube
 * Stephen Fong, Software Engineer, Student
@@ -315,6 +323,7 @@ Supported by / 支持者:
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Swen Wang,Software Engineer, Shanghai.China
 * Thomas Corwin, Software Engineer, Freelancer
+* Tian Chen, Software Engineer,  ShenZhen, China.
 * Tiange Luo, Student
 * Tiger Tang, Software Engineer, Student
 * Tim Johnson, Software Engineer, Target
