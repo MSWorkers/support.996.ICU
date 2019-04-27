@@ -262,6 +262,7 @@ Supported by / 支持者:
 * Noah Berman, Backend Engineer, WeTransfer
 * Norman Sun, Mobile Developer, Freelancer
 * nufeng74(solarnumen), Software Engineer
+* Panda Blessing(王福全), Software Engineer, Project Manager, Wu'han Kuai'you, China
 * Paul Leung, Network security Engineer, Labrusca Studio
 * Paulo Estraich, Backend Developer
 * Pavel Dubrova, Software Engineer, Freelancer
