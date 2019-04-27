@@ -360,6 +360,7 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Yamcer(Fan Yang), Software Engineer, Freelancer
 * Yan Cui, Solution Architect, Microsoft
+* Yang He(杨赫) Software Engineer, Student, Number 1 High School Affiliated to TJU.
 * Yang Mao, Student, University of Applied Sciences Emden/Leer
 * Yang Zhang(张阳),Software Engineer, Chengdu, China
 * YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
@@ -409,4 +410,3 @@ Supported by / 支持者:
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
 * Lang Qin, IC Verification Engineer, Globalfoundries
-* Yang He(杨赫) Software Engineer, Student, Number 1 High School Affiliated to TJU.
