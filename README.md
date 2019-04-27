@@ -75,6 +75,7 @@ Supported by / 支持者:
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Ben Tarnoff, Logic Editor
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Benwei Zhu, Senior Software Engineer/Tech Lead, ThoughtWorks
 * Better Zhao, Software Engineer
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
@@ -409,4 +410,3 @@ Supported by / 支持者:
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
 * Lang Qin, IC Verification Engineer, Globalfoundries
-* Benwei Zhu, Senior Software Engineer/Tech Lead, ThoughtWorks
