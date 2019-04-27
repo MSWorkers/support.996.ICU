@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__355 tech workers*__
+__356 tech workers*__
 
 签名，
 
-__355 名技术工作者*__
+__356 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -373,6 +373,7 @@ Supported by / 支持者:
 * YaFeng Wu,Software Architect, HangZhou.China
 * Yamcer(Fan Yang), Software Engineer, Freelancer
 * Yan Cui, Solution Architect, Microsoft
+* Yang He(杨赫) Software Engineer, Student, Number 1 High School Affiliated to TJU.
 * Yang Mao, Student, University of Applied Sciences Emden/Leer
 * Yang Zhang(张阳),Software Engineer, Chengdu, China
 * YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
