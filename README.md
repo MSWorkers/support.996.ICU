@@ -103,6 +103,7 @@ Supported by / 支持者:
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Christopher Senderling, Microsoft
 * Chuck Zhang, Amazon
+* Chun Liu, Senior Consultant, Microsoft
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danni She, Software Engineer, Amazon
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
