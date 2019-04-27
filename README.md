@@ -116,6 +116,7 @@ Supported by / 支持者:
 * David Meyerson, Software Engineer II, Microsoft
 * Dean Tambling, Software Engineer, GitHub
 * DeepGrace, Senior C++ Expert
+* Deming Feng(冯德明), Software Engineer, ShenZhen.China
 * Deng Mao, Software Engineer, BONC
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
 * Dom Wang, Software Engineer, IBM
@@ -421,4 +422,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Deming Feng(冯德明), Software Engineer, ShenZhen.China
