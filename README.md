@@ -409,3 +409,4 @@ Supported by / 支持者:
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * Xianli Si, Software Engineer, Belle International
 * Lang Qin, IC Verification Engineer, Globalfoundries
+* Benwei Zhu, Tech Lead, ThoughtWorks
