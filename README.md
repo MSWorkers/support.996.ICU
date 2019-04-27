@@ -96,6 +96,7 @@ Supported by / 支持者:
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
+* Chen Zizhuo, Customer Manager, China Construction Bank
 * ChenBing Wang, Undergraduate, Peking University
 * Cherrie Yu Cheng, Product Manager
 * ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
@@ -313,6 +314,7 @@ Supported by / 支持者:
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Swen Wang,Software Engineer, Shanghai.China
 * Thomas Corwin, Software Engineer, Freelancer
+* Tian Chen, Software Engineer,  ShenZhen, China.
 * Tiange Luo, Student
 * Tiger Tang, Software Engineer, Student
 * Tim Johnson, Software Engineer, Target
