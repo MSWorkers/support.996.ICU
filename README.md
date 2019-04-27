@@ -173,6 +173,7 @@ Supported by / 支持者:
 * Jeff Liang, Software Development Engineer, Amazon Web Services
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
+* Jiacheng Liu, Computer Science Student, Harbin Institute of Technology (Weihai)
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
 * Jiadong Guo Software Engineer, ShenZhen.China
 * Jiang Siyuan, Hunan University
