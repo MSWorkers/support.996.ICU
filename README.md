@@ -211,6 +211,7 @@ Supported by / 支持者:
 * Leroy Wang, Student, University of Washington
 * Li Dian, Front-end Developer, Software Engineer Student
 * Li Qida, Student
+* Chunli Lin, Undergraduate, Ningbo University of Technology
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Liang Ding, Full-Time Open-Sourcerer, B3log
