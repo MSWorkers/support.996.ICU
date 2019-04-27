@@ -289,6 +289,7 @@ Supported by / 支持者:
 * Rico Liu, Front_End Developer, Qing Dao
 * Robert Pupel, Software Engineer, Devs Group
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
+* Rocken Li(李嘉诚), Student
 * Rocky Martin, Data Analyst, Criteo 
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
