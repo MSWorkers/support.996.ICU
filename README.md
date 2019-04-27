@@ -213,6 +213,7 @@ Supported by / 支持者:
 * Li Qida, Student
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
+* Lang Qin, IC Verification Engineer, Globalfoundries
 * Liang Ding, Full-Time Open-Sourcerer, B3log
 * Liang Wang, Architecture, Shenzhen, China
 * Liang Zhang,Software Engineer, HangZhou
@@ -305,6 +306,7 @@ Supported by / 支持者:
 * Sian Lerk Lau, Software Engineer, Jewel Paymentech
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Song Xiaofei(宋晓飞), Pythoner
 * Songwen Ding(丁松文), Software Engineer, Bytedance
 * Stephanie Parker, Policy Specialist, YouTube
 * Stephen Fong, Software Engineer, Student
@@ -346,7 +348,8 @@ Supported by / 支持者:
 * Xiake Hu, Software Engineer, Student
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Xiang Zheng, Software Engineer, ShenZhen
-* XiaoKang Ji(冀小康), Software Engineer, hangzhou
+* XiaoKang Ji(冀小康), Software Engineer, Hangzhou
+* Xianli Si, Software Engineer, Belle International
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Xihao Zhang, student from technical school
 * Xin Huang, Student
@@ -407,6 +410,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Xianli Si, Software Engineer, Belle International
-* Lang Qin, IC Verification Engineer, Globalfoundries
-* Song Xiaofei(宋晓飞),Pythoner
