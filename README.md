@@ -157,6 +157,7 @@ Supported by / 支持者:
 * Irene Knapp, Senior Software Engineer, Google
 * İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
+* Jacob Ritchie, Research Assistant, University of Toronto
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
 * James Lord - Software Developer
