@@ -75,6 +75,7 @@ Supported by / 支持者:
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Ben Tarnoff, Logic Editor
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
+* Benwei Zhu, Senior Software Engineer/Tech Lead, ThoughtWorks
 * Better Zhao, Software Engineer
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
@@ -207,6 +208,7 @@ Supported by / 支持者:
 * Knove, Software Engineer, Xiaomi
 * Kristen Sheets, Brandeis University Computer Science
 * Kuilin Xiang, Software Engineer, Juejin
+* Lang Qin, IC Verification Engineer, Globalfoundries
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
 * Le Zhang, Data Scientist, Microsoft
 * Lei Yao, Game Programmer, DarkSun Studio
@@ -355,8 +357,8 @@ Supported by / 支持者:
 * Xiake Hu, Software Engineer, Student
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Xiang Zheng, Software Engineer, ShenZhen
-* XiaoKang Ji(冀小康), Software Engineer, Hangzhou
 * Xianli Si, Software Engineer, Belle International
+* XiaoKang Ji(冀小康), Software Engineer, hangzhou
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Xihao Zhang, student from technical school
 * Xin Huang, Student
