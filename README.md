@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__372 tech workers*__
+__373 tech workers*__
 
 签名，
 
-__372 名技术工作者*__
+__373 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -393,6 +393,7 @@ Supported by / 支持者:
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Yijie Deng, Student, University of Washington
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
+* Yin Xia, Student/Data Analyst, Shanghai Maritime University
 * Yon Liu, Software Engineer, Wesoft
 * Yongbao Wang, Enginner, Suning
 * Yu Fei(余斐), Software Engineer
