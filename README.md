@@ -391,6 +391,7 @@ Supported by / 支持者:
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Yijie Deng, Student, University of Washington
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
+* Yin Xia, Student/Data Analyst, Shanghai Maritime University
 * Yon Liu, Software Engineer, Wesoft
 * Yongbao Wang, Enginner, Suning
 * Yu Fei(余斐), Software Engineer
