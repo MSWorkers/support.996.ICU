@@ -404,6 +404,7 @@ Supported by / 支持者:
 * Yin Xia, Student/Data Analyst, Shanghai Maritime University
 * Yon Liu, Software Engineer, Wesoft
 * Yongbao Wang, Enginner, Suning
+* Yu Chen(陈宇), Software Engineer, Xique Life
 * Yu Fei(余斐), Software Engineer
 * Yu Guanhua, Software Developer
 * Yu Li, Axinfu.Inc
@@ -434,4 +435,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Yu Chen(陈宇),Software Engineer,Xique Life
