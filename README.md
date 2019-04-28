@@ -90,6 +90,7 @@ Supported by / 支持者:
 * Catherine Bui, Web designer, GitHub
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
+* Changfeng Chen, Software Engineer, LongShine
 * Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
