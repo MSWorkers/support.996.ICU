@@ -156,6 +156,7 @@ Supported by / 支持者:
 * Harry Yang, Microsoft
 * Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
 * Harrison Feng, Bigdata & AI Architecture, Chengdu, China
+* Henghui Liu, Software Engineer
 * Henry Hu, Software Engineer, Fabric Group
 * Hewie Mei, Software Engineer, Liepin
 * HongBo Du, Software Engineer, Freelancer
@@ -424,4 +425,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Henghui Liu, Software Engineer
