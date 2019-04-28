@@ -107,6 +107,7 @@ Supported by / 支持者:
 * Chuck Zhang, Amazon
 * Chunli Lin, Undergraduate, Ningbo University of Technology
 * Chun Liu, Senior Consultant, Microsoft
+* Changfeng Chen, Software Engineer, LongShine
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danni She, Software Engineer, Amazon
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
@@ -424,3 +425,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
+
