@@ -330,6 +330,7 @@ Supported by / 支持者:
 * Thomas Corwin, Software Engineer, Freelancer
 * Tian Chen, Software Engineer,  ShenZhen, China.
 * Tiange Luo, Student
+* TianZone, Software Engineer, China
 * Tiger Tang, Software Engineer, Student
 * Tim Johnson, Software Engineer, Target
 * Tinyu Chiu(赵天雨), Student
