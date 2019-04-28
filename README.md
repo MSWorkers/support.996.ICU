@@ -324,6 +324,7 @@ Supported by / 支持者:
 * ShunLi Ren(任顺利), Development Manager, 君晟合众 Beijing Network Technology Co
 * Shuo Hua, R&D Engineer, Agrointelli
 * Sian Lerk Lau, Software Engineer, Jewel Paymentech
+* Sidak Singh Aulakh, Student and Open-Source Developer, Chandigarh College of Engineering and Technology.
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
 * Song Xiaofei(宋晓飞), Pythoner
@@ -434,4 +435,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Sidak Singh Aulakh, Student and Open-Source Developer, Chandigarh College of Engineering and Technology.
