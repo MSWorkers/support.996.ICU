@@ -416,6 +416,7 @@ Supported by / 支持者:
 * Yuns Sun, Fontend Software Coder, Freelancer
 * Yutao Gu, Developer, Undergraduate student
 * Zachary Laborde, Software Developer, IBM
+* Zaijing Wang(王在京), Unity3d Game Client Developer, Jinggle Inc
 * ZedeX Zhao, Director of Product, PingAn Group
 * Zehao Chen(陈泽浩), Software Engineer, Enjoylife
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
@@ -436,4 +437,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zaijing Wang(王在京), Unity3d Game Client Developer, Jinggle Inc
