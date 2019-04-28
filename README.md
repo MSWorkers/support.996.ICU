@@ -434,3 +434,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
+* Sidak Singh Aulakh, Student and Open-Source Developer, Chandigarh College of Engineering and Technology.
