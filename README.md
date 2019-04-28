@@ -216,6 +216,7 @@ Supported by / 支持者:
 * Knove, Software Engineer, Xiaomi
 * Kristen Sheets, Brandeis University Computer Science
 * Kuilin Xiang, Software Engineer, Juejin
+* Kunxiong Ling, Development Engineer, BMW Group
 * Kevin Li, System Support Analyst, TSG, Auckland, New Zealand
 * Lang Qin, IC Verification Engineer, Globalfoundries
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
