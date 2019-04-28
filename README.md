@@ -374,6 +374,7 @@ Supported by / 支持者:
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Xihao Zhang, student from technical school
 * Xin Huang, Student
+* Xing Qi, Web Developer, ChongQing.China
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
 * Xu Gao, Undergraduate, Changchun University
