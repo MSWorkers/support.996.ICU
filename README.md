@@ -131,8 +131,9 @@ Supported by / 支持者:
 * Erik Knechtel, Microsoft Contractor
 * Esteban Roncancio, Software Engineer, TripAdvisor
 * Fang Sixie, Software Engineer, CCI
-* FangYang (方阳), Software Engineer
+* FenghuiXu, Software Engineer, Microsoft
 * Fenghuan, Backend Engineer, Guangzhou.China
+* FangYang (方阳), Software Engineer
 * Flitrue, Front End Engineer, Beijing
 * Francis Tseng, Public Science
 * François Conil, Support, GitHub
