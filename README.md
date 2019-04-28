@@ -202,6 +202,7 @@ Supported by / 支持者:
 * Kai Liu, Software Engineer, Beijing.China
 * Kangour, Software Engineer, Kunming
 * Kanzakiken, Software Engineer
+* Kangqi Wang(王康琦), Software Engineer, Wales
 * Kathy Wu, Product Designer, MIT Media Lab
 * Ke Shen, Software Engineer, Google
 * Kelly Wagman, Microsoft Research Assistant
