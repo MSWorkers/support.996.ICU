@@ -222,6 +222,7 @@ Supported by / 支持者:
 * Li Dian, Front-end Developer, Software Engineer Student
 * Li Qida, Student
 * Li Xiaoyang, Software Engineer, Didi Chuxing
+* Li Yunpeng(李云鹏|李良逸), Android Engineer, Netease
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Lang Qin, IC Verification Engineer, Globalfoundries
 * Liang Ding, Full-Time Open-Sourcerer, B3log
