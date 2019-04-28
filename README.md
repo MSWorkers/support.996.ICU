@@ -109,6 +109,7 @@ Supported by / 支持者:
 * Chun Liu, Senior Consultant, Microsoft
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danni She, Software Engineer, Amazon
+* Danyang Zhang, Student, Tsinghua University
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
 * Doan Pham Phu, Full-stack Web developer
