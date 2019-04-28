@@ -433,6 +433,7 @@ Supported by / 支持者:
 * ZiHang Gao, Software Engineer, IReader
 * Zion Chen, Software Engineer, SAP
 * Ziyi Li(李子毅), Student
+* Zixiang Wang, Student
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
