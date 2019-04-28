@@ -215,6 +215,7 @@ Supported by / 支持者:
 * Lei Yao, Game Programmer, DarkSun Studio
 * Lei Zhao, Computer Science Master Student, USC
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
+* Leon Leung, Web Front-end Senior Engineer, EKing Technolgy
 * Leon Sun, System Engineer, Amazon
 * Leoython Chou, Software Engineer, CloudMall
 * Leroy Wang, Student, University of Washington
