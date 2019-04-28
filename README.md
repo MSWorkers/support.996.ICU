@@ -89,6 +89,7 @@ Supported by / 支持者:
 * Catherine Bui, Web designer, GitHub
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
+* Changfeng Chen, Software Engineer, LongShine
 * Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
@@ -107,7 +108,6 @@ Supported by / 支持者:
 * Chuck Zhang, Amazon
 * Chunli Lin, Undergraduate, Ningbo University of Technology
 * Chun Liu, Senior Consultant, Microsoft
-* Changfeng Chen, Software Engineer, LongShine
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danni She, Software Engineer, Amazon
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
@@ -425,4 +425,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-
