@@ -176,6 +176,7 @@ Supported by / 支持者:
 * James Turnbull, CTO-in-residence, Microsoft
 * Jamie Zhang, Software Engineer, Google
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
+* Jared Li(李公拯), M.S. in Computer Science, UC Davis
 * Jasmine Xie, Front-end Engineer
 * Jason Prado, Ex-Microsoft Software Engineer 2008-2009
 * Jay He, Software Engineer, Smart Testing Ltd, New Zealand
