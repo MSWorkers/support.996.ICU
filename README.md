@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__373 tech workers*__
+__374 tech workers*__
 
 签名，
 
-__373 名技术工作者*__
+__374 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -82,6 +82,7 @@ Supported by / 支持者:
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
 * Bo Feng, Student, Southwest University of Science and Technology
+* Bofei Wang (王博飞), University of New South Wales, Sydney
 * Borja Canseco, Software Engineer, IBM
 * Boy Liu, Software Engineer, JiNan
 * Bryan Hughes, Senior Cloud Advocate, Microsoft
