@@ -423,6 +423,7 @@ Supported by / 支持者:
 * Zhaowei Zhong (钟兆玮), Student
 * Zhenwei Chen, Software Engineer
 * Zhida Liu, Software Engineer, Enjoylife
+* Zhipeng Fu, PhD Candidate, Nanjing University
 * Zhonghua Qiang, Software Engineer, Sofu
 * Zhong Wei (钟威), PhD Student at Rochester Institute of Technology
 * Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
@@ -436,4 +437,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhipeng Fu, PhD Candidate, Nanjing University
