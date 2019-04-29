@@ -247,6 +247,7 @@ Supported by / 支持者:
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
 * Liz O’Sullivan, former head of annotations at Clarifai
+* Li Youyou, Ph.D. Candidate, China.
 * Logic, Software Engineer, RDS
 * Long Minghui, Golang Senior Programmer
 * Lowell Bander, Software Engineer, Facebook
