@@ -378,6 +378,7 @@ Supported by / 支持者:
 * Xing Qi, Web Developer, ChongQing.China
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
+* Xiong Chaowei(熊超伟), Software Engineer, Guangzhou
 * Xu Gao, Undergraduate, Changchun University
 * Xu Kai, postgraduate, China University of Geosciences
 * Xudong Cai, Software Engineer, VeryStar
@@ -436,4 +437,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Xiong Chaowei(熊超伟), Software Engineer, Guangzhou
