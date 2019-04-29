@@ -378,6 +378,7 @@ Supported by / 支持者:
 * Will Aucoin, Data Specialist, Slyce
 * Winifred R. Poster, Washington University, St. Louis
 * Wuhao Chen, Student, University College London
+* Wenzhi Xu, Software Engineer, Program for FREEDOM.
 * Xeodou Li, Software Engineer, Udacity
 * Xiake Hu, Software Engineer, Student
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
