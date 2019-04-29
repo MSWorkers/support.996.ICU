@@ -441,3 +441,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
+* Zhicheng Huang(黄智程), College of Mobile Communications, Chongqing University of Posts and Telecommunications
