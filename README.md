@@ -64,6 +64,7 @@ Supported by / 支持者:
 * Alexander Mancevice, Software Developer, CargoMetrics
 * Ali Atasever, CTO, Vivoo
 * Alice Lai, Applied Scientist, Microsoft
+* Allen Yang（杨淇), Computer Engineer, Student
 * Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
 * Amber Erickson, Software Engineer, Microsoft
 * Amr Gaber, Software Engineer, Google
