@@ -132,6 +132,7 @@ Supported by / 支持者:
 * EINDEX Li, Software Engineer, Wuhan.China
 * Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
+* Ercin Dedeoglu, Software Architect, Bilge Adam
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
 * Erik Knechtel, Microsoft Contractor
 * Esteban Roncancio, Software Engineer, TripAdvisor
