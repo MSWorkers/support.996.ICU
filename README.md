@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__373 tech workers*__
+__374 tech workers*__
 
 签名，
 
-__373 名技术工作者*__
+__374 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -64,6 +64,7 @@ Supported by / 支持者:
 * Alexander Mancevice, Software Developer, CargoMetrics
 * Ali Atasever, CTO, Vivoo
 * Alice Lai, Applied Scientist, Microsoft
+* Allen Yang（杨淇), Computer Engineer, Student
 * Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
 * Amber Erickson, Software Engineer, Microsoft
 * Amr Gaber, Software Engineer, Google
@@ -81,6 +82,7 @@ Supported by / 支持者:
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
 * Bo Feng, Student, Southwest University of Science and Technology
+* Bofei Wang (王博飞), University of New South Wales, Sydney
 * Borja Canseco, Software Engineer, IBM
 * Boy Liu, Software Engineer, JiNan
 * Bryan Hughes, Senior Cloud Advocate, Microsoft
@@ -216,6 +218,7 @@ Supported by / 支持者:
 * Knove, Software Engineer, Xiaomi
 * Kristen Sheets, Brandeis University Computer Science
 * Kuilin Xiang, Software Engineer, Juejin
+* Kunxiong Ling, Development Engineer, BMW Group
 * Kevin Li, System Support Analyst, TSG, Auckland, New Zealand
 * Lang Qin, IC Verification Engineer, Globalfoundries
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
@@ -378,7 +381,7 @@ Supported by / 支持者:
 * Xing Qi, Web Developer, ChongQing.China
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
-* Xiong Chaowei, Master, Guangzhou
+* Xiong Chaowei(熊超伟), Software Engineer, Guangzhou
 * Xu Gao, Undergraduate, Changchun University
 * Xu Kai, postgraduate, China University of Geosciences
 * Xudong Cai, Software Engineer, VeryStar
@@ -417,6 +420,7 @@ Supported by / 支持者:
 * Yuns Sun, Fontend Software Coder, Freelancer
 * Yutao Gu, Developer, Undergraduate student
 * Zachary Laborde, Software Developer, IBM
+* Zaijing Wang(王在京), Unity3d Game Client Developer, Jinggle Inc
 * ZedeX Zhao, Director of Product, PingAn Group
 * Zehao Chen(陈泽浩), Software Engineer, Enjoylife
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
