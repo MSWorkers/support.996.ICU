@@ -98,6 +98,7 @@ Supported by / 支持者:
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Chuan Du, Software Engineer,HUAWEI, Xian.China
 * Chelsea Wang, Product Designer, Facebook
+* Chen Jian, Network Engineer, Suzhou
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
@@ -441,4 +442,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Chen Jian, Network Engineer, Suzhou
