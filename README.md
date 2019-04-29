@@ -320,6 +320,7 @@ Supported by / 支持者:
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
 * Satoshi Jek (Guangnan Jin), Student
 * Sean Gao, Senior Software Engineer
+* Sen Huang, Graduated Student, University of Wollongong
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
 * Seth Lin(XiuFeng Lin), Software Engineer, Fabric Group
 * Shan Zhou, Software Engineer, Microsoft
