@@ -79,6 +79,7 @@ Supported by / 支持者:
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Benwei Zhu, Senior Software Engineer/Tech Lead, ThoughtWorks
 * Better Zhao, Software Engineer
+* Binghua Zhou, Amazon
 * Bing Liu, Developer.
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
@@ -94,6 +95,7 @@ Supported by / 支持者:
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
 * Chang Yan, Front End Engineer, Facebook
+* Chang Yan, Undergraduate, University of Washington 
 * Changfeng Chen, Software Engineer, LongShine
 * Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
@@ -106,6 +108,7 @@ Supported by / 支持者:
 * Chen Xu, Senior Software Engineer, Microsoft
 * Chen Zizhuo, Customer Manager, China Construction Bank
 * ChenBing Wang, Undergraduate, Peking University
+* Chenglong Lu, QDaily
 * Cherrie Yu Cheng, Product Manager
 * ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
@@ -153,6 +156,7 @@ Supported by / 支持者:
 * Gangping Guo, Software Engineer, Hangzhou
 * Gao Xinyu, student of foreign language department from Yangtze University
 * Gregory Ellison, Data Scientist, Microsoft
+* Guo Jian, Software Engineer, Mianyang, China
 * Guojun Wang(王国军), Software Engineer
 * Hal Daumé III, Principal Researcher, Microsoft Research
 * Han Ting, IT manager, Shanghai.China
@@ -175,6 +179,7 @@ Supported by / 支持者:
 * Huajie Zhou, Student,Guangxi Normal University
 * Irene Knapp, Senior Software Engineer, Google
 * İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
+* Ivan Wen, CUNY student
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * Jacob Ritchie, Research Assistant, University of Toronto
 * JackEggie(Jack Tang), Software Engineer, Infor
@@ -191,6 +196,7 @@ Supported by / 支持者:
 * Jessica Paoli, Web designer, GitHub
 * Jeff Liang, Software Development Engineer, Amazon Web Services
 * Jerry Chen, Senior Software Developer, DFSI, Australia
+* Jeff Chen(陈长风), Software engineer , LongShine
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacheng Liu, Computer Science Student, Harbin Institute of Technology (Weihai)
@@ -223,6 +229,7 @@ Supported by / 支持者:
 * Kelly Wagman, Microsoft Research Assistant
 * Keyao Zhang, Senior Software Engineer, AppEx Networks
 * Knove, Software Engineer, Xiaomi
+* Kris Sun, Software Engineer, HangZhou，China
 * Kristen Sheets, Brandeis University Computer Science
 * Kuilin Xiang, Software Engineer, Juejin
 * Kunxiong Ling, Development Engineer, BMW Group
@@ -233,9 +240,11 @@ Supported by / 支持者:
 * Lei Yao, Game Programmer, DarkSun Studio
 * Lei Zhao, Computer Science Master Student, USC
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
+* Leo Wang, Cybersecurity, Hefei No.8 Senior High School International Department
 * Leon Leung, Web Front-end Senior Engineer, EKing Technolgy
 * Leon Sun, System Engineer, Amazon
 * Leoython Chou, Software Engineer, CloudMall
+* Le Qiang(强乐) ,Software Engineer
 * Leroy Wang, Student, University of Washington
 * Li Dian, Front-end Developer, Software Engineer Student
 * Li Qida, Student
@@ -243,6 +252,7 @@ Supported by / 支持者:
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Lang Qin, IC Verification Engineer, Globalfoundries
 * Liang Ding, Full-Time Open-Sourcerer, B3log
+* Liang He(何良), Software Engineer, Chengdu.China
 * Liang Wang, Architecture, Shenzhen, China
 * Liang Zhang,Software Engineer, HangZhou
 * Lin Zhang, Software Engineer II, Microsoft
@@ -253,8 +263,10 @@ Supported by / 支持者:
 * Liu Maoxu, Software Engineer, Amazon
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
+* Liu Yuyang Software Engineer, Guangzhou.China
 * Liz O’Sullivan, former head of annotations at Clarifai
 * Li Youyou, Ph.D. Candidate, China.
+* Li Yunpeng(李云鹏|李良逸), Android Engineer, NetEase
 * Logic, Software Engineer, RDS
 * Long Minghui, Golang Senior Programmer
 * Lowell Bander, Software Engineer, Facebook
@@ -289,6 +301,7 @@ Supported by / 支持者:
 * Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
 * Naomi Harrington, Program Manager, Microsoft
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+* NightEagle, Software Engineer & Software
 * Nisha Pillai, Software Engineer
 * Nnsinex, Front-end Developer
 * Noah Berman, Backend Engineer, WeTransfer
@@ -298,6 +311,7 @@ Supported by / 支持者:
 * Paul Leung, Network security Engineer, Labrusca Studio
 * Paulo Estraich, Backend Developer
 * Pavel Dubrova, Software Engineer, Freelancer
+* Peijie Zhao (赵培杰), Student
 * Pengli Liu, Software Engineer, Xi'an, China
 * Peoly, Software Engineer, EDU
 * Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
@@ -347,6 +361,7 @@ Supported by / 支持者:
 * Stephen Fong, Software Engineer, Student
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
 * Steven Hitchcock, Localization Tester, Microsoft
+* Sun Bojian, Software Engineer, Altran
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Swen Wang,Software Engineer, Shanghai.China
 * Thomas Corwin, Software Engineer, Freelancer
@@ -418,6 +433,7 @@ Supported by / 支持者:
 * Yihong Zhang, Student, University of Washington
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Yijie Deng, Student, University of Washington
+* Yin Kwan Lai, Software Developer, Manchester, UK
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Yin Xia, Student/Data Analyst, Shanghai Maritime University
 * Yixiang Yang, Student, University of Melbourne
@@ -437,9 +453,12 @@ Supported by / 支持者:
 * Zaijing Wang(王在京), Unity3d Game Client Developer, Jinggle Inc
 * ZedeX Zhao, Director of Product, PingAn Group
 * Zehao Chen(陈泽浩), Software Engineer, Enjoylife
+* Zeng Wei (曾伟), Student
+* Zenghuang Wang, Software Engineer, Guangzhou.China
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
+* Zhengshuai PENG, Software Engineer, Github User, Shanghai. China
 * Zhenwei Chen, Software Engineer
 * Zhicheng Huang(黄智程), College of Mobile Communications, Chongqing University of Posts and Telecommunications
 * Zhida Liu, Software Engineer, Enjoylife
