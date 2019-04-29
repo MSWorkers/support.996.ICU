@@ -427,6 +427,7 @@ Supported by / 支持者:
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhenwei Chen, Software Engineer
+* Zhicheng Huang(黄智程), College of Mobile Communications, Chongqing University of Posts and Telecommunications
 * Zhida Liu, Software Engineer, Enjoylife
 * Zhonghua Qiang, Software Engineer, Sofu
 * Zhong Wei (钟威), PhD Student at Rochester Institute of Technology
@@ -441,4 +442,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhicheng Huang(黄智程), College of Mobile Communications, Chongqing University of Posts and Telecommunications
+
