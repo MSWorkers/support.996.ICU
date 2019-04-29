@@ -434,6 +434,7 @@ Supported by / 支持者:
 * Zhou Quan, Software Engineer, SmartRecruiters
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
 * Zhou Quan, Software Engineer, SmartRecruiters
+* Zhou Zach, Software Engineer, Shanghai.China
 * Ziang Chen, Software Engineer
 * ZiHang Gao, Software Engineer, IReader
 * Zion Chen, Software Engineer, SAP
@@ -441,4 +442,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhou Zach, Software Engineer, Shanghai.China
