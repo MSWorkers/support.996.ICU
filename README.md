@@ -256,7 +256,6 @@ Supported by / 支持者:
 * Lowell Bander, Software Engineer, Facebook
 * Lu QiHao(陆 启豪), Software Engineer, Hangzhou Normal University
 * Luke Lin, Software Engineer
-* Lu QiHao(陆 启豪), Software Engineer, Hangzhou Normal University
 * Luo Qian, Software Engineer, Guangzhou
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Lyon Chen, Full Stack Developer
