@@ -439,6 +439,7 @@ Supported by / 支持者:
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhenwei Chen, Software Engineer
+* Zhicheng Huang(黄智程), College of Mobile Communications, Chongqing University of Posts and Telecommunications
 * Zhida Liu, Software Engineer, Enjoylife
 * Zhipeng Fu, PhD Candidate, Nanjing University
 * Zhonghua Qiang, Software Engineer, Sofu
