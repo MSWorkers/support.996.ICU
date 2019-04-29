@@ -408,7 +408,6 @@ Supported by / 支持者:
 * Yann Achard, Senior Software Engineer, Microsoft
 * Yao Yuan, AI Scientist, Pensees Ptd Ltd, Singapore
 * Yaoze Ye, Student
-* Yi Yang, product manager, Suning Corporation
 * Yi Yang, Product Manager, Suning Corporation
 * Yibo Wei, Mobile Developer, SAP
 * Yidan Mao(毛义丹), Software Engineer
@@ -418,6 +417,7 @@ Supported by / 支持者:
 * Yijie Deng, Student, University of Washington
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Yin Xia, Student/Data Analyst, Shanghai Maritime University
+* Yixiang Yang, Student, University of Melbourne
 * Yon Liu, Software Engineer, Wesoft
 * Yongbao Wang, Enginner, Suning
 * Yu Chen(陈宇), Software Engineer, Xique Life
