@@ -133,6 +133,7 @@ Supported by / 支持者:
 * Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
+* Eric Zhang, Front End Engineer, Shanghai
 * Erik Knechtel, Microsoft Contractor
 * Esteban Roncancio, Software Engineer, TripAdvisor
 * Fang Sixie, Software Engineer, CCI
