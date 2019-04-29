@@ -74,6 +74,7 @@ Supported by / 支持者:
 * Ashe Connor, Senior Software Engineer, GitHub
 * Ashly Hamilton, Program Manager, Microsoft
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
+* Bing Liu, Developer.
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Ben Tarnoff, Logic Editor
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
