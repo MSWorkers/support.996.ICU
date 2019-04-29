@@ -250,6 +250,7 @@ Supported by / 支持者:
 * Long Minghui, Golang Senior Programmer
 * Lowell Bander, Software Engineer, Facebook
 * Luke Lin, Software Engineer
+* Lu QiHao(陆 启豪), Software Engineer, Hangzhou Normal University
 * Luo Qian, Software Engineer, Guangzhou
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Lyon Chen, Full Stack Developer
