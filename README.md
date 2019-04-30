@@ -334,6 +334,7 @@ Supported by / 支持者:
 * Ryan(Zhenkun) Ou, Software Engineer
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
 * Satoshi Jek (Guangnan Jin), Student
+* Santosh Subbarao , Chief Architect, TipoTapp Inc.
 * Sean Gao, Senior Software Engineer
 * Sen Huang, Graduated Student, University of Wollongong
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
