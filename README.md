@@ -275,6 +275,7 @@ Supported by / 支持者:
 * Luo Qian, Software Engineer, Guangzhou
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Lyon Chen, Full Stack Developer
+* Mahmoud Habiballah, Software Engineer, Nazareth Israel
 * Mai Zhanrun, Software Engineer, Guangzhou.China
 * Marc Zhao, Software Engineer
 * Margox(Wang Gang), Software Engineer
