@@ -79,6 +79,8 @@ Supported by / 支持者:
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Benwei Zhu, Senior Software Engineer/Tech Lead, ThoughtWorks
 * Better Zhao, Software Engineer
+* Benjamin Li, auditer.
+* Bertram Liu, auditer.
 * Binghua Zhou, Amazon
 * Bing Liu, Developer.
 * Binary Wang (wangbin), Software Engineer
