@@ -186,6 +186,7 @@ Supported by / 支持者:
 * Jackie Koon, student, South China University of Technology
 * James Lord - Software Developer
 * James Turnbull, CTO-in-residence, Microsoft
+* Jamie Brandon, CallMiner
 * Jamie Zhang, Software Engineer, Google
 * Jared McFarland, Senior Infrastructure Engineer, GitHub
 * Jared Li(李公拯), M.S. in Computer Science, UC Davis
