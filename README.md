@@ -78,6 +78,8 @@ Supported by / 支持者:
 * Ben Tarnoff, Logic Editor
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Benwei Zhu, Senior Software Engineer/Tech Lead, ThoughtWorks
+* Benjamin Li, Auditer
+* Bertram Liu, Auditer
 * Better Zhao, Software Engineer
 * Binghua Zhou, Amazon
 * Bing Liu, Developer.
