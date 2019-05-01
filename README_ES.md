@@ -12,7 +12,7 @@ Animamos a Microsoft y GitHub a mantener el [repositorio 996.ICU de GitHub](http
 
 Firmado,
 
-__427 trabajadores tecnológicos*__
+__439 trabajadores tecnológicos*__
 
 A otros trabajadores tecnológicos y miembros de la industria, les animamos a unirse a nuestro apoyo al movimiento 996.ICU.
 
