@@ -341,6 +341,7 @@ Supported by / 支持者:
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
 * Ruibo Li, Software Developer, 51talk
 * Ryan(Zhenkun) Ou, Software Engineer
+* Sam Zhou, Software Engineer Intern, Facebook, Student at Cornell University
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
 * Satoshi Jek (Guangnan Jin), Student
 * Santosh Subbarao , Chief Architect, TipoTapp Inc.
