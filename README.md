@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__427 tech workers*__
+__439 tech workers*__
 
 签名，
 
-__427 名技术工作者*__
+__439 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -242,6 +242,7 @@ Supported by / 支持者:
 * Kevin Li, System Support Analyst, TSG, Auckland, New Zealand
 * Lang Qin, IC Verification Engineer, Globalfoundries
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
+* Lao Qixin, Shenzhen, Student
 * Le Zhang, Data Scientist, Microsoft
 * Lei Yao, Game Programmer, DarkSun Studio
 * Lei Zhao, Computer Science Master Student, USC
@@ -350,6 +351,7 @@ Supported by / 支持者:
 * Shangsharon(姜尚伟), Software Engineer
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Shaohua Huang, Software Engineer,Alibaba
+* ShaoPeng, Software Engineer, ChengDu China
 * Shaoqing Li, Front-End Engineer, China
 * Shen Lin, Front-End Developer, DHI China
 * Shengtao Li, Software Engineer, 66ifuel
