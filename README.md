@@ -245,6 +245,7 @@ Supported by / 支持者:
 * Knove, Software Engineer, Xiaomi
 * Kris Sun, Software Engineer, HangZhou，China
 * Kristen Sheets, Brandeis University Computer Science
+* Kui Wang(王揆), Software Engineer, Knowles
 * Kuilin Xiang, Software Engineer, Juejin
 * Kunxiong Ling, Development Engineer, BMW Group
 * Kevin Li, System Support Analyst, TSG, Auckland, New Zealand
