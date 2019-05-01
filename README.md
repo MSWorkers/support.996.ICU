@@ -422,6 +422,7 @@ Supported by / 支持者:
 * Xu Kai, postgraduate, China University of Geosciences
 * Xudong Cai, Software Engineer, VeryStar
 * XueKai(薛凯), Software Engineer, BeiJing.China
+* Xun Wang, PhD Student, Technische Universität Berlin
 * Xun Zhang, Designer and Web Developer, Github user
 * YaFeng Wu,Software Architect, HangZhou.China
 * Yamcer(Fan Yang), Software Engineer, Freelancer
