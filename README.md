@@ -112,6 +112,7 @@ Supported by / 支持者:
 * Chen Zizhuo, Customer Manager, China Construction Bank
 * ChenBing Wang, Undergraduate, Peking University
 * Chenglong Lu, QDaily
+* Chen Hailin（陈海林）, Software Engineer, Mojin Tech China
 * Cherrie Yu Cheng, Product Manager
 * ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
