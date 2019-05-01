@@ -104,6 +104,7 @@ Supported by / 支持者:
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Chuan Du, Software Engineer,HUAWEI, Xian.China
 * Chelsea Wang, Product Designer, Facebook
+* Chen Hailin, Student, Nanyang Technological University
 * Chen Jian, Network Engineer, Suzhou
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
