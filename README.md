@@ -456,6 +456,7 @@ Supported by / 支持者:
 * Yongbao Wang, Enginner, Suning
 * Yu Chen(陈宇), Software Engineer, Xique Life
 * Yu Fei(余斐), Software Engineer
+* Yu Ge (葛雨), Software Engineer, Jinan, Shandong
 * Yu Guanhua, Software Developer
 * Yu Li, Axinfu.Inc
 * Yu Li, Software Engineer, Shanghai DaoCloud Network Technology Co., Ltd.
