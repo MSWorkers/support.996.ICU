@@ -34,11 +34,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__446 tech workers*__
+__449 tech workers*__
 
 签名，
 
-__446 名技术工作者*__
+__449 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -111,6 +111,7 @@ Supported by / 支持者:
 * Chelsea Wang, Product Designer, Facebook
 * Chen Hailin, Student, Nanyang Technological University
 * Chen Jian, Network Engineer, Suzhou
+* Chen Kenan, ZhouShan Technician College 
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
@@ -466,6 +467,7 @@ Supported by / 支持者:
 * Yu Fei(余斐), Software Engineer
 * Yu Ge (葛雨), Software Engineer, Jinan, Shandong
 * Yu Guanhua, Software Developer
+* Yu Guanhua (于冠华), Software Engineer Student
 * Yu Li, Axinfu.Inc
 * Yu Li, Software Engineer, Shanghai DaoCloud Network Technology Co., Ltd.
 * Yuan Guo, Senior Software Engineer, App Annie
@@ -480,6 +482,7 @@ Supported by / 支持者:
 * Zeng Wei (曾伟), Student
 * Zenghuang Wang, Software Engineer, Guangzhou.China
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
+* Zhang Yiwang, Student
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhengshuai PENG, Software Engineer, Github User, Shanghai. China
