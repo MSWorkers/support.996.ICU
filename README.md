@@ -34,11 +34,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__444 tech workers*__
+__446 tech workers*__
 
 签名，
 
-__444 名技术工作者*__
+__446 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -226,6 +226,7 @@ Supported by / 支持者:
 * John Kordich, Software Engineer, Microsoft
 * Jonathan Ehrich, Microsoft
 * Jonathan Tomer, Software Engineer, Google
+* Jose Martinez, Software Engineer, Qualcomm
 * Josh McDuffie, Software Engineer, Constant Contact
 * Joshua Shao, Student, Rhode Island School of Design
 * J.S.Patrick,Front-end developer
