@@ -499,6 +499,7 @@ Supported by / 支持者:
 * Zhou Zach, Software Engineer, Shanghai.China
 * Ziang Chen, Software Engineer
 * ZiHang Gao, Software Engineer, IReader
+* ZiHong Jing, Software Engineer, freelancer,Beijing
 * Zion Chen, Software Engineer, SAP
 * Ziyi Li(李子毅), Student
 * Zixiang Wang, Student, Hefei University of Technology
