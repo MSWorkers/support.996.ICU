@@ -275,6 +275,7 @@ Supported by / 支持者:
 * Liang Zhang,Software Engineer, HangZhou
 * Lin Zhang, Software Engineer II, Microsoft
 * Ling Gaom, Microsoft Community Independent Advisor
+* Linkey Leo, Software Engineer, Resignation/Freelancer/Prospective Student
 * Lion Huang, Senior Software Engineer, Microsoft
 * Lion Zhao(zhaolion), Software Engineer
 * Lip Young(杨 征), Fontend Software Coder, Freelancer
