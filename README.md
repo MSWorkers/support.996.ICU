@@ -86,6 +86,7 @@ Supported by / 支持者:
 * Benjamin Li, Auditer
 * Bertram Liu, Auditer
 * Better Zhao, Software Engineer
+* Bin Xie, University of Georgia.
 * Binghua Zhou, Amazon
 * Bing Liu, Developer.
 * Binary Wang (wangbin), Software Engineer
