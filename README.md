@@ -390,6 +390,7 @@ Supported by / 支持者:
 * Swen Wang,Software Engineer, Shanghai.China
 * Thomas Corwin, Software Engineer, Freelancer
 * Tian Chen, Software Engineer,  ShenZhen, China.
+* Tianqi Zhu, Student
 * Tiange Luo, Student
 * Tiger Tang, Software Engineer, Student
 * Tim Johnson, Software Engineer, Target
