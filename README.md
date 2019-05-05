@@ -155,6 +155,7 @@ Supported by / 支持者:
 * Eric Zhang, Front End Engineer, Shanghai
 * Erik Knechtel, Microsoft Contractor
 * Esteban Roncancio, Software Engineer, TripAdvisor
+* Edmund Feng(冯良贤), Software Engineer, Wuhan.China
 * Fang Sixie, Software Engineer, CCI
 * FenghuiXu, Software Engineer, Microsoft
 * Fenghuan, Backend Engineer, Guangzhou.China
