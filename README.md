@@ -186,6 +186,7 @@ Supported by / 支持者:
 * Henghui Liu, Software Engineer
 * Hengyu Liu, Computer Science Student
 * Henry Hu, Software Engineer, Fabric Group
+* Herb (Chengbo He), Software Engineer
 * Hewie Mei, Software Engineer, Liepin
 * HongBo Du, Software Engineer, Freelancer
 * Hongyu Chen(陈泓予), Software Engineer
