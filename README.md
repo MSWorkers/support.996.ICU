@@ -147,6 +147,7 @@ Supported by / 支持者:
 * Duke (吴涛), Sunning
 * Duo Zhang (张铎), Data Scientist, Broentech Solutions AS, Norway
 * Duzy Chan, ExtBit Limited
+* Edmund Feng(冯良贤), Software Engineer, Wuhan.China
 * EINDEX Li, Software Engineer, Wuhan.China
 * Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
@@ -155,7 +156,6 @@ Supported by / 支持者:
 * Eric Zhang, Front End Engineer, Shanghai
 * Erik Knechtel, Microsoft Contractor
 * Esteban Roncancio, Software Engineer, TripAdvisor
-* Edmund Feng(冯良贤), Software Engineer, Wuhan.China
 * Fang Sixie, Software Engineer, CCI
 * FenghuiXu, Software Engineer, Microsoft
 * Fenghuan, Backend Engineer, Guangzhou.China
