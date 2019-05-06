@@ -287,6 +287,7 @@ Supported by / 支持者:
 * Liu Yuyang Software Engineer, Guangzhou.China
 * Liz O’Sullivan, former head of annotations at Clarifai
 * Li Youyou, Ph.D. Candidate, China.
+* Li YuJiang (李裕江), Software Developer, ChuanQingRen of GuiZhou (贵州穿青人), China
 * Li Yunpeng(李云鹏|李良逸), Android Engineer, NetEase
 * Logic, Software Engineer, RDS
 * Long Minghui, Golang Senior Programmer
@@ -510,4 +511,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* LiYuJiang (李裕江), Software Developer, ChuanQingRen of GuiZhou (贵州穿青人), China
