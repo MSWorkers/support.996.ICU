@@ -147,6 +147,7 @@ Supported by / 支持者:
 * Duke (吴涛), Sunning
 * Duo Zhang (张铎), Data Scientist, Broentech Solutions AS, Norway
 * Duzy Chan, ExtBit Limited
+* Edmund Feng(冯良贤), Software Engineer, Wuhan.China
 * EINDEX Li, Software Engineer, Wuhan.China
 * Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
