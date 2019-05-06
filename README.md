@@ -430,6 +430,7 @@ Supported by / 支持者:
 * Xiang Zheng, Software Engineer, ShenZhen
 * Xianli Si, Software Engineer, Belle International
 * XiaoKang Ji(冀小康), Software Engineer, hangzhou
+* Xiaomeng Huang, Front-End Engineer, BeiJing, China
 * Xiaowei Wang, Software engineer, Designer, UC Berkeley + Logic Magazine
 * Xihao Zhang, student from technical school
 * Xin Huang, Student
