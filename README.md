@@ -283,6 +283,7 @@ Supported by / 支持者:
 * Lion Zhao(zhaolion), Software Engineer
 * Lion Chen(chenliang),iOS Development Engineer,NewLand
 * Lip Young(杨 征), Fontend Software Coder, Freelancer
+* LiPing, Software Engineer, Chongqing plutusdog technology Co,. Ltd.
 * Liu Maoxu, Software Engineer, Amazon
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
@@ -514,4 +515,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* LiPing, Software Engineer, Chongqing plutusdog technology Co,. Ltd.
