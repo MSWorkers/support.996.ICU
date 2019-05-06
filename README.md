@@ -56,7 +56,6 @@ To add your name to the list of supporters, make a pull request with your name a
 Supported by / 支持者:
 ---
 
-* zj Wang, Software Engineer， Chinia Unicom, China
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
 * Aladdin(唯然), Software Engineer, Alibaba Inc. 
@@ -508,6 +507,7 @@ Supported by / 支持者:
 * Zion Chen, Software Engineer, SAP
 * Ziyi Li(李子毅), Student
 * Zixiang Wang, Student, Hefei University of Technology
+* ZJ Wang, Software Engineer， China Unicom, China
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
