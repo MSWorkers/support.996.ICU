@@ -281,6 +281,7 @@ Supported by / 支持者:
 * Linkey Leo, Software Engineer, Resignation/Freelancer/Prospective Student
 * Lion Huang, Senior Software Engineer, Microsoft
 * Lion Zhao(zhaolion), Software Engineer
+* Lion Chen(chenliang),iOS Development Engineer,NewLand
 * Lip Young(杨 征), Fontend Software Coder, Freelancer
 * Liu Maoxu, Software Engineer, Amazon
 * Liu Jun, Software Engineer, Guangbao-uni
