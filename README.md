@@ -250,6 +250,7 @@ Supported by / 支持者:
 * Ke Shen, Software Engineer, Google
 * Kelly Wagman, Microsoft Research Assistant
 * Keyao Zhang, Senior Software Engineer, AppEx Networks
+* Knightyui, Software Engineer, HUAWEI, Nanjing China
 * Knove, Software Engineer, Xiaomi
 * Kris Sun, Software Engineer, HangZhou，China
 * Kristen Sheets, Brandeis University Computer Science
