@@ -97,6 +97,7 @@ Supported by / 支持者:
 * Boy Liu, Software Engineer, JiNan
 * Bryan Hughes, Senior Cloud Advocate, Microsoft
 * Camille Malonzo, Software Engineer Microsoft
+* Carlo Federico Vescovo - Backend Developer @ VeeBor / Student
 * Casey Hong, Microsoft
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
 * Catherine Bui, Web designer, GitHub
