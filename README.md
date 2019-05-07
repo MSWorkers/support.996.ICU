@@ -9,7 +9,7 @@
 
 Tech workers in China started a GitHub repository titled [996.ICU](https://github.com/996icu/996.ICU), a reference to the grueling and illegal working hours of many tech companies in China - from 9am to 9pm, 6 days a week. "By following the '996' work schedule, you are risking yourself getting into the ICU (Intensive Care Unit)," says the 996.ICU GitHub project description. The project calls for Chinese tech companies to obey the labor laws in China and the international labor convention.
 
-中国的技术从业者正在利用 GitHub 吸引社会各界对中国科技行业中许多公司非法用工行为的关注。该 GitHub 项目被命名为 996.ICU，其中 996 代表了中国许多科技公司的工作时间——从上午 9 点到晚上 9 点，每周工作 6 天。996.ICU GitHub 项目描述称，“如果按照 996 的模式工作，那（你）以后就得进 ICU 了”。该项目旨在呼吁中国的科技公司遵守中国劳动法和国际劳工公约。
+中国的技术从业者正在利用 GitHub 吸引社会各界对中国科技行业中许多公司非法用工行为的关注。该 GitHub 项目被命名为 996.ICU，其中 996 代表了中国许多科技公司的工作时间——从上午 9 点到晚上 9 点，每周工作 6 天。996.ICU GitHub 项目描述称，“如果按照 996 的模式工作，那(你)以后就得进 ICU 了”。该项目旨在呼吁中国的科技公司遵守中国劳动法和国际劳工公约。
 
 This initiative has garnered massive support within China. GitHub users have been starring the repository as a way of showing their support. In the span of a few weeks, the project has been starred over 200,000 times, making it one of the fastest growing GitHub repositories in the service's history.
 
@@ -69,7 +69,7 @@ Supported by / 支持者:
 * Alexander Mancevice, Software Developer, CargoMetrics
 * Ali Atasever, CTO, Vivoo
 * Alice Lai, Applied Scientist, Microsoft
-* Allen Yang（杨淇), Computer Engineer, Student
+* Allen Yang(杨淇), Computer Engineer, Student
 * Alpha Chen (陈翀), Guangzhou taimei Internet technology co. LTD
 * Amber Erickson, Software Engineer, Microsoft
 * Amr Gaber, Software Engineer, Google
@@ -119,7 +119,7 @@ Supported by / 支持者:
 * Chen Zizhuo, Customer Manager, China Construction Bank
 * ChenBing Wang, Undergraduate, Peking University
 * Chenglong Lu, QDaily
-* Chen Hailin（陈海林）, Software Engineer, Mojin Tech China
+* Chen Hailin(陈海林), Software Engineer, Mojin Tech China
 * Cherrie Yu Cheng, Product Manager
 * ChiaKii Ryuu, Software Engineer, Group Of Otaku (Shenzhen) Inc.
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
