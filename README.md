@@ -500,6 +500,7 @@ Supported by / 支持者:
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhengshuai PENG, Software Engineer, Github User, Shanghai. China
+* Zhentao Tang, Software Engineer, Nanjing.China
 * Zhenwei Chen, Software Engineer
 * Zhicheng Huang(黄智程), College of Mobile Communications, Chongqing University of Posts and Telecommunications
 * Zhida Liu, Software Engineer, Enjoylife
@@ -521,4 +522,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhentao Tang, Software Engineer, Nanjing.China
