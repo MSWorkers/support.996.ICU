@@ -470,6 +470,7 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Yidan Mao(毛义丹), Software Engineer
 * Yifu Meng, Front-end Developer
+* Yihang Wang(王一航), Student/Cyber Security, Harbin Institute of Technology
 * Yihong Zhang, Student, University of Washington
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Yijie Deng, Student, University of Washington
