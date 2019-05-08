@@ -60,6 +60,7 @@ Supported by / 支持者:
 * Adina Shanholtz, Microsoft
 * Aladdin(唯然), Software Engineer, Alibaba Inc. 
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
+* Aldrich Xing (Jiaxing Xing), Software Develop Engineer, Student
 * Alec Tian (Zhongtian Tian), Software Enginner, Beijing China
 * Alejandro Piad, College Prof., AI Researcher, University of Havana, Cuba
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
