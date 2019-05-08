@@ -367,7 +367,8 @@ Supported by / 支持者:
 * Sam Zhou, Software Engineer Intern, Facebook, Student at Cornell University
 * Sangyu Li, Former MSDN Editor,Editor at Hubei Commitee of CCYL,Staff of Wuhan Railway Bureau
 * Satoshi Jek (Guangnan Jin), Student
-* Santosh Subbarao , Chief Architect, TipoTapp Inc.
+* Santosh Subbarao, Chief Architect, TipoTapp Inc.
+* Scott Chen, Software Engineer, Yidatec.com
 * Sean Gao, Senior Software Engineer
 * Sen Huang, Graduated Student, University of Wollongong
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
