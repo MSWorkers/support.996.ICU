@@ -282,6 +282,7 @@ Supported by / 支持者:
 * Liang He(何良), Software Engineer, Chengdu.China
 * Liang Wang, Architecture, Shenzhen, China
 * Liang Zhang,Software Engineer, HangZhou
+* Lilangyan He, Software Engineer, Infosys Ltd
 * Lin Zhang, Software Engineer II, Microsoft
 * Ling Gaom, Microsoft Community Independent Advisor
 * Linkey Leo, Software Engineer, Resignation/Freelancer/Prospective Student
@@ -526,4 +527,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Lilangyan He, software Engineer, Infosys Ltd
