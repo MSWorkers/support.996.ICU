@@ -233,6 +233,7 @@ Supported by / 支持者:
 * Jing Jing Cao, UX Designer, Anki
 * Jisheng Liang(梁基圣)，Student/Software Engineer
 * John Kordich, Software Engineer, Microsoft
+* John William Davis, Full Stack Developer
 * Jonathan Ehrich, Microsoft
 * Jonathan Tomer, Software Engineer, Google
 * Jose Martinez, Software Engineer, Qualcomm
