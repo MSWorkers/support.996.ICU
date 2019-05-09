@@ -349,6 +349,7 @@ Supported by / 支持者:
 * Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
 * Qi Liu, Software Engineer
 * Qiang Liu, Symbio
+* Qiang Niu, Senior Software Engineer, Yet Inc.
 * Qiang Zhang, levelDesigner
 * Qiang Zhang, Front End Engineer, YouShu
 * Qing Mu, Software Tester, NIO
