@@ -468,6 +468,7 @@ Supported by / 支持者:
 * Yaoze Ye, Student
 * Yi Yang, Product Manager, Suning Corporation
 * Yibo Wei, Mobile Developer, SAP
+* Yichen Lu(卢亦尘), Software Developer, Credit Suisse
 * Yidan Mao(毛义丹), Software Engineer
 * Yifu Meng, Front-end Developer
 * Yihang Wang(王一航), Student/Cyber Security, Harbin Institute of Technology
