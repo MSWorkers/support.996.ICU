@@ -388,6 +388,7 @@ Supported by / 支持者:
 * Shuirong Lin, Front-end Developer, Freelancer, Student
 * ShunLi Ren(任顺利), Development Manager, 君晟合众 Beijing Network Technology Co
 * Shuo Hua, R&D Engineer, Agrointelli
+* ShuQiao Zhang, Undergraduate, Peking University
 * Sian Lerk Lau, Software Engineer, Jewel Paymentech
 * Sidak Singh Aulakh, Student and Open-Source Developer, Chandigarh College of Engineering and Technology.
 * Simon Zhao, Data & Applied Scientist, Microsoft
