@@ -236,6 +236,7 @@ Supported by / 支持者:
 * John William Davis, Full Stack Developer
 * Jonathan Ehrich, Microsoft
 * Jonathan Tomer, Software Engineer, Google
+* Jonathan Reilly, Software Engineer, Sense
 * Jose Martinez, Software Engineer, Qualcomm
 * Josh McDuffie, Software Engineer, Constant Contact
 * Joshua Shao, Student, Rhode Island School of Design
