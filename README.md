@@ -410,6 +410,7 @@ Supported by / 支持者:
 * Tiange Luo, Student
 * Tiger Tang, Software Engineer, Student
 * Tim Johnson, Software Engineer, Target
+* Tim(tim-hub), Software Developer, PyPureCMS & BaaS
 * Tinyu Chiu(赵天雨), Student
 * Topher Weiss, Software Developer, Rational Interaction @ Microsoft
 * Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
