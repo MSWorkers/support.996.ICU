@@ -249,6 +249,7 @@ Supported by / 支持者:
 * JunSheng Wang, Software Developer, Giant
 * Kai Liu, Software Engineer, Beijing.China
 * Kangour, Software Engineer, Kunming
+* Kanstantsin Bucha, Software Engeneer, Viber
 * Kanzakiken, Software Engineer
 * Kangqi Wang(王康琦), Software Engineer, Wales
 * Kathy Wu, Product Designer, MIT Media Lab
