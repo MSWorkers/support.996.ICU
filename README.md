@@ -214,6 +214,7 @@ Supported by / 支持者:
 * Jasmine Xie, Front-end Engineer
 * Jason Jin (金凯)Computer Engineer,shanghai
 * Jason Prado, Ex-Microsoft Software Engineer 2008-2009
+* Jason Wang (wangshaokun) Software Automation Test Engineer
 * Jay He, Software Engineer, Smart Testing Ltd, New Zealand
 * Jeremy Gross, Sales Engineer, InterSystems
 * Jessica Paoli, Web designer, GitHub
