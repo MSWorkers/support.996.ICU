@@ -136,6 +136,7 @@ Supported by / 支持者:
 * Danni She, Software Engineer, Amazon
 * Danyang Zhang, Student, Tsinghua University
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
+* Daidai Yang, Developer, BeiJing.China
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
 * Ding Yuxiao, Student
 * Doan Pham Phu, Full-stack Web developer
