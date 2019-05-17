@@ -230,6 +230,7 @@ Supported by / 支持者:
 * Jiang Siyuan, Hunan University
 * Jiandong Shi, Developer, Nanjing, China
 * Jianzhao Liu, Front-End Engineer, Shanghai.China
+* Jiaqi Hu,Computer Science Student,Henan University of Science And Technology
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
@@ -412,6 +413,7 @@ Supported by / 支持者:
 * Sun Bojian, Software Engineer, Altran
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Swen Wang,Software Engineer, Shanghai.China
+* Taylor Huang (Tairan Huang), Software Engineer, Shanghai, China
 * Thomas Corwin, Software Engineer, Freelancer
 * Tian Chen, Software Engineer,  ShenZhen, China.
 * Tianqi Zhu, Student
