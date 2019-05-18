@@ -485,6 +485,7 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Yichen Lu(卢亦尘), Software Developer, Credit Suisse
 * Yidan Mao(毛义丹), Software Engineer
+* Yifei Fan, Student/TWT Developer
 * Yifu Meng, Front-end Developer
 * Yihang Wang(王一航), Student/Cyber Security, Harbin Institute of Technology
 * Yihong Zhang, Student, University of Washington
