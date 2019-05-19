@@ -108,6 +108,7 @@ Supported by / 支持者:
 * Chang Yan, Front End Engineer, Facebook
 * Chang Yan, Undergraduate, University of Washington 
 * Changfeng Chen, Software Engineer, LongShine
+* Changjun Shuai, Software Engineer, Chengdu
 * Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
