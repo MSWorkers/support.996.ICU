@@ -364,6 +364,7 @@ Supported by / 支持者:
 * Qiang Niu, Senior Software Engineer, Yet Inc.
 * Qiang Zhang, levelDesigner
 * Qiang Zhang, Front End Engineer, YouShu
+* Qiheng Lin, Student, Hangzhou
 * Qing Mu, Software Tester, NIO
 * Rachel Miller, Writer
 * Ranjan Pradeep, Software Engineer, Microsoft
