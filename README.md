@@ -328,6 +328,7 @@ Supported by / 支持者:
 * Martin Yin, Software Engineer
 * Mary L. Gray Senior Researcher Microsoft Research New England (Associate Professor School of Informatics, Computing, and Engineering Indiana University, Bloomington | Fellow Harvard University Berkman Klein Center for Internet and Society)
 * Massimiliano Del Maestro, Software-Engineer, Mantu
+* Mateus Gabi Moreira, Software Engineer, Eskolare
 * Matthew Wiegert, Economics from SUNY at Binghamton
 * Maverick Huang, student, hzwyjxy.com
 * Meng Xiang, Full Stack Engineer
