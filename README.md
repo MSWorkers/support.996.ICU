@@ -418,6 +418,7 @@ Supported by / 支持者:
 * Swen Wang,Software Engineer, Shanghai.China
 * Taylor Huang (Tairan Huang), Software Engineer, Shanghai, China
 * Thomas Corwin, Software Engineer, Freelancer
+* Thomas Liu, Software Engineer, SAP
 * Tian Chen, Software Engineer,  ShenZhen, China.
 * Tianqi Zhu, Student
 * Tiange Luo, Student
