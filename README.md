@@ -304,6 +304,7 @@ Supported by / 支持者:
 * Liu Maoxu, Software Engineer, Amazon
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
+* Liu Song, Senior Software Engineer, Alibaba Inc, Beijing, China
 * Liu Yuyang Software Engineer, Guangzhou.China
 * Liz O’Sullivan, former head of annotations at Clarifai
 * Li Youyou, Ph.D. Candidate, China.
