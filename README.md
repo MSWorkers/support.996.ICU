@@ -336,6 +336,7 @@ Supported by / 支持者:
 * Mengxi Yang, User Experience Designer, ThoughtWorks
 * Meng Xiang(项萌), Full Stack engineer
 * Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
+* Michael An, Software Engineer, Seafile
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
 * Miguel González-Fierro, Data Scientists, Microsoft
 * Mikayla Hutchinson, Software Engineer, Microsoft
