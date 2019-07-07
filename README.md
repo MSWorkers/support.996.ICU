@@ -312,6 +312,7 @@ Supported by / 支持者:
 * Li Yunpeng(李云鹏|李良逸), Android Engineer, NetEase
 * Logic, Software Engineer, RDS
 * Long Minghui, Golang Senior Programmer
+* Longfei Xia (夏龙飞)，Student, Nanjing University of Posts and Telecommunications
 * Lowell Bander, Software Engineer, Facebook
 * Lu QiHao(陆 启豪), Software Engineer, Hangzhou Normal University
 * Luke Lin, Software Engineer
