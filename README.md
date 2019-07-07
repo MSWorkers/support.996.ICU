@@ -509,6 +509,7 @@ Supported by / 支持者:
 * Yu Li, Axinfu.Inc
 * Yu Li, Software Engineer, Shanghai DaoCloud Network Technology Co., Ltd.
 * Yuan Guo, Senior Software Engineer, App Annie
+* Yuchao Zhou, Software Engineer, Microsoft
 * Yuchen Lei, Chief Engineer of Collegiate Programming Contest Association, China University of Geosciences
 * Yuchong Pan, Software Engineering Intern (x2), Microsoft, & Student, University of British Columbia
 * YuHao Tao (陶宇豪), Student
