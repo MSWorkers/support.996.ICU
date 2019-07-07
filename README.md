@@ -1,5 +1,6 @@
 ![Microsoft and GitHub Workers Support 996.ICU](https://repository-images.githubusercontent.com/182034748/6436e100-61af-11e9-9dc6-4cccaad40092)
 # Microsoft and GitHub Workers Support 996.ICU
+> Join Microsoft and GitHub workers to keep [996.ICU](https://github.com/996icu/996.ICU) accessible to all!
 # 微软员工和 GitHub 员工宣布支持 996.ICU 运动
 
 
