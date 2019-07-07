@@ -176,6 +176,7 @@ Supported by / 支持者:
 * Gangping Guo, Software Engineer, Hangzhou
 * Gao Xinyu, student of foreign language department from Yangtze University
 * Gregory Ellison, Data Scientist, Microsoft
+* Guanqun Mu (穆冠群), Undergraduate Student, Wuhan University, China
 * Guo Jian, Software Engineer, Mianyang, China
 * Guojun Wang(王国军), Software Engineer
 * Hal Daumé III, Principal Researcher, Microsoft Research
