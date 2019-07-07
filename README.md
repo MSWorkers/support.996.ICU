@@ -397,6 +397,7 @@ Supported by / 支持者:
 * Shaoqing Li, Front-End Engineer, China
 * Shen Lin, Front-End Developer, DHI China
 * Shengtao Li, Software Engineer, 66ifuel
+* Shengkai Guo, Software Engineer, China
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
 * Shevis Johnson, ML/AI Engineer, Digit
 * Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
