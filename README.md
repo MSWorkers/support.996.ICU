@@ -96,6 +96,7 @@ Supported by / 支持者:
 * Bofei Wang (王博飞), University of New South Wales, Sydney
 * Borja Canseco, Software Engineer, IBM
 * Boy Liu, Software Engineer, JiNan
+* Bo Zhang, Student, Uninversity of New South Wales
 * Bryan Hughes, Senior Cloud Advocate, Microsoft
 * Camille Malonzo, Software Engineer Microsoft
 * Carlo Federico Vescovo - Backend Developer @ VeeBor / Student
