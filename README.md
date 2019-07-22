@@ -346,8 +346,8 @@ Supported by / 支持者:
 * Mikayla Hutchinson, Software Engineer, Microsoft
 * Mike He, Undergraduate Researcher, University of Washington
 * Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
-* Minsoo Thigpen, Microsoft Program Manager
 * Mingyang Tong, Full-stack, TS Studio
+* Minsoo Thigpen, Microsoft Program Manager
 * Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
 * Naomi Harrington, Program Manager, Microsoft
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
