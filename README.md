@@ -307,6 +307,7 @@ Supported by / 支持者:
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
 * Liu Song, Senior Software Engineer, Alibaba Inc, Beijing, China
+* Liu Sheng, Student, Florida
 * Liu Yuyang Software Engineer, Guangzhou.China
 * Liz O’Sullivan, former head of annotations at Clarifai
 * Li Youyou, Ph.D. Candidate, China.
