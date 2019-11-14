@@ -155,6 +155,7 @@ Supported by / 支持者:
 * Duzy Chan, ExtBit Limited
 * Edmund Feng(冯良贤), Software Engineer, Wuhan.China
 * EINDEX Li, Software Engineer, Wuhan.China
+* Ellery Shen, Software Engineer, Microsoft
 * Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
 * Ercin Dedeoglu, Software Architect, Bilge Adam
