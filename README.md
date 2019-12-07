@@ -201,6 +201,7 @@ Supported by / 支持者:
 * Hongyu Chen(陈泓予), Software Engineer
 * Huajie Zhou, Student,Guangxi Normal University
 * Ikka(Dongxu Chen), Student, Shandong China
+* Integ Jiang(姜上), Guitarist, Victoria Canada
 * Irene Knapp, Senior Software Engineer, Google
 * İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
 * Ivan Wen, CUNY student
