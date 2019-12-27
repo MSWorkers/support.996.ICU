@@ -365,6 +365,7 @@ Supported by / 支持者:
 * Pengli Liu, Software Engineer, Xi'an, China
 * Peoly, Software Engineer, EDU
 * Phodal(Fengda Huang), Senior Software Engineer, ThoughtWorks
+* Puglisi Lemuel, Web developer, ItaliaHotspot 
 * Qi Liu, Software Engineer
 * Qiang Liu, Symbio
 * Qiang Niu, Senior Software Engineer, Yet Inc.
