@@ -79,6 +79,7 @@ Supported by / 支持者:
 * Armaan Handa, Computer Engineer, Student
 * Ashe Connor, Senior Software Engineer, GitHub
 * Ashly Hamilton, Program Manager, Microsoft
+* Amber Yang, Software Engineer
 * Bam Wang (Wang Zhu), Development Manager, VELTRA Inc.
 * Beck Qin, Software Engineer, eRealm Soft & Tech
 * Ben Tarnoff, Logic Editor
