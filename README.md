@@ -172,6 +172,7 @@ Supported by / 支持者:
 * Frey Tang(唐飞), Project Manager,UTILITY EMBLEM
 * Fruit Lee, Computer Science Master, ZJU
 * Gabriel Laroche, Front End Developer, Nurun inc
+* Gabriel Loewen, Software Engineer, Microsoft
 * Galvin Gao, Web Developer & AI Researcher, Student
 * Gangping Guo, Software Engineer, Hangzhou
 * Gao Xinyu, student of foreign language department from Yangtze University
