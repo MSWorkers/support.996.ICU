@@ -63,6 +63,7 @@ Supported by / 支持者:
 * Aldrich Xing (Jiaxing Xing), Software Develop Engineer, Student
 * Alec Tian (Zhongtian Tian), Software Enginner, Beijing China
 * Alejandro Piad, College Prof., AI Researcher, University of Havana, Cuba
+* Alessio Tudisco (LightDestory), Computer Science, University Student, Italy
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Alex Goldschmidt, Software Engineer, Microsoft
 * Alex Moores, Scala Developer, Northern Virginia
