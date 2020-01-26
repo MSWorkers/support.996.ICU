@@ -530,6 +530,7 @@ Supported by / 支持者:
 * Zenghuang Wang, Software Engineer, Guangzhou.China
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
 * Zhang Yiwang, Student
+* Zhang Xiao, Software Engineer
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhengshuai PENG, Software Engineer, Github User, Shanghai. China
