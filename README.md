@@ -528,6 +528,7 @@ Supported by / 支持者:
 * Zehao Chen(陈泽浩), Software Engineer, Enjoylife
 * Zeng Wei (曾伟), Student
 * Zenghuang Wang, Software Engineer, Guangzhou.China
+* Zequn Guan, Dalian Unuversity, Student
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
 * Zhang Yiwang, Student
 * ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
