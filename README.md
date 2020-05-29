@@ -225,6 +225,7 @@ Supported by / 支持者:
 * Jeff Liang, Software Development Engineer, Amazon Web Services
 * Jerry Chen, Senior Software Developer, DFSI, Australia
 * Jeff Chen(陈长风), Software engineer , LongShine
+* Jeffery Yu,Junior School Student , Nanchang , Jiangxi , China
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacheng Liu, Computer Science Student, Harbin Institute of Technology (Weihai)
