@@ -58,6 +58,7 @@ Supported by / 支持者:
 
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
+* Adler Chen (陈辉), Software Engineer
 * Aladdin(唯然), Software Engineer, Alibaba Inc. 
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
 * Aldrich Xing (Jiaxing Xing), Software Develop Engineer, Student
