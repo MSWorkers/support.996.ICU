@@ -444,6 +444,7 @@ Supported by / 支持者:
 * Victor Qi, iOS Engineer, NetEase
 * Vincent Lee, Software Engineer, Hikvision
 * Vivian Lim, Software Engineer, Microsoft
+* Wang Demao,student
 * Wang Fei, Software Developer and Tech writer
 * Wang Qun Feng, Senior Software Engineer, XTDE
 * WangYun, Senior Software Engineer, ThoughtWorks
