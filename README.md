@@ -141,6 +141,7 @@ Supported by / 支持者:
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
 * Ding Yuxiao, Student
 * Doan Pham Phu, Full-stack Web developer
+* Donny Yan(颜文俊), SofrWare Engineer
 * David Ding(丁鼎), Software Engineer, Student
 * David Meyerson, Software Engineer II, Microsoft
 * Dean Tambling, Software Engineer, GitHub
