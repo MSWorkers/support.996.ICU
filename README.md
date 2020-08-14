@@ -58,7 +58,7 @@ Supported by / 支持者:
 
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
-* Aladdin(唯然), Software Engineer, Alibaba Inc. 
+* Aladdin(唯然), Software Engineer, Alibaba Inc.
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
 * Aldrich Xing (Jiaxing Xing), Software Develop Engineer, Student
 * Alec Tian (Zhongtian Tian), Software Enginner, Beijing China
@@ -106,7 +106,7 @@ Supported by / 支持者:
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
 * Chang Yan, Front End Engineer, Facebook
-* Chang Yan, Undergraduate, University of Washington 
+* Chang Yan, Undergraduate, University of Washington
 * Changfeng Chen, Software Engineer, LongShine
 * Changjun Shuai, Software Engineer, Chengdu
 * Chao Tang(唐超), Software Engineer
@@ -116,7 +116,7 @@ Supported by / 支持者:
 * Chelsea Wang, Product Designer, Facebook
 * Chen Hailin, Student, Nanyang Technological University
 * Chen Jian, Network Engineer, Suzhou
-* Chen Kenan, ZhouShan Technician College 
+* Chen Kenan, ZhouShan Technician College
 * Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
@@ -379,7 +379,7 @@ Supported by / 支持者:
 * Robert Pupel, Software Engineer, Devs Group
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
 * Rocken Li(李嘉诚), Student
-* Rocky Martin, Data Analyst, Criteo 
+* Rocky Martin, Data Analyst, Criteo
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
 * Ruibo Li, Software Developer, 51talk
@@ -403,7 +403,7 @@ Supported by / 支持者:
 * Shen Lin, Front-End Developer, DHI China
 * Shengtao Li, Software Engineer, 66ifuel
 * Shengkai Guo, Software Engineer, China
-* Shengxuan Zhang, Student, China
+* Shengxuan Zhang, Student, Zhejiang, China
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
 * Shevis Johnson, ML/AI Engineer, Digit
 * Shuai Chang, Software Engineer, Business-intelligence Of Oriental Nations Corporation Ltd.
