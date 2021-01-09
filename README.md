@@ -508,6 +508,7 @@ Supported by / 支持者:
 * Yixiang Yang, Student, University of Melbourne
 * Yon Liu, Software Engineer, Wesoft
 * Yongbao Wang, Enginner, Suning
+* Youqi Su, Software Engineer, Chengdu, China, Student
 * Yu Chen(陈宇), Software Engineer, Xique Life
 * Yu Fei(余斐), Software Engineer
 * Yu Ge (葛雨), Software Engineer, Jinan, Shandong
