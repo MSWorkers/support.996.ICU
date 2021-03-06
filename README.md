@@ -236,6 +236,7 @@ Supported by / 支持者:
 * Jiaqi Hu,Computer Science Student,Henan University of Science And Technology
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
+* Jia Zhao, PC Software Engineer, ChangSha.China
 * Jie Wang, Maintenance, Hangzhou.China
 * Jing Jing Cao, UX Designer, Anki
 * Jisheng Liang(梁基圣)，Student/Software Engineer
