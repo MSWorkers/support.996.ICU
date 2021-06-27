@@ -347,6 +347,7 @@ Supported by / 支持者:
 * Mike He, Undergraduate Researcher, University of Washington
 * Minghang Su, FPGA Engineer, Shenzhen StateMicro Electronics Co.,Ltd.
 * Minsoo Thigpen, Microsoft Program Manager
+* Minseong Choi, S.Korea Student, LittleSkinCommspt,
 * Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
 * Naomi Harrington, Program Manager, Microsoft
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
