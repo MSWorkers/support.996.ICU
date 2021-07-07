@@ -133,6 +133,7 @@ Supported by / 支持者:
 * Chunli Lin, Undergraduate, Ningbo University of Technology
 * Chun Liu, Senior Consultant, Microsoft
 * Conan Zhou, Architect, NimbleDroid
+* Daniel Espinosa, Software Engineer, Microsoft
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
 * Danni She, Software Engineer, Amazon
 * Danyang Zhang, Student, Tsinghua University
