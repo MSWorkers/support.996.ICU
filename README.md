@@ -237,6 +237,7 @@ Supported by / 支持者:
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
+* Jinwei Han, Software Engineer, Linkedin, Bay Area
 * Jing Jing Cao, UX Designer, Anki
 * Jisheng Liang(梁基圣)，Student/Software Engineer
 * John Kordich, Software Engineer, Microsoft
