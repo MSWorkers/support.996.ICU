@@ -238,6 +238,7 @@ Supported by / 支持者:
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
 * Jing Jing Cao, UX Designer, Anki
+* Jinwei Han, Software Engineer, Linkedin, Bay Area
 * Jisheng Liang(梁基圣)，Student/Software Engineer
 * John Kordich, Software Engineer, Microsoft
 * John William Davis, Full Stack Developer
