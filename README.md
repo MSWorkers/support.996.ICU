@@ -248,6 +248,7 @@ Supported by / 支持者:
 * Jose Martinez, Software Engineer, Qualcomm
 * Josh McDuffie, Software Engineer, Constant Contact
 * Joshua Shao, Student, Rhode Island School of Design
+* Jovan Jiang Liu(刘江), Full-Stack Software Enginner, Xian, China
 * J.S.Patrick,Front-end developer
 * JS Tan, Software Engineer, Microsoft
 * Julie Mayer, Senior Privacy Manager, Microsoft
