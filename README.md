@@ -422,6 +422,7 @@ Supported by / 支持者:
 * Steven Hitchcock, Localization Tester, Microsoft
 * Sun Bojian, Software Engineer, Altran
 * Sun-ha Hong, assistant professor, Simon Fraser University
+* Sunset(余晖), Pythoner, Sunset Edu. & Tech. Group
 * Swen Wang,Software Engineer, Shanghai.China
 * Taylor Huang (Tairan Huang), Software Engineer, Shanghai, China
 * Thomas Corwin, Software Engineer, Freelancer
