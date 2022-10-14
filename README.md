@@ -376,6 +376,7 @@ Supported by / 支持者:
 * Ranjan Pradeep, Software Engineer, Microsoft
 * Rick Zhu, Software Engineer
 * Rico Liu, Front_End Developer, Qing Dao
+* RinLin(Li) Jiang, Student & Freedom Developer
 * Robert Pupel, Software Engineer, Devs Group
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
 * Rocken Li(李嘉诚), Student
