@@ -515,6 +515,7 @@ Supported by / 支持者:
 * Yu Guanhua (于冠华), Software Engineer Student
 * Yu Li, Axinfu.Inc
 * Yu Li, Software Engineer, Shanghai DaoCloud Network Technology Co., Ltd.
+* Yuan Gao(高远), Beijing Jiaotong University, Student
 * Yuan Guo, Senior Software Engineer, App Annie
 * Yuchao Zhou, Software Engineer, Microsoft
 * Yuchen Lei, Chief Engineer of Collegiate Programming Contest Association, China University of Geosciences
