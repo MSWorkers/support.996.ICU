@@ -433,6 +433,7 @@ Supported by / 支持者:
 * Tim Johnson, Software Engineer, Target
 * Tim(tim-hub), Software Developer, PyPureCMS & BaaS
 * Tinyu Chiu(赵天雨), Student
+* Tianyi Wang, Student
 * Topher Weiss, Software Developer, Rational Interaction @ Microsoft
 * Trista, Chenzhen Chaoyue Technology Development Co.,Ltd.
 * Tsing Tian(田庆), Software Engineer, YanTai.China
