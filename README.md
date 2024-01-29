@@ -413,6 +413,7 @@ Supported by / 支持者:
 * Sian Lerk Lau, Software Engineer, Jewel Paymentech
 * Sidak Singh Aulakh, Student and Open-Source Developer, Chandigarh College of Engineering and Technology.
 * Simon Zhao, Data & Applied Scientist, Microsoft
+* Síle Ekaterin Liszka, Computer Science teacher with TEALS, Core Team at Adélie Linux Project, APK Fission project lead.
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
 * Song Xiaofei(宋晓飞), Pythoner
 * Songwen Ding(丁松文), Software Engineer, Bytedance
